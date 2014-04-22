@@ -13,7 +13,6 @@ PRODUCT_PACKAGES += \
     LiveWallpapersPicker \
     VisualizationWallpapers \
     PhotoTable \
-    VoiceDialer \
     SoundRecorder
 
 # PRODUCT_PACKAGES += \
