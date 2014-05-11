@@ -234,15 +234,11 @@ ifneq ($(TARGET_BUILD_VARIANT),user)
 PRODUCT_PACKAGES += \
     procmem \
     procrank \
-#    Superuser \
-#    su
 
 # Terminal Emulator
 PRODUCT_COPY_FILES +=  \
     vendor/cm/proprietary/Term.apk:system/app/Term.apk \
     vendor/cm/proprietary/lib/armeabi/libjackpal-androidterm4.so:system/lib/libjackpal-androidterm4.so \
-    vendor/cm/prebuilt/common/lib/libjni_latinime.so:system/lib/libjni_latinime.so \
-    vendor/cm/prebuilt/common/app/LatinIME.apk:system/app/LatinIME.apk
 
 PRODUCT_PROPERTY_OVERRIDES += \
     persist.sys.root_access=1
