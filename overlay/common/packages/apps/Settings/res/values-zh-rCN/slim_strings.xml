@@ -276,6 +276,7 @@
     <string name="shortcut_action_ring_vib">铃声/振动</string>
     <string name="shortcut_action_ring_silent">铃声/静音</string>
     <string name="shortcut_action_ring_vib_silent">铃声/振动/静音</string>
+    <string name="shortcut_action_mobiledata">移动数据</string>
     <string name="shortcut_action_longpress">长按:</string>
     <string name="shortcut_action_select_action_longpress">选择长按键动作:</string>
     <string name="shortcut_action_select_action">选择动作:</string>
@@ -726,11 +727,14 @@
     <string name="title_tile_memory">手机容量</string>
     <string name="title_tile_onthego">透视模式</string>
     <string name="title_tile_batterysaver">省电模式</string>
+    <string name="title_tile_cpufreq">CPU 调频</string>
+    <string name="title_tile_weather">天气</string>
     <string name="dynamic_tile_ime_switcher">输入法切换</string>
     <string name="dynamic_tile_usb_tether">USB网络分享</string>
     <string name="dynamic_tile_alarm">闹钟</string>
     <string name="dynamic_tile_bugreport">错误报告</string>
     <string name="dynamic_tiles_title">动态磁贴</string>
+    <string name="dynamic_tile_equalizer">均衡器</string>
     <string name="tiles_reset_message">重置磁贴风格及内容到初始设置?</string>
     <string name="disable_qs">禁用快速设置</string>
     <string name="disable_qs_message">所有磁贴已删除.快速设置已禁用\n\n如希望重新引导请新增一个磁贴.</string>
@@ -817,9 +821,10 @@
     <string name="title_tile_contact">常用联络人</string>
     <string name="custom_tile_dialog_text">自定义磁贴单击切换状态，长按则执行开关内容。新增一个动作新增磁贴开关状态. 每次点击切换开关状态. 长按增加长按动作. 没有设置单击动作则以长按替换</string>
     <string name="custom_tile_dialog_title">自定义磁贴</string>
-    <string name="custom_toggle_extras">Custom tile extras</string>
+    <string name="custom_toggle_extras">自定义磁贴进阶设定</string>
     <string name="custom_toggle_collapse_check">收起下拉通知栏</string>
     <string name="custom_toggle_match_state_check">动作配合图示</string>
+    <string name="custom_toggle_double_click_check">双击切换到上一个开关</string>
     <string name="custom_tile_long_press">长按:</string>
     <string name="custom_tile_null_warning">请先设置动作</string>
 

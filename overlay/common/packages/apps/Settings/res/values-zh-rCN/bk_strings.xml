@@ -1382,4 +1382,22 @@ PA版本是全屏助手，简洁美观的方式在全屏模式中提供基本按
     <string name="peek_pickup_45s">45 秒</string>
     <string name="peek_pickup_60s">1 分钟</string>
     <string name="peek_pickup_120s">2 分钟</string>
+
+    <!-- Statusbar Second Clock -->
+    <string name="clock_use_second">显示秒数</string>
+    <string name="clock_use_second_summary">时钟加入秒数显示</string>
+
+    <!-- Contextual header -->
+    <string name="custom_statusbar_header_title">通知栏文头背景</string>
+    <string name="custom_statusbar_header_summary">按时节改变背景图片</string>
+
+    <!-- HALO floating mode -->
+    <string name="floating_mode_title">悬浮视窗模式</string>
+    <string name="floating_mode_summary">Halo 模式中把通知内容用悬浮视窗打开</string>
+
+    <!--Custom Weather icon for weather tile
+    <string name="weather_tile_icon_title">天气图示包</string>
+    <string name="weather_tile_icon_summary">选择磁贴中使用的图示包</string>
+    <string name="weather_tile_icon_color">彩色(默认)</string>
+    <string name="weather_tile_icon_mono">黑白</string>-->
 </resources>

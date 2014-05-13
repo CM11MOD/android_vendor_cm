@@ -118,4 +118,9 @@
 
     <!-- label for item that takes On-The-Go in the phone options dialog -->
     <string name="global_action_onthego">透視模式</string>
+
+    <!-- label for item that toggle mobile data -->
+    <string name="global_actions_toggle_mobile_data">移動數據</string>
+    <string name="global_actions_mobile_data_on_status">移動數據連接已開啟</string>
+    <string name="global_actions_mobile_data_off_status">移動數據連接已關閉</string>
 </resources>

@@ -167,6 +167,9 @@
     <string name="quick_settings_camera_label">快拍</string>
     <string name="quick_settings_camera_error_connect">無法連接相機</string>
     <string name="quick_settings_internal_memory">內存容量</string>
+    <string name="quick_settings_equalizer">均衡器</string>
+    <string name="cpufreq_max">CPU 最高速度</string>
+    <string name="cpufreq_min">CPU 最低速度</string>
 
     <!-- Power widget -->
     <string name="powerwidget_screen_timeout_toast">屏幕超时设为: %1$d %2$s</string>
@@ -266,4 +269,62 @@
     <string name="location_mode_battery_saving_title">節約耗電量</string>
     <string name="location_mode_sensors_only_title">僅限裝置</string>
     <string name="location_mode_location_off_title">關閉定位</string>
+
+    <!-- Weather tile panel String -->
+    <string name="need_to_update_weather">點擊更新</string>
+    <string name="no_weather_file">找不到天氣資料</string>
+    <string name="weather_notify">通佑</string>
+    <string name="weather_ok">確定</string>
+    <string name="weather_link">捷徑</string>
+    <string name="weather_dialog_msg">你的裝置沒有啟動鎖屏時鐘天氣面板插件或同步相關信息文件\n請打開插件並設定天氣面板</string>
+
+    <!-- Weather - Weather codes -->
+    <string name="weather_0">龍卷風</string>
+    <string name="weather_1">熱帶風暴</string>
+    <string name="weather_2">颶風</string>
+    <string name="weather_3">強雷暴</string>
+    <string name="weather_4">雷暴</string>
+    <string name="weather_5">雨夾雪</string>
+    <string name="weather_6">混合雨和凍雨</string>
+    <string name="weather_7">混合雪和凍雨</string>
+    <string name="weather_8">凍毛毛雨</string>
+    <string name="weather_9">毛毛雨</string>
+    <string name="weather_10">冰雨</string>
+    <string name="weather_11">陣雨</string>
+    <string name="weather_12">陣雨</string>
+    <string name="weather_13">飄雪</string>
+    <string name="weather_14">小雪</string>
+    <string name="weather_15">吹雪</string>
+    <string name="weather_16">雪</string>
+    <string name="weather_17">冰雹</string>
+    <string name="weather_18">凍雨</string>
+    <string name="weather_19">沙塵</string>
+    <string name="weather_20">多霧</string>
+    <string name="weather_21">陰霾</string>
+    <string name="weather_22">煙霧</string>
+    <string name="weather_23">強風</string>
+    <string name="weather_24">大風</string>
+    <string name="weather_25">冷</string>
+    <string name="weather_26">多雲</string>
+    <string name="weather_27">大部多雲</string> <!-- Night -->
+    <string name="weather_28">大部多雲</string> <!-- Day -->
+    <string name="weather_29">部分多雲</string> <!-- Night -->
+    <string name="weather_30">部分多雲</string> <!-- Day -->
+    <string name="weather_31">晴天</string> <!-- Night -->
+    <string name="weather_32">晴天</string>
+    <string name="weather_33">晴天積雲</string> <!-- Night -->
+    <string name="weather_34">晴天積雲</string> <!-- Day -->
+    <string name="weather_35">雨夾冰雹</string>
+    <string name="weather_36">熱</string>
+    <string name="weather_37">局部雷暴雨</string>
+    <string name="weather_38">局部雷雨</string>
+    <string name="weather_39">局部雷雨</string>
+    <string name="weather_40">零星陣雨</string>
+    <string name="weather_41">大雪</string>
+    <string name="weather_42">零星陣雪</string>
+    <string name="weather_43">大雪</string>
+    <string name="weather_44">晴間多雲</string>
+    <string name="weather_45">雷陣雨</string>
+    <string name="weather_46">陣雪</string>
+    <string name="weather_47">局部雷陣雨</string>
 </resources>

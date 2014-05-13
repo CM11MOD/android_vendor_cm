@@ -276,6 +276,7 @@
     <string name="shortcut_action_ring_vib">鈴聲/振動</string>
     <string name="shortcut_action_ring_silent">鈴聲/靜音</string>
     <string name="shortcut_action_ring_vib_silent">鈴聲/振動/靜音</string>
+    <string name="shortcut_action_mobiledata">移動數據</string>
     <string name="shortcut_action_longpress">長按:</string>
     <string name="shortcut_action_select_action_longpress">選擇長按鍵動作:</string>
     <string name="shortcut_action_select_action">選擇動作:</string>
@@ -726,10 +727,13 @@
     <string name="title_tile_memory">手機容量</string>
     <string name="title_tile_onthego">透視模式</string>
     <string name="title_tile_batterysaver">省電模式</string>
+    <string name="title_tile_cpufreq">CPU 調頻</string>
+    <string name="title_tile_weather">天氣</string>
     <string name="dynamic_tile_ime_switcher">輸入法切換</string>
     <string name="dynamic_tile_usb_tether">USB網絡分享</string>
     <string name="dynamic_tile_alarm">鬧鐘</string>
     <string name="dynamic_tile_bugreport">錯誤報告</string>
+    <string name="dynamic_tile_equalizer">均衡器</string>
     <string name="dynamic_tiles_title">動態磁貼</string>
     <string name="tiles_reset_message">重置磁貼風格及內容到初始設定?</string>
     <string name="disable_qs">禁用快速設定</string>
@@ -817,9 +821,10 @@
     <string name="title_tile_contact">常用聯絡人</string>
     <string name="custom_tile_dialog_text">自定義磁貼單擊切換狀態，長按則執行開關內容。新增一個動作新增磁貼開關狀態. 每次點擊切換開關狀態. 長按增加長按動作. 沒有設定單擊動作則以長按替代</string>
     <string name="custom_tile_dialog_title">自定義磁貼</string>
-    <string name="custom_toggle_extras">Custom tile extras</string>
+    <string name="custom_toggle_extras">自定義磁貼進階設定</string>
     <string name="custom_toggle_collapse_check">收起下拉通知欄</string>
     <string name="custom_toggle_match_state_check">動作配合圖示</string>
+    <string name="custom_toggle_double_click_check">雙擊切換到上一個開關</string>
     <string name="custom_tile_long_press">長按:</string>
     <string name="custom_tile_null_warning">請先設定動作</string>
 
