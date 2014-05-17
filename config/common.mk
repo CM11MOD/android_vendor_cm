@@ -124,11 +124,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/cm/config/permissions/com.cyanogenmod.android.xml:system/etc/permissions/com.cyanogenmod.android.xml
 
-# Xposed Framework!
-PRODUCT_COPY_FILES += \
-    vendor/cm/prebuilt/common/app/appsetting.apk:system/app/appsetting.apk \
-    vendor/cm/prebuilt/common/app/xposed_installer.apk:system/app/xposed_installer.apk \
-
 # Install persistence support
 PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/common/bin/persist.sh:install/bin/persist.sh \
