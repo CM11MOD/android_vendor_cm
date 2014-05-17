@@ -71,4 +71,10 @@
     <string name="speeddial_undefined_summary">長按進行修改</string>
 
     <string name="nearby_places">附近地點</string>
+
+    <string name="call_log_incoming_title">來電</string>
+    <string name="call_log_outgoing_title">撥出</string>
+    <string name="recentIncoming_empty">沒有任何來電通話記錄.</string>
+    <string name="recentOutgoing_empty">沒有任何撥出通話記錄.</string>
+
 </resources>
