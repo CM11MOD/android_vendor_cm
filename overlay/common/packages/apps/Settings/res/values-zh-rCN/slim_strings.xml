@@ -735,6 +735,7 @@
     <string name="dynamic_tile_bugreport">错误报告</string>
     <string name="dynamic_tiles_title">动态磁贴</string>
     <string name="dynamic_tile_equalizer">均衡器</string>
+    <string name="dynamic_tile_screencast">投射屏幕</string>
     <string name="tiles_reset_message">重置磁贴风格及内容到初始设置?</string>
     <string name="disable_qs">禁用快速设置</string>
     <string name="disable_qs_message">所有磁贴已删除.快速设置已禁用\n\n如希望重新引导请新增一个磁贴.</string>
@@ -942,15 +943,38 @@
     <string name="recent_panel_expanded_mode_always">永远展开</string>
     <string name="recent_panel_expanded_mode_never">永不</string>
 
+    <!-- Shake Events -->
+    <string name="shake_events_title">摇晃手势</string>
+    <string name="title_tile_shake">摇晃手势</string>
+    <string name="shake_events_enabled_title">启用摇晃手势</string>
+    <string name="shake_events_normal_title">使用摇晃手势</string>
+    <string name="shake_events_disabled_title">禁用程序</string>
+    <string name="shake_events_disabled_summary">在选定程序中禁用摇晃手势</string>
+    <string name="shake_event_x_title">水平摇晃时触发程序</string>
+    <string name="shake_event_y_title">纵向摇晃时触发程序</string>
+    <string name="shake_event_z_title">前后摇晃时触发程序</string>
+    <string name="shortcut_action_help_app">程序</string>
+
     <!-- Shake to secure -->
-    <string name="shake_to_secure_title">摇动锁</string>
+    <string name="shake_to_secure_title">摇晃锁</string>
     <string name="shake_to_secure_summary">锁屏显示时摇动手机才会套用安全设置</string>
     <string name="shake_to_secure_dlg_title">警告:</string>
-    <string name="shake_to_secure_dlg_message">除非您在锁屏时候摇动手机或摇动锁逾时值，否则手机不会上锁.(解锁后会重置初始状态)</string>
-    <string name="shake_secure_timeout_title">摇动锁逾时值</string>
+    <string name="shake_to_secure_dlg_message">除非您在锁屏时候摇动手机或摇动锁超时值，否则手机不会上锁.(解锁后会重置初始状态)</string>
+    <string name="shake_secure_timeout_title">摇动锁超时值</string>
     <string name="shake_secure_timeout_disabled">永不</string>
     <string name="shake_secure_timeout_1min">1 分钟后自动锁上</string>
     <string name="shake_secure_timeout_5min">5 分钟后自动锁上</string>
     <string name="shake_secure_timeout_10min">10 分钟后自动锁上</string>
     <string name="shake_secure_timeout_30min">30 分钟后自动锁上</string>
+    <string name="shortcut_action_keyguard_camera">锁屏相机</string>
+    <string name="shake_all">任意摇晃</string>
+    <string name="shake_horizontal">水平摇晃</string>
+    <string name="shake_vertical">纵向摇晃</string>
+    <string name="shake_back_forth">前后摇晃</string>
+
+    <!-- Shake sensitivity -->
+    <string name="shake_sensitivity_title">摇晃手势敏感度</string>
+    <string name="shake_sensitivity_summary">设置全局摇晃手势敏感度</string>
+    <string name="shake_sensitivity_less_sensitive">低敏感度</string>
+    <string name="shake_sensitivity_more_sensitive">高敏感度</string>
 </resources>

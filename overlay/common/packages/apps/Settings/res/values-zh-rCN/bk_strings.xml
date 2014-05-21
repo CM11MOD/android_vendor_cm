@@ -308,54 +308,51 @@
     <string name="brightness_slider_summary">启用后，可在状态栏上滑动改变屏幕亮度. 注意: 启用自动亮度时这设置将无效</string>
 
     <!-- Density Changer -->
-    <!--<string name="custom_density_title">自定义屏幕分辨率</string>
-    <string name="custom_density">自定</string>
+    <string name="custom_density_title">自定义屏幕分辨率</string>
     <string name="set_custom_density_title">自定分辨率</string>
     <string name="set_custom_density_set">设置</string>
-    <string name="reboot_now">动启</string>
-    <string name="dialog_reboot_title">重启?</string>
-    <string name="dialog_reboot_summary">你必须重启套用新设置</string>
-    <string name="custom_density_summary_invalid">数值无效!</string>
-    <string name="dpi">DPI</string>
-    <string name="current_lcd_density">当前数值:</string>-->
+    <string name="current_density">"当前数值: "</string>
+    <string name="new_density">"新数值: "</string>
+    <string name="density_change_warning">注意: 改变分辨率会关闭所有程序!</string>
 
-    <!-- LCD Density -->
+    <!-- LCD Density
     <string name="dpi">DPI</string>
     <string name="su_dialog_error_title">警告</string>
     <string name="su_dialog_error_message">错误.\n\n请检查您的机器是否已经取得root权限.</string>
-    <string name="lcd_density_title">自订屏幕像素密度</string>
+    <string name="lcd_density_title">自定屏幕像素密度</string>
     <string name="lcd_density_summary">未知</string>
-    <string name="current_lcd_density">"目前像素密度: "</string>
+    <string name="current_lcd_density">"当前像素密度: "</string>
     <string name="lcd_density_wizard">像素密度向导</string>
-    <string name="stock_density_title">重置像素密度为预设值</string>
+    <string name="stock_density_title">重置像素密度为缺省值</string>
     <string name="stock_density_summary">一般情况下,平板和旧手机使用160.大部分手机多使用240. Galaxy Nexus/小米手机2使用320.</string>
-    <string name="stock_density_changed_summary">"像素密度设定为: "</string>
+    <string name="stock_density_changed_summary">"像素密度设置为: "</string>
     <string name="reboot_title">点我重启!</string>
-    <string name="reboot_summary">重启后记得再到这里完成剩余的步骤!</string>
-    <string name="clear_market_data_title">清除所有相关市场资料.</string>
-    <string name="clear_market_data_summary">本步骤将会移除Play商店服务以及Google服务框架等应用的资料.</string>
-    <string name="clear_market_data_cleared">资料清空成功</string>
+    <string name="reboot_summary">重启后记得再到这里完成剩下的步骤!</string>
+    <string name="clear_market_data_title">清除所有相关市场数据.</string>
+    <string name="clear_market_data_summary">本步骤将会删除Play商店服务以及Google服务框架等应用的数据.</string>
+    <string name="clear_market_data_cleared">数据清空成功</string>
     <string name="reboot_cleardata_title">再点我重启!</string>
     <string name="reboot_cleardata_summary">重启后记得再回到这哦!</string>
-    <string name="open_market_title">点我开启Play商店等待一小会并点击接受</string>
+    <string name="open_market_title">点我打开Play商店等待一小会并点击接受</string>
     <string name="open_market_summary">完成后按返回键回到这里.</string>
-    <string name="open_market_summary_could_not_open">"无法开启Play商店！如果装载了，请手动从上管理系统开启."</string>
-    <string name="custom_density_title">随意设定你的像素密度吧!</string>
-    <string name="custom_density_summary">如果Play商店出现了相容性问题，一定要回到这里，并重复以上步骤</string>
+    <string name="open_market_summary_could_not_open">"不能打开Play商店！如果安装了，请手动从上管理系统打开."</string>
+    <string name="custom_density_title">随意设置你的像素密度吧!</string>
+    <string name="custom_density_summary">如果Play商店出现了兼容性问题，一定要回到这里，并重复以上步骤</string>
     <string name="custom_density_summary_invalid">"无效的密度!"</string>
-    <string name="custom_density">自订</string>
-    <string name="set_custom_density_title">设定自订密度</string>
-    <string name="set_custom_density_set">设定</string>
+    <string name="custom_density">自定</string>
+    <string name="set_custom_density_title">设置自定密度</string>
+    <string name="set_custom_density_set">设置</string>
     <string name="custom_density_dialog_title">"警告!"</string>
-    <string name="custom_density_dialog_summary">"变更您的液晶密度可能会导致应用发生意外情况。若Play商店下载的应用出现不相容的现象，请回到这里，并再做一遍这些步骤"</string>
+    <string name="custom_density_dialog_summary">"更改您的液晶密度可能会导致应用发生意外情况。若Play商店下载的应用出现不兼容的现象，请回到这里，并再做一遍这些步骤"</string>
     <string name="custom_density_dialog_button_got">收到!</string>
-    <string name="custom_density_dialog_button_reboot">设定并重启</string>
+    <string name="custom_density_dialog_button_reboot">设置并重启</string> -->
 
-    <!-- LCD Density Warning -->
+    <!-- LCD Density Warning
     <string name="lcd_warning_title">LCD 液晶密度</string>
-    <string name="lcd_warning">您的PLAY商店程序支持其他密度，你确定吗?</string>
+    <string name="lcd_warning">您的PLAY商店程序支持其它密度，你确定吗?</string>
     <string name="lcd_warning_yes">是，继续</string>
-    <string name="lcd_warning_no">否，停止</string>
+    <string name="lcd_warning_no">否，停止</string> -->
+
     <!-- MediaScanner behavior on boot -->
     <string name="media_scanner_on_boot_title">引导时媒体扫描器行为</string>
     <string name="media_scanner_on_boot_enabled">扫描媒体</string>
@@ -952,9 +949,11 @@ PA版本是全屏助手，简洁美观的方式在全屏模式中提供基本按
     <string name="xposed_framework_modules_title">框架与模组</string>
     <string name="xposed_framework_modules_summary">Xposed 框架，请先点击安装!</string>
     <string name="xposed_per_app_title">软件自定义配置</string>
-    <string name="xposed_per_app__summary">自定义 DPI, UI 布局及更多深化设定</string>
+    <string name="xposed_per_app_summary">自定义 DPI, UI 布局及更多深化设定</string>
     <string name="xposed_warning_title">警告:</string>
     <string name="xposed_warning_summary">这些模组可能会对装置性能造成损害,请小心使用!</string>
+    <string name="appsetting_not_installed_title">警告!</string>
+    <string name="appsetting_not_installed_message">系统没有发现 Per App Settings, 请先安装软件!</string>
 
     <!-- Hosts File Manager -->
     <string name="hosts_title">Hosts 文件管理员</string>
@@ -1092,6 +1091,7 @@ PA版本是全屏助手，简洁美观的方式在全屏模式中提供基本按
     <string name="app_circle_bar_included_apps_summary">选择您的显示软件清单</string>
 
     <!-- Battery saver mode -->
+    <string name="data_usage_enable_batterysaver">省电模式</string>
     <string name="unit_sec">秒</string>
     <string name="network_lte">LTE (推荐)</string>
     <string name="network_4G">4G (推荐)</string>
@@ -1375,13 +1375,19 @@ PA版本是全屏助手，简洁美观的方式在全屏模式中提供基本按
 
     <!--Notification Peek-->
     <string name="notification_peek_title">Peek 锁屏通知</string>
-    <string name="notification_peek_summary">从口袋拿出装置时候显示未读通知</string>
-    <string name="peek_pickup_timeout_title">Peek 感应器逾时值</string>
+    <string name="notification_peek_summary">从口袋拿出设备时候显示未读通知</string>
+    <string name="peek_pickup_timeout_title">Peek 传感器超时值</string>
     <string name="peek_pickup_10s">10 秒 (默认)</string>
     <string name="peek_pickup_30s">30 秒</string>
     <string name="peek_pickup_45s">45 秒</string>
     <string name="peek_pickup_60s">1 分钟</string>
     <string name="peek_pickup_120s">2 分钟</string>
+    <string name="peek_wake_timeout_title">自定义 Peek 通知显示时间</string>
+    <string name="peek_wake_3seconds">3 秒</string>
+    <string name="peek_wake_5seconds">5 秒 (默认)</string>
+    <string name="peek_wake_10seconds">10 秒</string>
+    <string name="peek_wake_20seconds">20 秒</string>
+    <string name="peek_wake_30seconds">30 秒</string>
 
     <!-- Statusbar Second Clock -->
     <string name="clock_use_second">显示秒数</string>
@@ -1400,4 +1406,10 @@ PA版本是全屏助手，简洁美观的方式在全屏模式中提供基本按
     <string name="weather_tile_icon_summary">选择磁贴中使用的图示包</string>
     <string name="weather_tile_icon_color">彩色(默认)</string>
     <string name="weather_tile_icon_mono">黑白</string>-->
+
+    <!-- Quick ribbon -->
+    <string name="quick_settings_ribbon_title">磁贴彩带模式</string>
+    <string name="quick_settings_ribbon_summary">显示横向磁贴工具彩带模式</string>
+    <string name="quick_settings_label_title">显示说明文字</string>
+    <string name="quick_settings_label_summary">在磁贴彩带下方显示标签</string>
 </resources>

@@ -310,18 +310,14 @@
     <string name="brightness_slider_summary">啟用後，可在狀態欄上滑動改變屏幕亮度. 注意: 啟用自動亮度時這設置將無效</string>
 
     <!-- Density Changer -->
-    <!--<string name="custom_density_title">自定義屏幕解析度</string>
-    <string name="custom_density">自訂</string>
+    <string name="custom_density_title">自定義屏幕解析度</string>
     <string name="set_custom_density_title">自訂解析度</string>
     <string name="set_custom_density_set">設置</string>
-    <string name="reboot_now">動啟</string>
-    <string name="dialog_reboot_title">重啟?</string>
-    <string name="dialog_reboot_summary">你必須重啟套用新設定</string>
-    <string name="custom_density_summary_invalid">"數值無效!"</string>
-    <string name="dpi">DPI</string>
-    <string name="current_lcd_density">"目前數值: "</string>-->
+    <string name="current_density">"目前數值: "</string>
+    <string name="new_density">"新數值: "</string>
+    <string name="density_change_warning">注意: 改變解析度會關閉所有程序!</string>
 
-    <!-- LCD Density -->
+    <!-- LCD Density
     <string name="dpi">DPI</string>
     <string name="su_dialog_error_title">警告</string>
     <string name="su_dialog_error_message">錯誤.\n\n請檢查您的機器是否已經取得root權限.</string>
@@ -351,13 +347,13 @@
     <string name="custom_density_dialog_title">"警告!"</string>
     <string name="custom_density_dialog_summary">"變更您的液晶密度可能會導致應用發生意外情況。若Play商店下載的應用出現不相容的現象，請回到這裡，并再做一遍這些步驟"</string>
     <string name="custom_density_dialog_button_got">收到!</string>
-    <string name="custom_density_dialog_button_reboot">設定并重啟</string>
+    <string name="custom_density_dialog_button_reboot">設定并重啟</string> -->
 
-    <!-- LCD Density Warning -->
+    <!-- LCD Density Warning
     <string name="lcd_warning_title">LCD 液晶密度</string>
     <string name="lcd_warning">您的PLAY商店程序支持其他密度，你確定嗎?</string>
     <string name="lcd_warning_yes">是，繼續</string>
-    <string name="lcd_warning_no">否，停止</string>
+    <string name="lcd_warning_no">否，停止</string> -->
 
     <!-- Shortcut picker -->
     <string name="use_custom_app_title">使用自訂應用</string>
@@ -963,9 +959,11 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="xposed_framework_modules_title">框架與模組</string>
     <string name="xposed_framework_modules_summary">Xposed 框架，請先點擊安裝!</string>
     <string name="xposed_per_app_title">軟件自定義配置</string>
-    <string name="xposed_per_app__summary">自定義 DPI, UI 佈局及更多深化設定</string>
+    <string name="xposed_per_app_summary">自定義 DPI, UI 佈局及更多深化設定</string>
     <string name="xposed_warning_title">警告:</string>
     <string name="xposed_warning_summary">這些模組可能會對裝置性能造成損害,請小心使用!</string>
+    <string name="appsetting_not_installed_title">警告!</string>
+    <string name="appsetting_not_installed_message">系統沒有發現 Per App Settings, 請先安裝軟件!</string>
 
     <!-- Hosts File Manager -->
     <string name="hosts_title">Hosts 文件管理員</string>
@@ -1103,6 +1101,7 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="app_circle_bar_included_apps_summary">選擇您的顯示軟件清單</string>
 
     <!-- Battery saver mode -->
+    <string name="data_usage_enable_batterysaver">省電模式</string>
     <string name="unit_sec">秒</string>
     <string name="network_lte">LTE (建議)</string>
     <string name="network_4G">4G (建議)</string>
@@ -1393,6 +1392,12 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="peek_pickup_45s">45 秒</string>
     <string name="peek_pickup_60s">1 分鐘</string>
     <string name="peek_pickup_120s">2 分鐘</string>
+    <string name="peek_wake_timeout_title">自定義 Peek 通知顯示時間</string>
+    <string name="peek_wake_3seconds">3 秒</string>
+    <string name="peek_wake_5seconds">5 秒 (默認)</string>
+    <string name="peek_wake_10seconds">10 秒</string>
+    <string name="peek_wake_20seconds">20 秒</string>
+    <string name="peek_wake_30seconds">30 秒</string>
 
     <!-- Statusbar Second Clock -->
     <string name="clock_use_second">顯示秒數</string>
@@ -1411,4 +1416,10 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="weather_tile_icon_summary">選擇磁貼中使用的圖示包</string>
     <string name="weather_tile_icon_color">彩色(默認)</string>
     <string name="weather_tile_icon_mono">黑白</string>-->
+
+    <!-- Quick ribbon -->
+    <string name="quick_settings_ribbon_title">磁貼彩帶模式</string>
+    <string name="quick_settings_ribbon_summary">顯示橫向磁貼工具彩帶模式</string>
+    <string name="quick_settings_label_title">顯示說明文字</string>
+    <string name="quick_settings_label_summary">在磁貼彩帶下方顯示標籤</string>
 </resources>

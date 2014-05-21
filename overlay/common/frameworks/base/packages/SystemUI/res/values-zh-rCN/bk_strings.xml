@@ -186,6 +186,9 @@
     <string name="quick_settings_quick_record_play">播放中...</string>
     <string name="quick_settings_fcharge">USB快充</string>
     <string name="quick_settings_internal_memory">内存容量</string>
+    <string name="shortcut_shakeevent">摇晃手势</string>
+    <string name="quick_settings_shakeevents">摇晃手势</string>
+    <string name="quick_settings_shakeevents_off">摇晃手势关闭</string>
 
     <string name="pie_date_format">yyyy MMM dd日, ccc</string>
 
