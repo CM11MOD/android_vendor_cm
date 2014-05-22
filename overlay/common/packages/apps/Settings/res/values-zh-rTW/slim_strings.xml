@@ -638,6 +638,9 @@
 
     <!-- Lockscreen widget settings -->
     <string name="lockscreen_widgets_title">小工具</string>
+    <string name="lockscreen_allow_all_title">准許使用任何小工具</string>
+    <string name="lockscreen_allow_all_summary">允許其他非預定軟件小工具在鎖屏中使用</string>
+    <string name="lockscreen_allow_all_warning">並非所有小工具都預定在鎖屏中加入，其中部份更可能帶來曝露您個人私隱信息的風險.請小心使用!</string>
     <string name="lockscreen_camera_widget_title">開啟相機小工具</string>
     <string name="lockscreen_camera_widget_summary">在鎖定屏幕上顯示安全攝像頭部件</string>
     <string name="lockscreen_maximize_widgets_title">最大化</string>

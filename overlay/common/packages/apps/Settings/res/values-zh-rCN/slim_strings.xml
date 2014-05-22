@@ -626,7 +626,7 @@
     <string name="lockscreen_colorize_handle_summary">锁头图案将以自定义色彩著色</string>
     <string name="lockscreen_style_title">主题风格</string>
     <string name="lockscreen_frame_color_title">轮廓颜色</string>
-    <string name="lockscreen_frame_color_summary">小工具及解锁框著色</string>
+    <string name="lockscreen_frame_color_summary">小部件及解锁框著色</string>
     <string name="lockscreen_lock_color_title">锁图示色彩</string>
     <string name="lockscreen_lock_color_summary">锁拖把色彩</string>
     <string name="lockscreen_dots_color_title">PIN矩阵点色彩</string>
@@ -637,17 +637,20 @@
     <string name="lockscreen_misc_color_summary">其他项目内容色彩</string>
 
     <!-- Lockscreen widget settings -->
-    <string name="lockscreen_widgets_title">小工具</string>
-    <string name="lockscreen_camera_widget_title">打开相机小工具</string>
+    <string name="lockscreen_widgets_title">小部件</string>
+    <string name="lockscreen_allow_all_title">准许使用任何小工具</string>
+    <string name="lockscreen_allow_all_summary">允许其它非预定软件小工具在锁屏中使用</string>
+    <string name="lockscreen_allow_all_warning">并非所有小工具都预定在锁屏中加入，其中部份更可能带来曝露您个人私隐信息的风险.请小心使用!</string>
+    <string name="lockscreen_camera_widget_title">打开相机小部件</string>
     <string name="lockscreen_camera_widget_summary">在锁定屏幕上显示安全摄像头部件</string>
     <string name="lockscreen_maximize_widgets_title">最大化</string>
     <string name="lockscreen_maximize_widgets_summary">屏幕打开时最大化/全屏显示部件</string>
     <string name="lockscreen_disable_hints_title">禁用可用性显示</string>
-    <string name="lockscreen_disable_hints_summary">禁用锁屏小工具周围的光圈</string>
+    <string name="lockscreen_disable_hints_summary">禁用锁屏小部件周围的光圈</string>
     <string name="lockscreen_use_widget_container_carousel_title">立体锁屏动画</string>
     <string name="lockscreen_use_widget_container_carousel_summary">在锁屏页面间切换时使用立体的锁屏动画</string>
     <string name="lockscreen_widget_frame_title">隐藏轮廓</string>
-    <string name="lockscreen_widget_frame_summary">隐藏小工具背轮廓线</string>
+    <string name="lockscreen_widget_frame_summary">隐藏小部件背轮廓线</string>
 
     <string name="lock_numpad_random_title">PIN键盘洗牌排序</string>
     <string name="lock_numpad_random_dialog_title">PIN键盘洗牌随机数方式排序</string>
@@ -690,8 +693,8 @@
     <!-- Quick Settings -->
     <string name="quick_settings_title">快速设置</string>
     <string name="tile_picker_title">磁贴布局</string>
-    <string name="tile_picker_summary">查看，选择或改变显示小工具的布局</string>
-    <string name="tile_choose_title">选择一个小工具</string>
+    <string name="tile_picker_summary">查看，选择或改变显示小部件的布局</string>
+    <string name="tile_choose_title">选择一个小部件</string>
     <string name="title_tile_airplane">飞航模式</string>
     <string name="title_tile_battery">电池状态</string>
     <string name="title_tile_bluetooth">蓝牙</string>
@@ -745,10 +748,10 @@
     <string name="quicksettings_tiles_style">磁贴/快速设定风格</string>
     <string name="summary_quicksettings_tiles_style">改变磁贴快速设置风格</string>
     <string name="quicksettings_tiles_style_additional_options">附加选项</string>
-    <string name="tiles_per_row_title">每行小工具数量</string>
+    <string name="tiles_per_row_title">每行小部件数量</string>
     <string name="tiles_per_row_duplicate_landscape_title">横屏模式</string>
     <string name="tiles_per_row_duplicate_landscape_summary">横屏时每行显示双倍数量</string>
-    <string name="quick_tiles_bg_color_title">小工具后台色</string>
+    <string name="quick_tiles_bg_color_title">小部件后台色</string>
     <string name="quick_tiles_bg_pressed_color_title">按下时后台色</string>
     <string name="quick_tiles_text_color_title">字档色彩</string>
     <string name="quick_tiles_alpha_title">磁贴后台透明度</string>
