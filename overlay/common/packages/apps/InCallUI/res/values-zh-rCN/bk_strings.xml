@@ -25,4 +25,9 @@
     <string name="nearby_places">附近地点</string>
     <string name="people">附近人物</string>
 
+    <!-- Description label for answering a call on speakerphone -->
+    <string name="description_target_speaker">使用扩音模式回答</string>
+
+    <!-- Description of the down direction in which one can to slide the handle in the phone answer screen. [CHAR LIMIT=NONE] -->
+    <string name="description_direction_down">下滑动作设置为 <xliff:g id="target_description" example="Unlock">%s</xliff:g>.</string>
 </resources>
