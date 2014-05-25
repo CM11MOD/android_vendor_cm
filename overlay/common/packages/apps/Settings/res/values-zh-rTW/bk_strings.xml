@@ -20,19 +20,19 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- BK STRINGS-->
-    <string name="chronus_title">鎖屏天氣設定</string>
+    <string name="chronus_title">鎖定畫面天氣設定</string>
     <string name="misc_short">其他</string>
     <string name="title_ui">使用者界面</string>
-    <string name="lockscreen_settings_title">鎖屏</string>
+    <string name="lockscreen_settings_title">鎖定畫面</string>
     <string name="power_menu_expanded_desktop">全屏模式</string>
     <string name="kernel_tweaker_title">性能調校</string>
 
     <!-- Active Display -->
-    <string name="ad_settings_title">鎖屏動態通知</string>
-    <string name="ad_settings_summary">改變鎖屏動態通知設置</string>
+    <string name="ad_settings_title">鎖定畫面動態通知</string>
+    <string name="ad_settings_summary">改變鎖定畫面動態通知設置</string>
     <string name="ad_enable_title">啟用</string>
-    <string name="ad_enable_summary_on">鎖屏動態通知已啟用</string>
-    <string name="ad_enable_summary_off">鎖屏動態通知已關閉</string>
+    <string name="ad_enable_summary_on">鎖定畫面動態通知已啟用</string>
+    <string name="ad_enable_summary_off">鎖定畫面動態通知已關閉</string>
     <string name="ad_text_title">通知文字</string>
     <string name="ad_text_summary">圍繞圓環顯示通知文字.</string>
     <string name="ad_all_notifications_title">全部通知</string>
@@ -45,7 +45,7 @@
     <string name="ad_sunlight_mode_summary">在強烈日照或環境光下改用高亮色彩顯示.</string>
     <string name="ad_redisplay_title">定時重復顯示通知內容</string>
     <string name="ad_customizations_title">自定義設置</string>
-    <string name="ad_excluded_apps_title">鎖屏動態通知:黑名單</string>
+    <string name="ad_excluded_apps_title">鎖定畫面動態通知:黑名單</string>
     <string name="ad_excluded_apps_summary">選擇那些不要顯示軟件的提示.</string>
     <string name="ad_brightness_title">提示屏幕亮度</string>
     <string name="ad_brightness_summary">沒有設置自動屏幕亮度時候顯示的亮度</string>
@@ -81,11 +81,11 @@
 
     <!-- Omni Mod : Active Display-->
     <string name="ad_content_title">使用自定義通知風格</string>
-    <string name="ad_content_summary">使用鎖屏動態通知提示風格取代系統風格顯示通知提示內容</string>
-    <string name="ad_pocket_mode_notifications">鎖屏動態通知 (僅於新通知)</string>
-    <string name="ad_pocket_mode_always">鎖屏動態通知 (永遠使用)</string>
-    <string name="ad_bypass_title">跳過鎖屏動態通知</string>
-    <string name="ad_bypass_summary">當設定了鎖屏安全設定，將直接跳過鎖屏動態通知畫面</string>
+    <string name="ad_content_summary">使用鎖定畫面動態通知提示風格取代系統風格顯示通知提示內容</string>
+    <string name="ad_pocket_mode_notifications">鎖定畫面動態通知 (僅於新通知)</string>
+    <string name="ad_pocket_mode_always">鎖定畫面動態通知 (永遠使用)</string>
+    <string name="ad_bypass_title">跳過鎖定畫面動態通知</string>
+    <string name="ad_bypass_summary">當設定了鎖定畫面安全設定，將直接跳過鎖定畫面動態通知畫面</string>
     <string name="ad_privacy_apps_title">私隱模式程式清單</string>
     <string name="ad_privacy_apps_summary">清單中程式將不會顯示任何提示</string>
     <string name="ad_threshold_summary">距離傳感器必須先被覆蓋一段時間才會才進入口袋模式</string>
@@ -383,7 +383,7 @@
 
     <string name="more_device_controls_title">狀置設定</string>
     <string name="more_device_settings_title">狀置設定</string>
-    <!--<string name="security_settings_title">鎖屏及安全設定</string>-->
+    <!--<string name="security_settings_title">鎖定畫面及安全設定</string>-->
 
     <!-- Swipe Back Layout -->
     <string name="title_swipe_back_layout">滑動返回手勢</string>
@@ -450,8 +450,8 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="pie_killtask_summary">在PIE上新增啟用一鍵清除任務鍵</string>
     <string name="pie_actnotif_title">顯示通知欄鍵</string>
     <string name="pie_actnotif_summary">在PIE上新增啟用通知欄鍵</string>
-    <string name="pie_actqs_title">顯示磁貼快捷欄鍵</string>
-    <string name="pie_actqs_summary">在PIE上新增磁貼快捷欄鍵</string>
+    <string name="pie_actqs_title">顯示磁磚快捷欄鍵</string>
+    <string name="pie_actqs_summary">在PIE上新增磁磚快捷欄鍵</string>
     <string name="pie_appwindow_title">顯示程序列表鍵</string>
     <string name="pie_appwindow_summary">PIE上新增啟用程序列表鍵</string>
     <string name="pie_screenshot_title">顯示截屏鍵</string>
@@ -463,7 +463,7 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="pie_restart_launcher_title">重新載入啟動器</string>
     <string name="pie_restart_launcher_summary">啟動全屏模式時候桌面重新載入啟動器. </string>
     <string name="pie_notifications_title">啟用外側滑動手勢目標</string>
-    <string name="pie_notifications_summary">向外滑出動作可觸發下拉通知欄或磁貼快捷欄</string>
+    <string name="pie_notifications_summary">向外滑出動作可觸發下拉通知欄或磁磚快捷欄</string>
 
     <!-- Pie Color Settings -->
     <string name="pie_color_title">PIE面版自定義顏色</string>
@@ -495,7 +495,7 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="pie_trigger_huge">大</string>
 
     <string name="lockscreen_music_controls_title">顯示媒體控制鍵</string>
-    <string name="lockscreen_music_controls_summary">播放音樂時在鎖屏顯示媒體空制鍵</string>
+    <string name="lockscreen_music_controls_summary">播放音樂時在鎖定畫面顯示媒體空制鍵</string>
 
     <string name="data_usage_cycle_editor_subtitle">統計週期開始日:</string>
     <string name="data_usage_lengths_spinner_subtitle">統計長度:</string>
@@ -555,9 +555,9 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="layout">風格</string>
     <string name="privacy">私隱</string>
 
-    <string name="Lockscreen_notifications_header">鎖屏通知</string>
-    <string name="lockscreen_notifications">鎖屏通知</string>
-    <string name="lockscreen_notifications_summary">顯示在鎖屏待處理的通知</string>
+    <string name="Lockscreen_notifications_header">鎖定畫面通知</string>
+    <string name="lockscreen_notifications">鎖定畫面通知</string>
+    <string name="lockscreen_notifications_summary">顯示在鎖定畫面待處理的通知</string>
     <string name="pocket_mode">口袋模式</string>
     <string name="notification_color">背景顏色</string>
     <string name="pocket_mode_summary">從口袋拿出來時顯示所有通知，放回口袋中自動關屏.</string>
@@ -575,7 +575,7 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="force_expanded_view_summary">默認以強制方式展開. 您仍可以在一般或展開顯示模式中間切換.</string>
     <string name="wake_on_notification">喚醒屏幕</string>
     <string name="wake_on_notification_summary">新通知出現時喚醒屏幕</string>
-    <string name="wake_on_notification_disable">套用動態鎖屏的亮屏喚醒逾時值</string>
+    <string name="wake_on_notification_disable">套用動態鎖定畫面的亮屏喚醒逾時值</string>
     <string name="notifications_height">通知數計</string>
     <string name="notifications_height_summary">顯示通知數計</string>
     <string name="offset_top">屏幕頂部偏移:</string>
@@ -583,8 +583,8 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="privacy_mode_summary">隱藏所有通知內容，只顯示通知圖示.</string>
     <string name="dynamic_width">動態寬度</string>
     <string name="dynamic_width_summary">按通知內容調整寬度</string>
-    <string name="excluded_apps_title">鎖屏通知:黑名單</string>
-    <string name="excluded_apps_summary">選擇禁用鎖屏通知清單</string>
+    <string name="excluded_apps_title">鎖定畫面通知:黑名單</string>
+    <string name="excluded_apps_summary">選擇禁用鎖定畫面通知清單</string>
     <string name="excluded_apps_category">黑名單</string>
 
     <!-- Weather 天氣 -->
@@ -775,19 +775,19 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="battery_bar_centered">置中對齊</string>
 
     <!--Lockscreen blur-->
-    <string name="lockscreen_background_title">鎖屏背景風格</string>
+    <string name="lockscreen_background_title">鎖定畫面背景風格</string>
     <string name="blur_behind_title">背景模糊化</string>
-    <string name="blur_behind_summary">鎖屏背景用模煳化透明效果處理</string>
+    <string name="blur_behind_summary">鎖定畫面背景用模煳化透明效果處理</string>
     <string name="blur_radius_title">模糊化半徑</string>
     <string name="blur_radius_summary">設定模糊化效果半徑</string>
 
     <!-- Lock screen see through -->
     <string name="see_through_title">背景透明</string>
-    <string name="see_through_summary">鎖屏背景透明，顯示當前主頁.</string>
+    <string name="see_through_summary">鎖定畫面背景透明，顯示當前主頁.</string>
 
     <!-- Allow rotation -->
-    <string name="allow_rotate_title">鎖屏旋轉</string>
-    <string name="allow_rotate_summary">允許鎖屏跟隨旋轉顯示.</string>
+    <string name="allow_rotate_title">鎖定畫面旋轉</string>
+    <string name="allow_rotate_summary">允許鎖定畫面跟隨旋轉顯示.</string>
 
     <!-- Sound settings screen, setting check box label -->
     <string name="camera_sounds_title">相機快門音</string>
@@ -892,7 +892,7 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="pie_action_kill">一鍵清除任務</string>
     <string name="pie_action_power">關閉屏幕</string>
     <string name="pie_action_notifications">通知欄</string>
-    <string name="pie_action_quicksettings">磁貼開關</string>
+    <string name="pie_action_quicksettings">磁磚開關</string>
     <string name="pie_action_widgets">小工具視窗</string>
     <string name="pie_action_expanded">全屏開關</string>
     <string name="pie_action_none">空</string>
@@ -912,24 +912,24 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <!-- Active Notifications -->
     <string name="general">一般</string>
     <string name="privacy">私隱設定</string>
-    <string name="ad_enable_summary">使用MotoX鎖屏動態通知</string>
+    <string name="ad_enable_summary">使用MotoX鎖定畫面動態通知</string>
     <string name="additional_settings_title">其他設定</string>
     <string name="active_quiet_hours_title">免打擾時段規則</string>
     <string name="active_quiet_hours_summary">遵守免打擾時段規則</string>
-    <string name="Lockscreen_notifications_header">鎖屏動態通知</string>
-    <string name="lockscreen_notifications">鎖屏動態通知</string>
-    <string name="lockscreen_notifications_title">鎖屏通知</string>
-    <string name="lock_summary">於鎖屏顯示互動通知</string>
-    <string name="lockscreen_notifications_allowed_summary">准許顯示鎖屏通知事項</string>
-    <string name="lockscreen_notifications_switch_toast">請於安全性設定中准許執行鎖屏通知</string>
-    <string name="lockscreen_notifications_summary">鎖屏及關屏設定</string>
-    <string name="lockscreen_notifications_dialog_title">鎖屏已設定安全措施!</string>
-    <string name="lockscreen_notifications_dialog_message">警告!鎖屏已設定安全保護，請禁用私隱模式.</string>
+    <string name="Lockscreen_notifications_header">鎖定畫面動態通知</string>
+    <string name="lockscreen_notifications">鎖定畫面動態通知</string>
+    <string name="lockscreen_notifications_title">鎖定畫面通知</string>
+    <string name="lock_summary">於鎖定畫面顯示互動通知</string>
+    <string name="lockscreen_notifications_allowed_summary">准許顯示鎖定畫面通知事項</string>
+    <string name="lockscreen_notifications_switch_toast">請於安全性設定中准許執行鎖定畫面通知</string>
+    <string name="lockscreen_notifications_summary">鎖定畫面及關屏設定</string>
+    <string name="lockscreen_notifications_dialog_title">鎖定畫面已設定安全措施!</string>
+    <string name="lockscreen_notifications_dialog_message">警告!鎖定畫面已設定安全保護，請禁用私隱模式.</string>
     <string name="pocket_mode_title">口袋模式</string>
     <string name="pocket_mode_summary">利用感應器在口袋拿出裝置時自動亮屏並顯示通知事項.</string>
     <string name="pocket_mode_off">關閉</string>
-    <string name="pocket_mode_lockscreen">套用到鎖屏通知</string>
-    <string name="pocket_mode_active">套用到鎖屏動態通知</string>
+    <string name="pocket_mode_lockscreen">套用到鎖定畫面通知</string>
+    <string name="pocket_mode_active">套用到鎖定畫面動態通知</string>
 
     <!--Lockscreen DoubleTap to Sleep -->
     <string name="lockscreen_doubletap_sleep_title">雙擊關屏</string>
@@ -1005,7 +1005,7 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
 
     <!-- ADB Paranoia settings -->
     <string name="adb_paranoid">ADB 防護模式</string>
-    <string name="adb_paranoid_summary">鎖屏時如果跟未知電腦連接立即重啟</string>
+    <string name="adb_paranoid_summary">鎖定畫面時如果跟未知電腦連接立即重啟</string>
 
     <!-- EdgeGesture service -->
     <string name="edge_gesture_service_title">阻斷觸控手勢事件</string>
@@ -1040,8 +1040,8 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="identicons_style_dotmatrix">點陣</string>
 
     <!-- Lockscreen background -->
-    <string name="lockscreen_background">鎖屏壁紙</string>
-    <string name="lockscreen_background_style_title">自定義鎖屏壁紙</string>
+    <string name="lockscreen_background">鎖定畫面壁紙</string>
+    <string name="lockscreen_background_style_title">自定義鎖定畫面壁紙</string>
     <string name="background_color_fill_title">自定義背景色彩</string>
     <string name="background_default">默認壁紙</string>
     <string name="background_color_fill">顏色填滿</string>
@@ -1056,7 +1056,7 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
 
     <!-- QuickSettings haptic feedback -->
     <string name="haptic_qs_tiles_title">振動反饋</string>
-    <string name="haptic_qs_tiles_summary">點擊磁貼時振動反饋</string>
+    <string name="haptic_qs_tiles_summary">點擊磁磚時振動反饋</string>
 
     <!-- Recents Style -->
     <string name="recents_style_title">最近任務面格風格</string>
@@ -1067,8 +1067,8 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
 
     <!-- Expanded Desktop Style -->
     <string name="expanded_desktop_style">全屏模式</string>
-    <string name="expanded_desktop_system_bars_visibility">不套用全屏模式到鎖屏中</string>
-    <string name="expanded_desktop_system_bars_visibility_summary">全屏模式執行時，鎖屏依然顯示狀態欄及導航欄</string>
+    <string name="expanded_desktop_system_bars_visibility">不套用全屏模式到鎖定畫面中</string>
+    <string name="expanded_desktop_system_bars_visibility_summary">全屏模式執行時，鎖定畫面依然顯示狀態欄及導航欄</string>
 
     <!-- Touch wake Control function-->
     <string name="kernel_does_not_support">內核不支援此功能</string>
@@ -1120,7 +1120,7 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="pref_battery_saver_screen_off_title">螢幕關閉時</string>
     <string name="pref_battery_saver_screen_off_summary">當螢幕關閉時啟動省電模式</string>
     <string name="pref_battery_saver_ignore_locked_title">鎖定時舍棄</string>
-    <string name="pref_battery_saver_ignore_locked_summary">當螢幕開啟時，省電模式不會停用直到鎖屏被解鎖</string>
+    <string name="pref_battery_saver_ignore_locked_summary">當螢幕開啟時，省電模式不會停用直到鎖定畫面被解鎖</string>
     <string name="pref_battery_saver_mode_change_delay_title">變更模式延遲</string>
     <string name="pref_battery_saver_mode_change_delay_summary">延遲几秒鐘改變省電模式</string>
     <string name="pref_battery_saver_battery_title">電量低時</string>
@@ -1384,7 +1384,7 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="reset_default_message">重置所有設定到系統默認值?</string>
 
     <!--Notification Peek-->
-    <string name="notification_peek_title">Peek 鎖屏通知</string>
+    <string name="notification_peek_title">Peek 鎖定畫面通知</string>
     <string name="notification_peek_summary">從口袋拿出裝置時候顯示未讀通知</string>
     <string name="peek_pickup_timeout_title">Peek 感應器逾時值</string>
     <string name="peek_pickup_10s">10 秒 (默認)</string>
@@ -1413,13 +1413,13 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
 
     <!--Custom Weather icon for weather tile
     <string name="weather_tile_icon_title">天氣圖示包</string>
-    <string name="weather_tile_icon_summary">選擇磁貼中使用的圖示包</string>
+    <string name="weather_tile_icon_summary">選擇磁磚中使用的圖示包</string>
     <string name="weather_tile_icon_color">彩色(默認)</string>
     <string name="weather_tile_icon_mono">黑白</string>-->
 
     <!-- Quick ribbon -->
-    <string name="quick_settings_ribbon_title">磁貼彩帶模式</string>
-    <string name="quick_settings_ribbon_summary">顯示橫向磁貼工具彩帶模式</string>
+    <string name="quick_settings_ribbon_title">磁磚彩帶模式</string>
+    <string name="quick_settings_ribbon_summary">顯示橫向磁磚工具彩帶模式</string>
     <string name="quick_settings_label_title">顯示說明文字</string>
-    <string name="quick_settings_label_summary">在磁貼彩帶下方顯示標籤</string>
+    <string name="quick_settings_label_summary">在磁磚彩帶下方顯示標籤</string>
 </resources>

@@ -151,7 +151,7 @@
     <string name="advanced_sound_title">進階設定</string>
     <string name="notifications_category_title">通知</string>
     <string name="volbtn_music_controls_title">音量鍵音樂控制</string>
-    <string name="volbtn_music_controls_summary">鎖屏時長按音量鍵控制音樂曲目</string>
+    <string name="volbtn_music_controls_summary">鎖定畫面時長按音量鍵控制音樂曲目</string>
     <string name="volume_adjust_sounds_enable_title">音量鍵調節音響</string>
     <string name="volume_adjust_sounds_enable_summary">音量鍵調節時播放音響</string>
     <string name="link_volume_ringtones">連接鈴聲與通知音音量</string>
@@ -371,7 +371,7 @@
     <string name="shortcuts_color_mode_summary">改變圖示顏色風格</string>
 
     <!-- Notification drawer settings  -->
-    <string name="notification_drawer_qs_title">通知 &amp; 磁貼開關欄</string>
+    <string name="notification_drawer_qs_title">通知 &amp; 磁磚開關欄</string>
     <string name="notification_drawer_title">通知欄</string>
     <!--<string name="notification_hide_carrier_title">隱藏運營商名稱</string>
     <string name="notification_hide_carrier_summary">隱藏通知欄底部wifi及運營商名稱</string>-->
@@ -563,8 +563,8 @@
     <string name="display_rotation_270_title">270 度</string>
 
     <!-- Lock Screen ASS -->
-    <string name="lock_screen_title">鎖屏界面</string>
-    <string name="lock_screen_summary">檢視或變更鎖屏界面設定</string>
+    <string name="lock_screen_title">鎖定畫面界面</string>
+    <string name="lock_screen_summary">檢視或變更鎖定畫面界面設定</string>
 
     <!-- Lock Screen Targets -->
     <string name="lockscreen_target_info">拖動解鎖圖示到目標位置配置新捷徑</string>
@@ -572,18 +572,18 @@
     <string name="lockscreen_target_summary">選擇或編輯解鎖捷徑</string>
     <string name="lockscreen_target_color_title">捷徑色彩</string>
     <string name="lockscreen_eight_targets_title">八個解鎖捷徑</string>
-    <string name="lockscreen_eight_targets_summary">在鎖屏使用八個解鎖捷徑.</string>
+    <string name="lockscreen_eight_targets_summary">在鎖定畫面使用八個解鎖捷徑.</string>
     <string name="lockscreen_enable_eight_targets_dialog">改變此選項將重置所有當前解鎖捷徑設定.</string>
-    <string name="lockscreen_enable_eight_targets_enabled_dialog">\n\n使用八個滑動解鎖目標將無法使用鎖屏捷徑.</string>
-    <string name="lockscreen_target_reset">鎖屏目屏已重置</string>
+    <string name="lockscreen_enable_eight_targets_enabled_dialog">\n\n使用八個滑動解鎖目標將無法使用鎖定畫面捷徑.</string>
+    <string name="lockscreen_target_reset">鎖定畫面目屏已重置</string>
     <string name="lockscreen_target_reset_message">是否確定重置所有滑動捷徑?</string>
     <string name="lockscreen_target_empty">空白</string>
     <string name="lockscreen_target_edit_title">編輯目前與圖示</string>
     <string name="lockscreen_target_edit_msg">選擇目標並綁定有圖示</string>
 
     <!-- Lockscreen Shortcuts -->
-    <string name="lockscreen_shortcuts_title">鎖屏快捷按鍵</string>
-    <string name="lockscreen_shortcuts_summary">檢視或修改鎖屏快捷按鍵</string>
+    <string name="lockscreen_shortcuts_title">鎖定畫面快捷按鍵</string>
+    <string name="lockscreen_shortcuts_summary">檢視或修改鎖定畫面快捷按鍵</string>
     <string name="lockscreen_shorcuts_longpress_title">長按快捷按鍵</string>
     <string name="lockscreen_shorcuts_longpress_summary">長按才能開啟自訂快捷按鍵</string>
 
@@ -617,7 +617,7 @@
     <string name="unlock_quick_unlock_control_summary">當匯入PIN/密碼正確時自動解鎖</string>
 
     <!-- Lockscreen style settings -->
-    <string name="lockscreen_style_reset_message">重置鎖屏色彩設定?</string>
+    <string name="lockscreen_style_reset_message">重置鎖定畫面色彩設定?</string>
     <string name="lockscreen_icon_title">解鎖圖示</string>
     <string name="lockscreen_lock_icon_custom">自定義圖示</string>
     <string name="lockscreen_lock_icon_slim">Slim 圖示</string>
@@ -631,7 +631,7 @@
     <string name="lockscreen_lock_color_summary">鎖拖把色彩</string>
     <string name="lockscreen_dots_color_title">PIN矩陣點色彩</string>
     <string name="lockscreen_dots_color_summary">發光區點色彩</string>
-    <string name="lockscreen_targets_color_title">鎖屏目標色彩</string>
+    <string name="lockscreen_targets_color_title">鎖定畫面目標色彩</string>
     <string name="lockscreen_targets_color_summary">設置滑動解鎖目標色彩</string>
     <string name="lockscreen_misc_color_title">其他色彩</string>
     <string name="lockscreen_misc_color_summary">其他項目內容色彩</string>
@@ -639,16 +639,16 @@
     <!-- Lockscreen widget settings -->
     <string name="lockscreen_widgets_title">小工具</string>
     <string name="lockscreen_allow_all_title">准許使用任何小工具</string>
-    <string name="lockscreen_allow_all_summary">允許其他非預定軟件小工具在鎖屏中使用</string>
-    <string name="lockscreen_allow_all_warning">並非所有小工具都預定在鎖屏中加入，其中部份更可能帶來曝露您個人私隱信息的風險.請小心使用!</string>
+    <string name="lockscreen_allow_all_summary">允許其他非預定軟件小工具在鎖定畫面中使用</string>
+    <string name="lockscreen_allow_all_warning">並非所有小工具都預定在鎖定畫面中加入，其中部份更可能帶來曝露您個人私隱信息的風險.請小心使用!</string>
     <string name="lockscreen_camera_widget_title">開啟相機小工具</string>
     <string name="lockscreen_camera_widget_summary">在鎖定屏幕上顯示安全攝像頭部件</string>
     <string name="lockscreen_maximize_widgets_title">最大化</string>
     <string name="lockscreen_maximize_widgets_summary">屏幕開啟時最大化/全屏顯示部件</string>
     <string name="lockscreen_disable_hints_title">禁用可用性顯示</string>
-    <string name="lockscreen_disable_hints_summary">禁用鎖屏小工具周圍的光圈</string>
-    <string name="lockscreen_use_widget_container_carousel_title">立體鎖屏動畫</string>
-    <string name="lockscreen_use_widget_container_carousel_summary">在鎖屏頁面間切換時使用立體的鎖屏動畫</string>
+    <string name="lockscreen_disable_hints_summary">禁用鎖定畫面小工具周圍的光圈</string>
+    <string name="lockscreen_use_widget_container_carousel_title">立體鎖定畫面動畫</string>
+    <string name="lockscreen_use_widget_container_carousel_summary">在鎖定畫面頁面間切換時使用立體的鎖定畫面動畫</string>
     <string name="lockscreen_widget_frame_title">隱藏外框</string>
     <string name="lockscreen_widget_frame_summary">隱藏小工具背外框線</string>
 
@@ -660,7 +660,7 @@
 
     <!-- Lock before unlock -->
     <string name="lock_before_unlock_title">安全解鎖前顯示調整器</string>
-    <string name="lock_before_unlock_summary">即使設定了鎖屏密碼也顯示解鎖調整器</string>
+    <string name="lock_before_unlock_summary">即使設定了鎖定畫面密碼也顯示解鎖調整器</string>
 
     <!-- Notification drawer background -->
     <string name="notification_drawer_qs_title">通知欄及快速設定</string>
@@ -692,7 +692,7 @@
 
     <!-- Quick Settings -->
     <string name="quick_settings_title">快速設定</string>
-    <string name="tile_picker_title">磁貼佈局</string>
+    <string name="tile_picker_title">磁磚佈局</string>
     <string name="tile_picker_summary">檢視，選取或改變顯示小工具的佈局</string>
     <string name="tile_choose_title">選取一個小工具</string>
     <string name="title_tile_airplane">飛航模式</string>
@@ -702,7 +702,7 @@
     <string name="title_tile_sleep">休眠</string>
     <string name="title_tile_location">定位</string>
     <string name="title_tile_torch">手電筒</string>
-    <string name="title_tile_lockscreen">鎖屏</string>
+    <string name="title_tile_lockscreen">鎖定畫面</string>
     <string name="title_tile_lte">LTE</string>
     <string name="title_tile_mobiledata">移動資料</string>
     <string name="title_tile_autorotate">自動旋轉</string>
@@ -737,15 +737,15 @@
     <string name="dynamic_tile_alarm">鬧鐘</string>
     <string name="dynamic_tile_bugreport">錯誤報告</string>
     <string name="dynamic_tile_equalizer">均衡器</string>
-    <string name="dynamic_tiles_title">動態磁貼</string>
+    <string name="dynamic_tiles_title">動態磁磚</string>
     <string name="dynamic_tile_screencast">投射螢幕</string>
-    <string name="tiles_reset_message">重置磁貼風格及內容到初始設定?</string>
+    <string name="tiles_reset_message">重置磁磚風格及內容到初始設定?</string>
     <string name="disable_qs">禁用快速設定</string>
-    <string name="disable_qs_message">所有磁貼已移除.快速設定已禁用\n\n如希望重新啟動請新增一個磁貼.</string>
-    <string name="help_qs_message">想新增磁貼開關, 請按新增圖示並選擇磁貼. 如欲變更排序, 長按需要變更磁貼然後拖動到變更位置。如欲刪除磁貼，長按並拖到刪除鍵位\n\n取消則把所有磁貼移除.</string>
+    <string name="disable_qs_message">所有磁磚已移除.快速設定已禁用\n\n如希望重新啟動請新增一個磁磚.</string>
+    <string name="help_qs_message">想新增磁磚開關, 請按新增圖示並選擇磁磚. 如欲變更排序, 長按需要變更磁磚然後拖動到變更位置。如欲刪除磁磚，長按並拖到刪除鍵位\n\n取消則把所有磁磚移除.</string>
 
     <!-- QuickSettings style options -->
-    <string name="quicksettings_tiles_style">磁貼/快速設定風格</string>
+    <string name="quicksettings_tiles_style">磁磚/快速設定風格</string>
     <string name="summary_quicksettings_tiles_style">磁贴或快速設定風格</string>
     <string name="quicksettings_tiles_style_additional_options">附加選項</string>
     <string name="tiles_per_row_title">每行小工具數量</string>
@@ -754,7 +754,7 @@
     <string name="quick_tiles_bg_color_title">小工具背景色</string>
     <string name="quick_tiles_bg_pressed_color_title">按下時背景色</string>
     <string name="quick_tiles_text_color_title">字檔色彩</string>
-    <string name="quick_tiles_alpha_title">磁貼背景透明度</string>
+    <string name="quick_tiles_alpha_title">磁磚背景透明度</string>
     <string name="qs_style_reset_message">重置所有色彩設定到初始設定?</string>
 
     <string name="pref_network_mode_title">網路型態</string>
@@ -778,8 +778,8 @@
     <string name="quick_pulldown_right">右邊</string>
 
     <!-- QuickSettings fliptiles -->
-    <string name="flip_qs_tiles_title">翻動磁貼</string>
-    <string name="flip_qs_tiles_summary">開啟點擊磁貼翻動特效</string>
+    <string name="flip_qs_tiles_title">翻動磁磚</string>
+    <string name="flip_qs_tiles_summary">開啟點擊磁磚翻動特效</string>
 
     <!-- Stylus Gestures -->
     <string name="gestures_settings_title">觸控筆手勢</string>
@@ -823,9 +823,9 @@
     <!-- Contacts and Custom Tile -->
     <string name="title_tile_custom">自定義</string>
     <string name="title_tile_contact">常用聯絡人</string>
-    <string name="custom_tile_dialog_text">自定義磁貼單擊切換狀態，長按則執行開關內容。新增一個動作新增磁貼開關狀態. 每次點擊切換開關狀態. 長按增加長按動作. 沒有設定單擊動作則以長按替代</string>
-    <string name="custom_tile_dialog_title">自定義磁貼</string>
-    <string name="custom_toggle_extras">自定義磁貼進階設定</string>
+    <string name="custom_tile_dialog_text">自定義磁磚單擊切換狀態，長按則執行開關內容。新增一個動作新增磁磚開關狀態. 每次點擊切換開關狀態. 長按增加長按動作. 沒有設定單擊動作則以長按替代</string>
+    <string name="custom_tile_dialog_title">自定義磁磚</string>
+    <string name="custom_toggle_extras">自定義磁磚進階設定</string>
     <string name="custom_toggle_collapse_check">收起下拉通知欄</string>
     <string name="custom_toggle_match_state_check">動作配合圖示</string>
     <string name="custom_toggle_double_click_check">雙擊切換到上一個開關</string>
@@ -837,15 +837,15 @@
 
     <!-- QuickSettings: Quick Collapse -->
     <string name="title_collapse_panel">快速收起</string>
-    <string name="summary_collapse_panel">點擊磁貼後快速收起</string>
+    <string name="summary_collapse_panel">點擊磁磚後快速收起</string>
 
     <!-- Keyguard always show battery -->
     <string name="lockscreen_battery_status_title">顯示電量</string>
-    <string name="lockscreen_battery_status_summary">在鎖屏永遠顯示電量訊息</string>
+    <string name="lockscreen_battery_status_summary">在鎖定畫面永遠顯示電量訊息</string>
 
     <!-- QuickSettings: Smart Pulldown -->
     <string name="smart_pulldown_title">智能下拉</string>
-    <string name="smart_pulldown_summary">當 %1$s 通知信息出現時，默認打開磁貼開關</string>
+    <string name="smart_pulldown_summary">當 %1$s 通知信息出現時，默認打開磁磚開關</string>
     <string name="smart_pulldown_off">關閉</string>
     <string name="smart_pulldown_dismissable">沒有可取消</string>
     <string name="smart_pulldown_persistent">沒有常駐</string>
@@ -961,16 +961,16 @@
 
     <!-- Shake to secure -->
     <string name="shake_to_secure_title">搖晃鎖</string>
-    <string name="shake_to_secure_summary">鎖屏顯示時搖動手機才會套用安全設置</string>
+    <string name="shake_to_secure_summary">鎖定畫面顯示時搖動手機才會套用安全設置</string>
     <string name="shake_to_secure_dlg_title">警告:</string>
-    <string name="shake_to_secure_dlg_message">除非您在鎖屏時候搖動手機或搖動鎖逾時值，否則手機不會上鎖.(解鎖後會重置初始狀態)</string>
+    <string name="shake_to_secure_dlg_message">除非您在鎖定畫面時候搖動手機或搖動鎖逾時值，否則手機不會上鎖.(解鎖後會重置初始狀態)</string>
     <string name="shake_secure_timeout_title">搖動鎖逾時值</string>
     <string name="shake_secure_timeout_disabled">永不</string>
     <string name="shake_secure_timeout_1min">1 分鐘後自動鎖上</string>
     <string name="shake_secure_timeout_5min">5 分鐘後自動鎖上</string>
     <string name="shake_secure_timeout_10min">10 分鐘後自動鎖上</string>
     <string name="shake_secure_timeout_30min">30 分鐘後自動鎖上</string>
-    <string name="shortcut_action_keyguard_camera">鎖屏相機</string>
+    <string name="shortcut_action_keyguard_camera">鎖定畫面相機</string>
     <string name="shake_all">任意搖晃</string>
     <string name="shake_horizontal">水平搖晃</string>
     <string name="shake_vertical">垂直搖晃</string>
