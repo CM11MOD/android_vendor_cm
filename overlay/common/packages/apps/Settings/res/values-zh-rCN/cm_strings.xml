@@ -561,4 +561,12 @@
     <string name="volume_steps_ring_title">音阶数量: 来电铃声</string>
     <string name="volume_steps_system_title">音阶数量: 系统音效</string>
     <string name="volume_steps_voice_call_title">音阶数量: 语音通话</string>
+
+    <string name="themepacks_settings_title">主题包</string>
+    <string name="styles_settings_title">风格</string>
+    <string name="icons_settings_title">图示</string>
+    <string name="fonts_settings_title">字体</string>
+    <string name="lockscreen_wallpaper_settings_title">锁定画面桌布</string>
+    <string name="bootanim_settings_title">开机动画</string>
+    <string name="soundpack_settings_title">音效包</string>
 </resources>
