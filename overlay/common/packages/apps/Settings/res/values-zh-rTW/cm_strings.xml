@@ -601,4 +601,6 @@
     <string name="lockscreen_wallpaper_settings_title">鎖定畫面桌布</string>
     <string name="bootanim_settings_title">開機動畫</string>
     <string name="soundpack_settings_title">音效包</string>
+
+    <string name="hardware_keys_power_key_title">電源鍵</string>
 </resources>

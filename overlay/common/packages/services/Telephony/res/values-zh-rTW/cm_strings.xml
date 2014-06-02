@@ -137,4 +137,12 @@ value (do nothing = 0, mute = 1, dismiss = 2) -->
     <string name="choose_forward_lookup_provider_title">選擇搜尋附近地點伺服器</string>
     <string name="choose_people_lookup_provider_title">選擇搜尋附近人物伺服器</string>
     <string name="choose_reverse_lookup_provider_title">選擇逆向搜尋伺服器</string>
+
+    <!-- Incall Glowpad transparency -->
+    <string name="glow_bg_trans">來電背景透明</string>
+    <string name="glow_bg_trans_summary">來電時畫面背景透明化,顯示聯絡人的完整相片</string>
+
+    <!-- Pulse torch with incoming call -->
+    <string name="torch_incoming_title">來電時手電筒閃動提示</string>
+    <string name="torch_incoming_seekbar_title">閃動頻率</string>
 </resources>

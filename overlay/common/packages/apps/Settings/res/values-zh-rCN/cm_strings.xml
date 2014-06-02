@@ -569,4 +569,6 @@
     <string name="lockscreen_wallpaper_settings_title">锁定画面桌布</string>
     <string name="bootanim_settings_title">开机动画</string>
     <string name="soundpack_settings_title">音效包</string>
+
+    <string name="hardware_keys_power_key_title">电源键</string>
 </resources>

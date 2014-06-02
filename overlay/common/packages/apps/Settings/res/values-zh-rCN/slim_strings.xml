@@ -978,6 +978,10 @@
     <!-- Shake sensitivity -->
     <string name="shake_sensitivity_title">摇晃手势敏感度</string>
     <string name="shake_sensitivity_summary">设置全局摇晃手势敏感度</string>
-    <string name="shake_sensitivity_less_sensitive">低敏感度</string>
-    <string name="shake_sensitivity_more_sensitive">高敏感度</string>
+    <string name="shake_sensitivity_even_less_sensitive">非常低</string>
+    <string name="shake_sensitivity_less_sensitive">较低</string>
+    <string name="shake_sensitivity_more_sensitive">较高</string>
+    <string name="shake_sensitivity_very_sensitive">一般高</string>
+    <string name="shake_sensitivity_super_sensitive">非常高</string>
+    <string name="shake_sensitivity_ultra_sensitive">极高</string>
 </resources>
