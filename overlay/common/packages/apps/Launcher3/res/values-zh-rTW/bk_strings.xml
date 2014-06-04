@@ -23,5 +23,29 @@
     <string name="pref_title_workspace_cols">列數</string>
     <string name="pref_title_default_workspace">默認主頁</string>
     <string name="pref_title_show_search_bar">顯示搜索條</string>
+    <string name="dialog_pick_iconpack_title">選擇圖示包</string>
+    <string name="default_iconpack_title">默認 </string>
+    <string name="icon_packs_title">圖示包</string>
+    <string name="no_iconpacks_summary">沒有安裝任何圖示包</string>
+    <string name="pref_icon_pack_title">圖示包</string>
+
+    <string name="pref_hotwords_title">語音操作</string>
+    <string name="pref_title_enable_hotwords">啟用關鍵字辨識</string>
+    <string name="pref_desc_enable_hotwords">主頁說出關鍵字執行預設定操作</string>
+    <string name="pref_title_custom_hotwords">自定義關鍵字</string>
+    <string name="pref_desc_custom_hotwords">定義觸發操作的關鍵字與執行內容</string>
+    <string name="pref_title_disable_hotword_music">播放器使用時停用</string>
+    <string name="pref_desc_disable_hotword_music">媒體播放中停止使用語音</string>
+    <string name="pref_hotword_add">新增關鍵字</string>
+    <string name="dialog_hotword_title">自定義關鍵字</string>
+    <string name="dialog_hotword_text">輸入</string>
+    <string name="dialog_hotword_select_action">選擇設定操作內容</string>
+
+    <string name="profile_applist_title">程序</string>
+    <string name="profile_choose_app">選擇程序</string>
+    <string name="profiles_add">新增</string>
+    <string name="picker_activities">選擇動作</string>
+    <string name="select_custom_app_title">自定義程序</string>
+    <string name="select_custom_activity_title">自定義動作</string>
 
 </resources>

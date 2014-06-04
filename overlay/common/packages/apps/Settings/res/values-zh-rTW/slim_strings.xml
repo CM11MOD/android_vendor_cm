@@ -946,6 +946,8 @@
     <string name="recent_panel_expanded_mode_auto">自動 (默認)</string>
     <string name="recent_panel_expanded_mode_always">永遠展開</string>
     <string name="recent_panel_expanded_mode_never">永不</string>
+    <string name="recent_panel_show_topmost_title">顯示前台程序</string>
+    <string name="recent_panel_show_topmost_summary">不會從任務面板中隱藏當前程序</string>
 
     <!-- Shake Events -->
     <string name="shake_events_title">搖晃手勢</string>

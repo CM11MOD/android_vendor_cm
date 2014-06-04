@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Folder titles -->
+    <string name="google_title" translatable="false">谷歌应用</string>
+
+    <!-- Preferences -->
+    <string name="pref_workspace_title">桌面设置</string>
+    <string name="pref_title_workspace_rows">行数</string>
+    <string name="pref_title_workspace_cols">列数</string>
+    <string name="pref_title_default_workspace">默认主页</string>
+    <string name="pref_title_show_search_bar">显示搜索条</string>
+    <string name="dialog_pick_iconpack_title">选择图示包</string>
+    <string name="default_iconpack_title">默认 </string>
+    <string name="icon_packs_title">图示包</string>
+    <string name="no_iconpacks_summary">没有安装任何图示包</string>
+    <string name="pref_icon_pack_title">图示包</string>
+
+    <string name="pref_hotwords_title">语音操作</string>
+    <string name="pref_title_enable_hotwords">启用关键字辨识</string>
+    <string name="pref_desc_enable_hotwords">主页说出关键字执行预设定操作</string>
+    <string name="pref_title_custom_hotwords">自定义关键字</string>
+    <string name="pref_desc_custom_hotwords">定义触发操作的关键字与执行内容</string>
+    <string name="pref_title_disable_hotword_music">播放器使用时停用</string>
+    <string name="pref_desc_disable_hotword_music">媒体播放中停止使用语音</string>
+    <string name="pref_hotword_add">新增关键字</string>
+    <string name="dialog_hotword_title">自定义关键字</string>
+    <string name="dialog_hotword_text">输入</string>
+    <string name="dialog_hotword_select_action">选择设定操作内容</string>
+
+    <string name="profile_applist_title">程序</string>
+    <string name="profile_choose_app">选择程序</string>
+    <string name="profiles_add">新增</string>
+    <string name="picker_activities">选择动作</string>
+    <string name="select_custom_app_title">自定义程序</string>
+    <string name="select_custom_activity_title">自定义动作</string>
+
+</resources>
