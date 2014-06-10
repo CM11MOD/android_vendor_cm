@@ -189,6 +189,8 @@
     <string name="shortcut_shakeevent">搖晃手勢</string>
     <string name="quick_settings_shakeevents">搖晃手勢</string>
     <string name="quick_settings_shakeevents_off">搖晃手勢關閉</string>
+    <string name="quick_settings_compass_off">指南針關閉</string>
+    <string name="quick_settings_compass_init">正在起動\u2026</string>
 
     <string name="pie_date_format">yyyy MMM dd日, ccc</string>
 
@@ -332,4 +334,7 @@
     <string name="weather_45">雷陣雨</string>
     <string name="weather_46">陣雪</string>
     <string name="weather_47">局部雷陣雨</string>
+
+    <!-- Blacklisted app for floating mode -->
+    <string name="floating_mode_blacklisted_app">這程式已加入禁用黑名單,無法使用懸浮視窗模式</string>
 </resources>

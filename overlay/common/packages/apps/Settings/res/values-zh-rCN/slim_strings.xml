@@ -732,6 +732,7 @@
     <string name="title_tile_batterysaver">省电模式</string>
     <string name="title_tile_cpufreq">CPU 调频</string>
     <string name="title_tile_weather">天气</string>
+    <string name="title_tile_compass">指南针</string>
     <string name="dynamic_tile_ime_switcher">输入法切换</string>
     <string name="dynamic_tile_usb_tether">USB网络分享</string>
     <string name="dynamic_tile_alarm">闹钟</string>
@@ -986,4 +987,8 @@
     <string name="shake_sensitivity_very_sensitive">一般高</string>
     <string name="shake_sensitivity_super_sensitive">非常高</string>
     <string name="shake_sensitivity_ultra_sensitive">极高</string>
+
+    <string name="power_end_call_title">挂断电话</string>
+    <string name="power_end_call_summary">通话中按下电源键挂断电话</string>
+
 </resources>

@@ -1398,8 +1398,8 @@ PA版本是全屏助手，简洁美观的方式在全屏模式中提供基本按
     <string name="custom_statusbar_header_summary">按时节改变背景图片</string>
 
     <!-- HALO floating mode -->
-    <string name="floating_mode_title">悬浮视窗模式</string>
-    <string name="floating_mode_summary">Halo 模式中把通知内容用悬浮视窗打开</string>
+    <!--<string name="floating_mode_title">悬浮视窗模式</string>
+    <string name="floating_mode_summary">Halo 模式中把通知内容用悬浮视窗打开</string>-->
 
     <!--Custom Weather icon for weather tile
     <string name="weather_tile_icon_title">天气图示包</string>
@@ -1412,4 +1412,9 @@ PA版本是全屏助手，简洁美观的方式在全屏模式中提供基本按
     <string name="quick_settings_ribbon_summary">显示横向磁贴工具彩带模式</string>
     <string name="quick_settings_label_title">显示说明文字</string>
     <string name="quick_settings_label_summary">在磁贴彩带下方显示标签</string>
+
+    <!--Blacklist peek and floating mode-->
+    <string name="blacklist_button_title">黑名单</string>
+    <string name="peek_blacklist_label">禁用Peek模式</string>
+    <string name="floating_blacklist_label">禁用县浮窗口</string>
 </resources>
