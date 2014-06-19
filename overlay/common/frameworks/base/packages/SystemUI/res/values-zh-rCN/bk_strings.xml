@@ -337,4 +337,9 @@
 
     <!-- Blacklisted app for floating mode -->
     <string name="floating_mode_blacklisted_app">这程序已加入禁用黑名单,不能使用悬浮窗口模式</string>
+
+    <!-- First time run hover -->
+    <string name="quick_settings_hover_off">HOVER 关闭</string>
+    <string name="accessibility_hover">打开或关闭Hover通知.</string>
+    <string name="hover_cling_text">Hover 通知已启用.\n\n新通知出现时会以叠加通知层显示有关通知,毋须退出当前程序.</string>
 </resources>

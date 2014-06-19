@@ -1426,5 +1426,22 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <!--Blacklist peek and floating mode-->
     <string name="blacklist_button_title">黑名單</string>
     <string name="peek_blacklist_label">禁用Peek模式</string>
-    <string name="floating_blacklist_label">禁用縣浮視窗</string>
+    <string name="floating_blacklist_label">禁用懸浮視窗</string>
+
+    <!-- HOVER -->
+    <string name="hover_title">HOVER 設定</string>
+    <string name="hover_enabled_title">HOVER通知</string>
+    <string name="hover_enabled_summary">啟用 PA HOVER 通知系統</string>
+    <string name="hover_hide_button_title">隱藏 HOVER 按鍵</string>
+    <string name="hover_hide_button_summary">隱藏下拉通知欄HOVER按鍵</string>
+    <string name="hover_active_title">啟用 HOVER</string>
+    <string name="hover_active_summary">取代按鈕 啟用HOVER通知</string>
+    <string name="hover_exclude_low_priority_title">排除非重要通知提示</string>
+    <string name="hover_exclude_low_priority_summary">不顯示非重要的通知提示項目</string>
+    <string name="hover_exclude_non_clearable_title">排除無法取消通知提示</string>
+    <string name="hover_exclude_non_clearable_summary">不顯示無法取消的通知提示項目</string>
+    <string name="hover_exclude_topmost_title">排除當前程序</string>
+    <string name="hover_exclude_topmost_summary">排除當前運行中程序的提示項目</string>
+    <string name="hover_require_fullscreen_mode_title">需要全屏模式環境</string>
+    <string name="hover_require_fullscreen_mode_summary">只有狀態欄不存在時生效</string>
 </resources>
