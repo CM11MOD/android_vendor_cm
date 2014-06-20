@@ -160,7 +160,8 @@ PRODUCT_PACKAGES += \
     libemoji
 
 # Custom CM packages
-    #Trebuchet \
+PRODUCT_PACKAGES += \
+    PhotoPhase
 
 PRODUCT_PACKAGES += \
     Launcher3 \
