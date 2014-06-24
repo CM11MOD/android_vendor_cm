@@ -342,4 +342,12 @@
     <string name="quick_settings_hover_off">HOVER 关闭</string>
     <string name="accessibility_hover">打开或关闭Hover通知.</string>
     <string name="hover_cling_text">Hover 通知已启用.\n\n新通知出现时会以叠加通知层显示有关通知,毋须退出当前程序.</string>
+
+    <!-- App Circle Bar Tile -->
+    <string name="quick_settings_appcirclebar_on_label">转盘启动捷径</string>
+    <string name="quick_settings_appcirclebar_off_label">关闭</string>
+
+    <!-- Halo -->
+    <string name="quick_settings_halo_on_label">Halo</string>
+    <string name="quick_settings_halo_off_label">关闭</string>
 </resources>

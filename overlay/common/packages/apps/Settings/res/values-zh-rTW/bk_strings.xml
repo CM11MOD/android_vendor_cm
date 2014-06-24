@@ -1097,6 +1097,8 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="category_app_circle_bar_title">轉盤啟動捷徑</string>
     <string name="app_circle_bar_title">轉盤啟動捷徑</string>
     <string name="app_circle_bar_summary">在屏幕右側滑出轉盤啟動捷徑</string>
+    <string name="app_circle_bar_trigger_width_title">自定義觸發區寬度</string>
+    <string name="app_circle_bar_trigger_width_summary">自定義轉盤啟動捷徑觸發區寬度</string>
     <string name="app_circle_bar_included_apps_title">白名單</string>
     <string name="app_circle_bar_included_apps_summary">選擇您的顯示軟件清單</string>
 

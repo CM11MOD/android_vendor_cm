@@ -1087,6 +1087,8 @@ PA版本是全屏助手，简洁美观的方式在全屏模式中提供基本按
     <string name="category_app_circle_bar_title">转盘引导捷径</string>
     <string name="app_circle_bar_title">转盘引导捷径</string>
     <string name="app_circle_bar_summary">在屏幕右侧滑出转盘引导捷径</string>
+    <string name="app_circle_bar_trigger_width_title">自定义触发区宽度</string>
+    <string name="app_circle_bar_trigger_width_summary">自定义转盘启动捷径触发区宽度</string>
     <string name="app_circle_bar_included_apps_title">白名单</string>
     <string name="app_circle_bar_included_apps_summary">选择您的显示软件清单</string>
 

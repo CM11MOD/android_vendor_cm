@@ -145,4 +145,13 @@ value (do nothing = 0, mute = 1, dismiss = 2) -->
     <!-- Pulse torch with incoming call -->
     <string name="torch_incoming_title">來電時手電筒閃動提示</string>
     <string name="torch_incoming_seekbar_title">閃動頻率</string>
+
+    <!-- Setting title for dialpad key padding. -->
+    <string name="dialkey_padding_title">撥號盤鍵填充</string>
+
+    <!-- Dialog title of the dialpad key padding setting. -->
+    <string name="dialkey_padding_dialog_title">撥號盤鍵間距填充</string>
+
+    <!-- Setting summary for the dialpad key padding setting. -->
+    <string name="dialkey_padding_summary">撥號盤鍵上下間距填充寬度</string>
 </resources>

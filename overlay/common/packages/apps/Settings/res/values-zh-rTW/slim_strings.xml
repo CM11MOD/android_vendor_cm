@@ -733,6 +733,7 @@
     <string name="title_tile_cpufreq">CPU 調頻</string>
     <string name="title_tile_weather">天氣</string>
     <string name="title_tile_compass">指南針</string>
+    <string name="title_tile_appcirclebar">轉盤啟動捷徑</string>
     <string name="dynamic_tile_ime_switcher">輸入法切換</string>
     <string name="dynamic_tile_usb_tether">USB網絡分享</string>
     <string name="dynamic_tile_alarm">鬧鐘</string>
