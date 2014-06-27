@@ -1433,8 +1433,14 @@ PA版本是全屏助手，简洁美观的方式在全屏模式中提供基本按
     <string name="hover_exclude_low_priority_summary">不显示非重要的通知提示项目</string>
     <string name="hover_exclude_non_clearable_title">排除不能取消通知提示</string>
     <string name="hover_exclude_non_clearable_summary">不显示不能取消的通知提示项目</string>
-    <string name="hover_exclude_topmost_title">排除当前程序</string>
-    <string name="hover_exclude_topmost_summary">排除当前运行中程序的提示项目</string>
     <string name="hover_require_fullscreen_mode_title">需要全屏模式环境</string>
     <string name="hover_require_fullscreen_mode_summary">只有状态栏不存在时生效</string>
+
+    <!-- Bubble Recents -->
+    <string name="bubble_recent_title">仿IOS8 联络人气泡风格</string>
+    <string name="bubble_recent_summary">单击气泡检查并显示最后一次通话的细节, 双击打开联络人名片, 也可以从通话记录与常用联 络人间切换.</string>
+    <string name="bubble_mode_title">联络人气泡</string>
+    <string name="bubble_recent_disable">关闭联络人气泡</string>
+    <string name="bubble_recent_fav">常用联络人模式</string>
+    <string name="bubble_recent_star">显示通话记录</string>
 </resources>
