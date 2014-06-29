@@ -350,4 +350,14 @@
     <!-- Halo -->
     <string name="quick_settings_halo_on_label">Halo</string>
     <string name="quick_settings_halo_off_label">關閉</string>
+
+    <!-- Recent Apps -->
+    <string name="recent_title_txt">最近任務</string>
+    <!-- iOS Recents -->
+    <string name="whos_going_out">常用聯絡人</string>
+    <string name="type">種類 :</string>
+    <string name="duration">長度 :</string>
+    <string name="missed">未接</string>
+    <string name="incoming">來電</string>
+    <string name="outgoing">去電</string>
 </resources>
