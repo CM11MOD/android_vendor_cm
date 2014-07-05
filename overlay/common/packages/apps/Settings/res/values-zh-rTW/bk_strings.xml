@@ -1444,6 +1444,16 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="hover_exclude_non_clearable_summary">不顯示無法取消的通知提示項目</string>
     <string name="hover_require_fullscreen_mode_title">需要全屏模式環境</string>
     <string name="hover_require_fullscreen_mode_summary">只有狀態欄不存在時生效</string>
+    <!-- Hover long fade out delay -->
+    <string name="hover_long_fadeout_title">Hover 通知逾時設定</string>
+    <string name="hover_long_fadeout_3seconds">3 秒</string>
+    <string name="hover_long_fadeout_5seconds">5 秒 (默認)</string>
+    <string name="hover_long_fadeout_7seconds">7 秒</string>
+    <string name="hover_long_fadeout_10seconds">10 秒</string>
+    <string name="hover_long_fadeout_15seconds">15 秒</string>
+    <!-- Hover no notif in insecure lockscreen -->
+    <string name="hover_exclude_from_insecure_lock_screen_title">排除鎖屏通知</string>
+    <string name="hover_exclude_from_insecure_lock_screen_summary">排除所有來自沒有安全設置生效中的鎖屏通知</string>
 
     <!-- Bubble Recents -->
     <string name="bubble_recent_title">仿IOS8 聯絡人氣泡風格</string>
@@ -1452,4 +1462,8 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="bubble_recent_disable">關閉聯絡人氣泡</string>
     <string name="bubble_recent_fav">常用聯絡人模式</string>
     <string name="bubble_recent_star">顯示通話記錄</string>
+
+    <!-- Search -->
+    <string name="settings_search_action_bar_button">搜尋</string>
+    <string name="settings_search_autocompleteview_hint">搜尋設定</string>
 </resources>

@@ -104,4 +104,10 @@
     <string name="sc_quick_switcher_title">快速切換</string>
     <string name="sc_quick_switcher_body">\n上下移動切換層級.\n\n左右移動切換項目.</string>
     <string name="sc_quick_switcher_empty_body">\n沒有最近打開軟件或常用軟件記錄.\n\n上下移動切換層級.\n\n左右移動切換項目.</string>
+    <string name="immersive_mode">沉浸模式</string>
+    <string name="immersive_mode_help">沉浸模式開關</string>
+    <string name="package_add_favorite_title">標記為我的最愛</string>
+    <string name="package_remove_favorite_title">取消標記</string>
+    <string name="flat_style_summary">使用實色填充顯示疊加圖層</string>
+    <string name="flat_style_title">平面顯示模式</string>
 </resources>

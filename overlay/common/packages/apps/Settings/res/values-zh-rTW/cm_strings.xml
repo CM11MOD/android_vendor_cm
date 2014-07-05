@@ -603,4 +603,29 @@
     <string name="soundpack_settings_title">音效包</string>
 
     <string name="hardware_keys_power_key_title">電源鍵</string>
+
+    <!-- App moving -->
+    <string name="app_moving_enable">APP2SD</string>
+    <string name="app_moving_disable">取消APP2SD</string>
+    <string name="app_moving_reboot_title">是否重啟?</string>
+    <string name="app_moving_reboot_enabled_desc">成功執行APP2SD.\n\n裝置需要重啟才能套用更新.</string>
+    <string name="app_moving_reboot_disabled_desc">成功取消APP2DD.\n\n裝置需要重啟才能套用更新.</string>
+    <string name="app_moving_reboot_now_button">立即重啟</string>
+    <string name="app_moving_reboot_later_button">稍後重啟</string>
+
+    <!-- Protected Apps -->
+    <string name="menu_hidden_apps_delete">重置</string>
+    <string name="menu_hidden_apps_reset_lock">重置鎖定圖案</string>
+    <string name="protected_apps">受保護的應用</string>
+    <string name="saving_protected_components">正在儲存套件狀態\u2026</string>
+
+    <string name="color_enhancement_title">色彩增強</string>
+    <string name="color_enhancement_summary">動態增強螢幕色彩</string>
+
+    <!-- Wifi AP: connected devices -->
+    <string name="wifi_ap_clients_title">已連接裝置</string>
+    <string name="wifi_ap_client_ap_disabled">熱點功能已關閉</string>
+    <string name="wifi_ap_client_none_connected">客戶端未連接</string>
+    <string name="wifi_ap_client_reachable"><xliff:g id="addr">%1$s</xliff:g> - 可連接</string>
+    <string name="wifi_ap_client_unreachable"><xliff:g id="addr">%1$s</xliff:g> - 無法連接</string>
 </resources>

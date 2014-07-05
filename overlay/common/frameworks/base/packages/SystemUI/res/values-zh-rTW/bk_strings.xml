@@ -360,4 +360,13 @@
     <string name="missed">未接</string>
     <string name="incoming">來電</string>
     <string name="outgoing">去電</string>
+
+    <!-- Swipe recents for floating window confirmation dialog -->
+    <string name="recents_swipe_floating_title">最近任務：滑動執行懸浮模式</string>
+    <string name="recents_swipe_floating_message_portrait">是否確定往左方滑動後以懸浮視窗方式打開程序?</string>
+    <string name="recents_swipe_floating_message_landscape">是否確定往下方滑動後以懸浮視窗方式打開程序?</string>
+
+    <!-- Swipe notification for floating window confirmation dialog -->
+    <string name="status_bar_notification_swipe_floating_title">通知欄：滑動執行懸浮模式</string>
+    <string name="status_bar_notification_swipe_floating_message">是否確定往左方滑動後以懸浮視窗方式打開程序?</string>
 </resources>

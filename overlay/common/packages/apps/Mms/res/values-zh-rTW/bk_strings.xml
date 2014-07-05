@@ -55,4 +55,13 @@
     <!-- Screen on when SMS/MMS is received -->
     <string name="pref_title_wake_screen_on_incoming_sms">點亮屏幕</string>
     <string name="pref_summary_wake_screen_on_incoming_sms">接收到新的信息或彩信時候自動點亮屏幕</string>
+
+    <!-- Used in MobilePaperShowActivity -->
+    <string name="normal_show">一般方式顯示</string>
+    <string name="cannot_play">無法以幻燈片方式顯示.</string>
+
+    <!-- Conversation options -->
+    <string name="menu_conversation_options">對話選項</string>
+    <string name="pref_title_reset_convopt_to_default">重置到系統默認值</string>
+    <string name="pref_summary_reset_convopt_to_default">重置設定回到系統自帶默認設定</string>
 </resources>
