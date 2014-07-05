@@ -128,4 +128,29 @@
     <string name="setting_confirmation_ask_me_later">稍後再問</string>
     <string name="setting_confirmation_yes">確定</string>
     <string name="setting_confirmation_no">取消</string>
+
+    <!-- ADB over network notification -->
+    <string name="adb_net_active_notification_title">網絡 ADB 調試已啟用</string>
+    <string name="adb_both_active_notification_title">USB和ADB網絡 ADB 調試已啟用</string>
+    <!-- ADB notification message-->
+    <string name="adb_active_generic_notification_message">點擊停用調試模式.</string>
+
+    <!-- See EXTMEDIA_FORMAT.   This is the message. [CHAR LIMIT=NONE] -->
+    <string name="extmedia_format_message_cm" product="nosdcard">所有儲存在USB裝置 (在 \'%1$s\'路徑下) 的資料將被刪除. 此操作無法撤消!</string>
+    <!-- See EXTMEDIA_FORMAT.   This is the message. -->
+    <string name="extmedia_format_message_cm" product="default">所有儲存在外置SD儲存卡 (在 \'%1$s\'路徑下) 的資料將被刪除. 此操作無法撤消!</string>
+
+    <!-- Storage notification -->
+    <string name="storage_checking_notification_title">準備 <xliff:g id="storage" example="SD card">%s</xliff:g></string>
+    <string name="storage_checking_notification_message">檢查 <xliff:g id="storage" example="SD card">%s</xliff:g> 上錯誤.</string>
+    <string name="storage_nofs_notification_title">空白的 <xliff:g id="storage" example="SD card">%s</xliff:g></string>
+    <string name="storage_nofs_notification_message"><xliff:g id="storage" example="SD card">%s</xliff:g> 是空白或使用不支援檔案系統.</string>
+    <string name="storage_unmountable_notification_title">損壞的 <xliff:g id="storage" example="SD card">%s</xliff:g></string>
+    <string name="storage_unmountable_notification_message"><xliff:g id="storage" example="SD card">%s</xliff:g> 已損壞. 嘗試再格式化.</string>
+    <string name="storage_badremoval_notification_title"><xliff:g id="storage" example="SD card">%s</xliff:g> 已意外移除</string>
+    <string name="storage_badremoval_notification_message">移除 <xliff:g id="storage" example="SD card">%s</xliff:g> 前先卸載媒體避免資料損失.</string>
+    <string name="storage_safe_unmount_notification_title"><xliff:g id="storage" example="SD card">%s</xliff:g> 可以安全移除</string>
+    <string name="storage_safe_unmount_notification_message">您可以安全移除 <xliff:g id="storage" example="SD card">%s</xliff:g>.</string>
+    <string name="storage_nomedia_notification_title">已移除 <xliff:g id="storage" example="SD card">%s</xliff:g></string>
+    <string name="storage_nomedia_notification_message"><xliff:g id="storage" example="SD card">%s</xliff:g> 已移除. 請插入新的媒體.</string>
 </resources>

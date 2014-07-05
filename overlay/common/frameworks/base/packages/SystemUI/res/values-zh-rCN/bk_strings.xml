@@ -369,4 +369,15 @@
     <!-- Swipe notification for floating window confirmation dialog -->
     <string name="status_bar_notification_swipe_floating_title">通知欄：滑動執行懸浮模式</string>
     <string name="status_bar_notification_swipe_floating_message">是否確定往左方滑動後以懸浮視窗方式打開程序?</string>
+
+  <string-array name="cardinal_directions">
+    <item>北</item>
+    <item>东北</item>
+    <item>东</item>
+    <item>东南</item>
+    <item>南</item>
+    <item>西南</item>
+    <item>西</item>
+    <item>西北</item>
+  </string-array>
 </resources>

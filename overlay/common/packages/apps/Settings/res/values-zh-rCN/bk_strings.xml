@@ -1457,4 +1457,32 @@ PA版本是全屏助手，简洁美观的方式在全屏模式中提供基本按
     <!-- Search -->
     <string name="settings_search_action_bar_button">寻找</string>
     <string name="settings_search_autocompleteview_hint">寻找设置</string>
+
+    <!-- Swipe to float for notification and recents-->
+    <string name="notification_swipe_title">滑动悬浮模式</string>
+    <string name="notification_swipe_summary">在通知栏向左方滑动后,使用悬浮窗口方式打开通知所属程序.</string>
+    <string name="recents_swipe_title">滑动悬浮模式</string>
+    <string name="recents_swipe_summary">在程序截图向左方或下方滑动后,使用悬浮窗口方式打开所属程序.</string>
+
+    <!-- Storage -->
+    <string name="storage_eject">卸载 <xliff:g id="storage" example="SD card">%s</xliff:g></string>
+    <string name="storage_eject_summary">卸载 <xliff:g id="storage" example="SD card">%s</xliff:g> 以安全删除媒体</string>
+    <string name="storage_insert_summary">插入 <xliff:g id="storage" example="SD card">%s</xliff:g> 加载</string>
+    <string name="storage_mount">安装 <xliff:g id="storage" example="SD card">%s</xliff:g></string>
+    <string name="storage_mount_summary"></string>
+    <string name="storage_format">删除 <xliff:g id="storage" example="SD card">%s</xliff:g></string>
+    <string name="storage_format_summary">删除 <xliff:g id="storage" example="SD card">%s</xliff:g>上所有数据, 例如音乐和相片</string>
+    <string name="storage_dlg_confirm_unmount_title">卸载 <xliff:g id="storage" example="SD card">%s</xliff:g>?</string>
+    <string name="storage_dlg_confirm_unmount_text">您如果卸载 <xliff:g id="storage" example="SD card">%s</xliff:g>, 部份程序或会意外停止或不能使用，直到您重新加载  <xliff:g id="storage" example="SD card">%1$s</xliff:g>.</string>
+    <string name="storage_dlg_error_unmount_title"></string>
+    <string name="storage_dlg_error_unmount_text">不能卸载 <xliff:g id="storage" example="SD card">%s</xliff:g>. 稍后重新再尝试.</string>
+    <string name="storage_unmount_inform_text"><xliff:g id="storage" example="SD card">%s</xliff:g> 将卸载.</string>
+    <string name="storage_ejecting_title"><xliff:g id="storage" example="SD card">%s</xliff:g>卸载中</string>
+    <string name="storage_ejecting_summary"><xliff:g id="storage" example="SD card">%s</xliff:g> 卸载中</string>
+    <string name="storage_format_title">删除 <xliff:g id="storage" example="SD card">%s</xliff:g></string>
+    <string name="storage_format_summary">删除 <xliff:g id="storage" example="SD card">%s</xliff:g>上所有数据.</string>
+    <string name="storage_format_desc">删除 <xliff:g id="storage" example="SD card">%s</xliff:g>所有数据? 您将会失去 <b>所有</b> 存储数据!</string>
+    <string name="storage_format_button_text">删除 <xliff:g id="storage" example="SD card">%s</xliff:g></string>
+    <string name="storage_format_final_desc">是否删除 <xliff:g id="storage" example="SD card">%s</xliff:g>上所有数据? 此操作不能撤消!</string>
+    <string name="storage_format_gesture_explanation">您需要绘制解锁图案，以确认删除 <xliff:g id="storage" example="SD card">%s</xliff:g>的数据.</string>
 </resources>
