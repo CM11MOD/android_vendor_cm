@@ -77,8 +77,8 @@
 
     <!-- Non-Intrusive InCall UI -->
     <string name="preference_category_interface">通話界面</string>
-    <string name="non_intrusive_incall_title">簡約模式</string>
-    <string name="non_intrusive_incall_summary">在屏幕下方顯示一個簡約接聽通話界面</string>
+    <!--<string name="non_intrusive_incall_title">簡約模式</string>
+    <string name="non_intrusive_incall_summary">在屏幕下方顯示一個簡約接聽通話界面</string>-->
 
     <!-- Play Call End Tone -->
     <string name="call_end_sound_title">結束通話提示音</string>
@@ -115,9 +115,13 @@ value (do nothing = 0, mute = 1, dismiss = 2) -->
         <item>捨棄來電</item>
     </string-array>
 
-    <!-- Call UI in background
+    <!-- Call UI in background -->
     <string name="bg_incall">背景來電</string>
-    <string name="bg_incall_summary">亮屏時來電不干擾前台工作,只在狀態欄提示</string> -->
+    <string name="bg_incall_summary">亮屏時來電不干擾當前運行中的程序,只在狀態欄提示</string>
+
+    <!-- Heads Up-->
+    <string name="bg_incall_as_heads_up">浮動來電通知界面</string>
+    <string name="bg_incall_as_heads_up_summary">在屏幕頂部顯示浮動來電通知界面, 避免干擾跳出當前運行程序.</string>
 
     <!-- Integrated phone directory
     <string name="enable_suggestions_title">搜尋附近地點</string>

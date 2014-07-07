@@ -480,12 +480,35 @@
     <string name="five">五</string>
     <string name="six">六</string>
 
+    <string name="sunday">周日</string>
+    <string name="monday">周一</string>
+    <string name="tuesday">周二</string>
+    <string name="wednesday">周三</string>
+    <string name="thursday">周四</string>
+    <string name="friday">周五</string>
+    <string name="saturday">周六</string>
+
     <!-- Quiet hours -->
     <string name="quiet_hours_title">免打扰模式</string>
     <string name="quiet_hours_summary">设置设备应当保持安静的时段</string>
-    <string name="quiet_hours_enabled">启用免打扰模式</string>
+    <!--<string name="quiet_hours_enabled">启用免打扰模式</string>
     <string name="quiet_hours_enabled_on">免打扰模式将强制执行</string>
-    <string name="quiet_hours_enabled_off">通知不受影响</string>
+    <string name="quiet_hours_enabled_off">通知不受影响</string>-->
+    <string name="quiet_hours_mode">免打扰模式</string>
+    <string name="quiet_hours_off">关闭</string>
+    <string name="quiet_hours_forced">强制使用免打扰模式</string>
+    <string name="quiet_hours_times_warning">时间不能重叠：设置为最接近的可能时间</string>
+    <string name="quiet_hours_wifi">WiFi 连接</string>
+    <string name="quiet_hours_wifi_on">只有WiFi 连接时生效</string>
+    <string name="quiet_hours_wifi_off">WiFi 连接：任意状态</string>
+    <string name="quiet_hours_charging">充电器连接</string>
+    <string name="quiet_hours_charging_off">充电器连接:任意状态</string>
+    <string name="quiet_hours_charging_on">只有充电器连接时生效</string>
+    <string name="quiet_hours_timed">免打扰时段模式</string>
+    <string name="quiet_hours_daily_times">设置单日生效时间</string>
+    <string name="quiet_hours_daily_on">已设置单日生效时间</string>
+    <string name="quiet_hours_daily_off">单一组生效时间模式</string>
+    <string name="quiet_time_prefs_title">免打扰时段</string>
     <string name="quiet_hours_auto_title">跟随来电铃声设置自动执行</string>
     <string name="quiet_hours_auto_silent">来电铃声设置静音时，免打扰时段会自动执行</string>
     <string name="quiet_hours_auto_vibrate">来电铃声设置静音或振动时，免打扰时段会自动执行</string>
@@ -992,4 +1015,29 @@
     <string name="power_end_call_title">挂断电话</string>
     <string name="power_end_call_summary">通话中按下电源键挂断电话</string>
 
+    <!-- Heads up -->
+    <string name="heads_up_title">浮动通知</string>
+    <string name="heads_up_expanded_title">永远展开</string>
+    <string name="heads_up_expanded_summary">永远以展开方式显示通知事开部内容</string>
+    <string name="heads_up_show_updates_title">显示更新提示</string>
+    <string name="heads_up_show_updates_summary">显示当未退出的更新提示</string>
+    <string name="heads_up_snooze_title">打盹计时器</string>
+    <string name="heads_up_snooze_summary">按下打盹计时器后暂停使用浮动通知 <xliff:g id="number">%d</xliff:g> 分钟.</string>
+    <string name="heads_up_snooze_disabled_summary">打盹计时器已停用.</string>
+    <string name="heads_up_snooze_3min">3 分钟</string>
+    <string name="heads_up_snooze_5min">5 分钟</string>
+    <string name="heads_up_snooze_10min">10 分钟</string>
+    <string name="heads_up_snooze_15min">15 分钟</string>
+    <string name="heads_up_snooze_20min">20 分钟</string>
+    <string name="heads_up_time_out_title">显示逾时</string>
+    <string name="heads_up_time_out_summary">浮动通知视窗将在屏幕显示 <xliff:g id="number">%d</xliff:g> 秒.</string>
+    <string name="heads_up_time_out_never_summary">浮动通知视窗会一直停留直到被撤除.</string>
+    <string name="heads_up_time_out_4sec">4 秒</string>
+    <string name="heads_up_time_out_6sec">6 秒</string>
+    <string name="heads_up_time_out_8sec">8 秒</string>
+    <string name="heads_up_time_out_10sec">10 秒</string>
+    <string name="heads_up_time_out_never">永不</string>
+    <string name="heads_up_switch_label">启用浮动通知</string>
+    <string name="heads_up_floating_Window_title">浮动视窗模式</string>
+    <string name="heads_up_floating_Window_summary">以浮动视窗方式打开通知所属程序</string>
 </resources>

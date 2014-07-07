@@ -59,4 +59,8 @@
     <string name="menu_conversation_options">对话选项</string>
     <string name="pref_title_reset_convopt_to_default">重置到系统默认值</string>
     <string name="pref_summary_reset_convopt_to_default">重置设置回到系统自带默认设置</string>
+
+    <!-- Heads up mode -->
+    <string name="pref_title_notification_heads_up_mode_enabled">浮动通知模式</string>
+    <string name="pref_summary_notification_heads_up_mode_enabled">以浮动视窗显示信息内容.</string>
 </resources>

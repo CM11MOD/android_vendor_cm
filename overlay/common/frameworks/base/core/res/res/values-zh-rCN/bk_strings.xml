@@ -155,4 +155,8 @@
     <string name="storage_safe_unmount_notification_message">您可以安全删除 <xliff:g id="storage" example="SD card">%s</xliff:g>.</string>
     <string name="storage_nomedia_notification_title">已删除 <xliff:g id="storage" example="SD card">%s</xliff:g></string>
     <string name="storage_nomedia_notification_message"><xliff:g id="storage" example="SD card">%s</xliff:g> 已删除. 请插入新的媒体.</string>
+
+    <!-- Heads up -->
+    <string name="permlab_changeHeadsUpState">浮动通知窗口开关</string>
+    <string name="permdesc_changeHeadsUpState">选择以不干扰前台的浮动窗口或一般模式显示通知事项.</string>
 </resources>
