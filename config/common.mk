@@ -180,7 +180,8 @@ PRODUCT_PACKAGES += \
     HostsFileManager \
     OmniSwitch \
     GPSOptimizer \
-    PerformanceControl
+    PerformanceControl \
+    EOSWeather
 
 # CM Hardware Abstraction Framework
 PRODUCT_PACKAGES += \
