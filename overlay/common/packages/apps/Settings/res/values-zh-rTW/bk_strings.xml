@@ -1494,4 +1494,12 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="storage_format_button_text">刪除 <xliff:g id="storage" example="SD card">%s</xliff:g></string>
     <string name="storage_format_final_desc">是否刪除 <xliff:g id="storage" example="SD card">%s</xliff:g>上所有資料? 此操作無法撤消!</string>
     <string name="storage_format_gesture_explanation">您需要繪製解鎖圖案，以確認刪除 <xliff:g id="storage" example="SD card">%s</xliff:g>的資料.</string>
+
+    <!-- AICP weather panel -->
+    <string name="weather_settings_title">AICP天氣信息欄</string>
+    <string name="weather_alert_title">警告</string>
+    <string name="weather_alert_message">需要重啟手機套用更新!</string>
+    <string name="weather_header_title">ACIP文字信息</string>
+    <string name="weather_notification_title">AICP天氣通知欄</string>
+    <string name="weather_both_aicp_view">AICP文字信息及天氣通知欄</string>
 </resources>
