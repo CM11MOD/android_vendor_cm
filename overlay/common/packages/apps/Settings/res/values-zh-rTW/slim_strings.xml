@@ -505,6 +505,7 @@
     <string name="quiet_hours_charging_off">充電器連接:任意狀態</string>
     <string name="quiet_hours_charging_on">只有充電器連接時生效</string>
     <string name="quiet_hours_timed">免打擾時段模式</string>
+    <string name="quiet_hours_reset_times">重置所有時段設定?</string>
     <string name="quiet_hours_daily_times">設定單日生效時間</string>
     <string name="quiet_hours_daily_on">已設定單日生效時間</string>
     <string name="quiet_hours_daily_off">單一組生效時間模式</string>
@@ -1017,7 +1018,10 @@
     <string name="power_end_call_summary">通話中按下電源鍵掛斷電話</string>
 
     <!-- Heads up -->
-    <string name="heads_up_title">浮動通知</string>
+    <string name="category_heads_up">浮動通知</string>
+    <string name="summary_heads_up_enabled">使用浮動通知</string>
+    <string name="summary_heads_up_disabled">停用浮動通知</string>
+    <string name="heads_up_floating_window">利用懸浮視窗模式打開通知所屬程序</string>
     <string name="heads_up_expanded_title">永遠展開</string>
     <string name="heads_up_expanded_summary">永遠以展開方式顯示通知事開部內容</string>
     <string name="heads_up_show_updates_title">顯示更新提示</string>
@@ -1039,6 +1043,10 @@
     <string name="heads_up_time_out_10sec">10 秒</string>
     <string name="heads_up_time_out_never">永不</string>
     <string name="heads_up_switch_label">啟用浮動通知</string>
-    <string name="heads_up_floating_Window_title">浮動視窗模式</string>
-    <string name="heads_up_floating_Window_summary">以浮動視窗方式打開通知所屬程序</string>
+    <string name="add_heads_up_package">新增程序</string>
+    <string name="add_heads_up_dnd_summary">禁止以下程序彈出浮動通知</string>
+    <string name="add_heads_up_blacklist_summary">禁止以下程序發出浮動通知</string>
+    <string name="heads_up_dnd_title">免打擾清單</string>
+    <string name="heads_up_blacklist_title">黑名單</string>
+    <string name="heads_up_disabled_notice">啟動浮動通知允許程序顯示互動式視窗.</string>
 </resources>

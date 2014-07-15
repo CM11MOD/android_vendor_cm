@@ -505,6 +505,7 @@
     <string name="quiet_hours_charging_off">充电器连接:任意状态</string>
     <string name="quiet_hours_charging_on">只有充电器连接时生效</string>
     <string name="quiet_hours_timed">免打扰时段模式</string>
+    <string name="quiet_hours_reset_times">重置所有时段设定?</string>
     <string name="quiet_hours_daily_times">设置单日生效时间</string>
     <string name="quiet_hours_daily_on">已设置单日生效时间</string>
     <string name="quiet_hours_daily_off">单一组生效时间模式</string>
@@ -1016,7 +1017,10 @@
     <string name="power_end_call_summary">通话中按下电源键挂断电话</string>
 
     <!-- Heads up -->
-    <string name="heads_up_title">浮动通知</string>
+    <string name="category_heads_up">浮动通知</string>
+    <string name="summary_heads_up_enabled">使用浮动通知</string>
+    <string name="summary_heads_up_disabled">停用浮动通知</string>
+    <string name="heads_up_floating_window">利用悬浮窗口模式打开通知所属程序</string>
     <string name="heads_up_expanded_title">永远展开</string>
     <string name="heads_up_expanded_summary">永远以展开方式显示通知事开部内容</string>
     <string name="heads_up_show_updates_title">显示更新提示</string>
@@ -1029,15 +1033,19 @@
     <string name="heads_up_snooze_10min">10 分钟</string>
     <string name="heads_up_snooze_15min">15 分钟</string>
     <string name="heads_up_snooze_20min">20 分钟</string>
-    <string name="heads_up_time_out_title">显示逾时</string>
-    <string name="heads_up_time_out_summary">浮动通知视窗将在屏幕显示 <xliff:g id="number">%d</xliff:g> 秒.</string>
-    <string name="heads_up_time_out_never_summary">浮动通知视窗会一直停留直到被撤除.</string>
+    <string name="heads_up_time_out_title">显示超时</string>
+    <string name="heads_up_time_out_summary">浮动通知窗口将在屏幕显示 <xliff:g id="number">%d</xliff:g> 秒.</string>
+    <string name="heads_up_time_out_never_summary">浮动通知窗口会一直停留直到被撤除.</string>
     <string name="heads_up_time_out_4sec">4 秒</string>
     <string name="heads_up_time_out_6sec">6 秒</string>
     <string name="heads_up_time_out_8sec">8 秒</string>
     <string name="heads_up_time_out_10sec">10 秒</string>
     <string name="heads_up_time_out_never">永不</string>
     <string name="heads_up_switch_label">启用浮动通知</string>
-    <string name="heads_up_floating_Window_title">浮动视窗模式</string>
-    <string name="heads_up_floating_Window_summary">以浮动视窗方式打开通知所属程序</string>
+    <string name="add_heads_up_package">新增程序</string>
+    <string name="add_heads_up_dnd_summary">禁止以下程序弹出浮动通知</string>
+    <string name="add_heads_up_blacklist_summary">禁止以下程序发出浮动通知</string>
+    <string name="heads_up_dnd_title">免打扰清单</string>
+    <string name="heads_up_blacklist_title">黑名单</string>
+    <string name="heads_up_disabled_notice">引导浮动通知允许程序显示交互式窗口.</string>
 </resources>

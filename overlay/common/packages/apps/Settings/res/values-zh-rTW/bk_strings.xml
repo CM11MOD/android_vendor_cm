@@ -555,6 +555,9 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="layout">風格</string>
     <string name="privacy">私隱</string>
 
+    <string name="active_notification_mode_title">通知風格</string>
+    <string name="active_notification_mode_summary">選擇您想要鎖定畫面通知風格</string>
+
     <string name="Lockscreen_notifications_header">鎖定畫面通知</string>
     <string name="lockscreen_notifications">鎖定畫面通知</string>
     <string name="lockscreen_notifications_summary">顯示在鎖定畫面待處理的通知</string>
@@ -1502,4 +1505,24 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="weather_header_title">ACIP文字信息</string>
     <string name="weather_notification_title">AICP天氣通知欄</string>
     <string name="weather_both_aicp_view">AICP文字信息及天氣通知欄</string>
+
+    <string name="shortcut_settings_title">捷徑</string>
+    <string name="animation_touchslop_title">滾動啟動閾值</string>
+    <string name="animation_touchslop_summary">改變滾動反應</string>
+    <string name="weather_icon_title">隱藏狀態欄圖示</string>
+    <string name="weather_icon_summary">隱藏狀態欄天氣圖示.</string>
+
+    <!-- NavBar IME Cursor Longpress Action-->
+    <string name="ime_cursor_longpress_action_title">導航欄游標長按動作</string>
+    <string name="ime_cursor_longpress_action_summary"> 切換游標動作: 上/下 與 HOME/END </string>
+    <string name="ime_navigation_up_down">上 / 下</string>
+    <string name="ime_navigation_home_end">home / end</string>
+
+    <!-- Proximity wake -->
+    <string name="proximity_wake_title">距離感應器</string>
+    <string name="proximity_wake_summary">使用距離感應器協助喚醒機器</string>
+
+    <!-- Text for disabling immersive mode messages -->
+    <string name="disable_immersive_message_title">停用提示</string>
+    <string name="disable_immersive_message_summary">停用切換到全屏模式</string>    
 </resources>
