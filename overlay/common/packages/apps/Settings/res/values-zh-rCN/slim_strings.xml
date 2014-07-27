@@ -1048,4 +1048,8 @@
     <string name="heads_up_dnd_title">免打扰清单</string>
     <string name="heads_up_blacklist_title">黑名单</string>
     <string name="heads_up_disabled_notice">引导浮动通知允许程序显示交互式窗口.</string>
+    <string name="heads_up_gravity_title">下方显示</string>
+    <string name="heads_up_gravity_summary">在下方显示浮动通知</string>
+
+    <string name="recent_panel_bg_color_title">背景颜色</string>
 </resources>

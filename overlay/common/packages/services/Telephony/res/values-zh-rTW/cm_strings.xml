@@ -158,4 +158,9 @@ value (do nothing = 0, mute = 1, dismiss = 2) -->
 
     <!-- Setting summary for the dialpad key padding setting. -->
     <string name="dialkey_padding_summary">撥號盤鍵上下間距填充寬度</string>
+
+    <!-- dialpad t9 search -->
+    <string name="preference_category_t9_dialpad_search">T9搜尋</string>
+    <string name="t9_search_input_locale">T9 搜尋語言</string>
+    <string name="t9_search_input_locale_default">默認</string>
 </resources>
