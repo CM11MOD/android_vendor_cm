@@ -1516,4 +1516,7 @@ PA版本是全屏助手，简洁美观的方式在全屏模式中提供基本按
     <!-- Text for disabling immersive mode messages -->
     <string name="disable_immersive_message_title">停用提示</string>
     <string name="disable_immersive_message_summary">停用切换到全屏模式</string>    
+
+    <string name="recents_style_aosb">HTC 风格 (mod)</string>
+    <string name="hover_blacklist_label">禁用 Hover 通知</string>
 </resources>

@@ -68,4 +68,9 @@
     <!-- Heads up mode -->
     <string name="pref_title_notification_heads_up_mode_enabled">浮動通知模式</string>
     <string name="pref_summary_notification_heads_up_mode_enabled">以浮動視窗顯示信息內容.</string>
+
+    <!-- Settings item for boolean option to auto -enable data for MMS messages -->
+    <string name="pref_title_mms_auto_enable_data">自動套用數據連接</string>
+    <!-- Settings item description for boolean auto-enable data for MMS option -->
+    <string name="pref_summary_mms_auto_enable_data">傳送 MMS 彩信時自動開啟數據連接</string>
 </resources>

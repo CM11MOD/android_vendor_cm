@@ -385,4 +385,6 @@
     <string name="status_bar_notification_heads_up_enable_title">浮動通知窗口已啟動</string>
     <string name="status_bar_notification_heads_up_disable_title">浮動通知窗口已停用</string>
     <string name="heads_up_snooze_message">暫停浮動通知窗口<xliff:g id="number">%d</xliff:g> 分鐘.</string>
+
+    <string name="status_bar_notification_spam_item_title">停用通知提示</string>
 </resources>
