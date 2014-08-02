@@ -163,4 +163,13 @@ value (do nothing = 0, mute = 1, dismiss = 2) -->
     <string name="preference_category_t9_dialpad_search">T9搜尋</string>
     <string name="t9_search_input_locale">T9 搜尋語言</string>
     <string name="t9_search_input_locale_default">默認</string>
+
+    <!-- Incoming call style -->
+    <string name="incoming_call_style_title">來電顯示風格</string>
+    <string name="incoming_call_style_classic">傳統</string>
+    <string name="incoming_call_style_fullscreen_photo">全屏相片</string>
+
+    <!-- Detailed InCall Info -->
+    <string name="detailed_incall_info_title">顯示詳細來電訊息</string>
+    <string name="detailed_incall_info_summary">在來電畫面顯示來電號碼其他信息 (公司, 職位, 城市或別名).</string>
 </resources>

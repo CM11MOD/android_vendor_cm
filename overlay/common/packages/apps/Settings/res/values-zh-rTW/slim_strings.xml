@@ -1064,4 +1064,7 @@
     <string name="shortcut_action_media_play_pause">音樂 - 播放/暫停</string>
     <string name="shortcut_action_media_previous">音樂 - 上一首</string>
     <string name="shortcut_action_wake_device">喚醒</string>
+
+    <!-- Device specific settings -->
+    <string name="screen_off_gesture_settings_title">關屏手勢</string>
 </resources>
