@@ -157,4 +157,12 @@
     <!-- Heads up -->
     <string name="permlab_changeHeadsUpState">浮動通知窗口開關</string>
     <string name="permdesc_changeHeadsUpState">選擇以不干擾前台的浮動窗口或一般模式顯示通知事項.</string>
+
+    <string name="setting_reset_hint_title">重置設定:</string>
+    <string name="setting_reset_hint_message">
+    <![CDATA[
+    <p>打開 <b>設定</b><br/>
+    個人: <b>備份與重設</b><br/>
+    個人資料: <b>重置設定</b></p>
+    ]]></string>
 </resources>

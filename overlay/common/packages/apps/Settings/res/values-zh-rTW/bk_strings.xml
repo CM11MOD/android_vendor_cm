@@ -26,6 +26,10 @@
     <string name="lockscreen_settings_title">鎖定畫面</string>
     <string name="power_menu_expanded_desktop">全屏模式</string>
     <string name="kernel_tweaker_title">性能調校</string>
+    <string name="notifications_settings_title">通知服務</string>
+    <string name="lockscreen_notifications_settings">鎖屏通知服務</string>
+    <string name="disabled_notice">啟用顯示其他設定選項</string>
+    <string name="category_presets_title">預設管理</string>
 
     <!-- Active Display -->
     <string name="ad_settings_title">鎖定畫面動態通知</string>
@@ -244,10 +248,11 @@
     <string name="status_bar_carrier_color">自定義顏色</string>
 
     <!-- Halo -->
-    <string name="halo_settings_title">HALO 設定</string>
-    <string name="halo_behavior_title">Halo 行為</string>
+    <string name="halo_settings_title">HALO 通知</string>
+    <string name="halo_behavior_title">HALO 動作</string>
     <string name="halo_enabled_title">HALO 開關</string>
-    <string name="halo_enabled_summary">HALO 總開關</string>
+    <string name="halo_enabled_summary">啟用</string>
+    <string name="halo_disabled_summary">關閉</string>
     <string name="halo_hide_title">顯示后自動隱藏 HALO</string>
     <string name="halo_hide_summary">當通知顯示后自動隱藏 HALO</string>
     <string name="halo_reversed_title">復原 HALO 手勢</string>
@@ -1160,7 +1165,7 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="battery_saver_cpu_mode_title">啟動 CPU 節能模式</string>
     <string name="pref_battery_saver_cpu_warning_title">注意：</string>
     <string name="pref_battery_saver_cpu_warning_summary">我們無法保證會起作用。</string>
-    <string name="pref_battery_saver_network_title">智能網路變更</string>
+    <string name="pref_battery_saver_network_title">智能網路連接模式</string>
     <string name="pref_battery_saver_network_summary">螢幕關閉并啟用省電模式時，特定時間間隔后允許切換網路到正常模式</string>
     <string name="pref_battery_saver_nosignal_title">智能網路訊號</string>
     <string name="pref_battery_saver_nosignal_summary">無網路訊號 5 分鐘后啟動飛行模式</string>
@@ -1433,10 +1438,11 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="peek_blacklist_label">禁用Peek模式</string>
     <string name="floating_blacklist_label">禁用懸浮視窗</string>
 
-    <!-- HOVER -->
+    <!-- Hover-->
     <string name="hover_title">HOVER 設定</string>
-    <string name="hover_enabled_title">HOVER通知</string>
-    <string name="hover_enabled_summary">啟用 PA HOVER 通知系統</string>
+    <string name="hover_enabled_title">HOVER 通知</string>
+    <string name="hover_enabled_summary">啟用</string>
+    <string name="hover_disabled_summary">關閉</string>
     <string name="hover_hide_button_title">隱藏 HOVER 按鍵</string>
     <string name="hover_hide_button_summary">隱藏下拉通知欄HOVER按鍵</string>
     <string name="hover_active_title">啟用 HOVER</string>
@@ -1528,4 +1534,19 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
 
     <string name="recents_style_aosb">HTC 風格 (mod)</string>
     <string name="hover_blacklist_label">禁用 Hover 通知</string>
+
+    <!-- Hover instant fade out delay -->
+    <string name="hover_micro_fadeout_title">隱藏逾時值</string>
+    <string name="hover_micro_fadeout_stock">系統默認</string>
+    <string name="hover_micro_fadeout_instant">按下立即隱藏</string>
+
+    <!-- Show 4G/LTE on LTE-->
+    <string name="show_4g_for_lte_title">使用 4G 圖示</string>
+    <string name="show_4g_for_lte_summary">使用 4G 連接圖標取代 LTE 顯示</string>
+
+    <!-- Recents background custom color - stock view -->
+    <string name="recents_stock_bg_color_title">自定義顏色</string>
+    <string name="recents_stock_title">AOSP 風格</string>
+
+    <string name="battery_saver_disabled_notice">啟用使用省電模式</string>
 </resources>

@@ -494,9 +494,9 @@
     <!--<string name="quiet_hours_enabled">启用免打扰模式</string>
     <string name="quiet_hours_enabled_on">免打扰模式将强制执行</string>
     <string name="quiet_hours_enabled_off">通知不受影响</string>-->
-    <string name="quiet_hours_mode">免打扰模式</string>
+    <string name="quiet_hours_mode">免打扰时段模式</string>
     <string name="quiet_hours_off">关闭</string>
-    <string name="quiet_hours_forced">强制使用免打扰模式</string>
+    <string name="quiet_hours_forced">强制模式</string>
     <string name="quiet_hours_times_warning">时间不能重叠：设置为最接近的可能时间</string>
     <string name="quiet_hours_wifi">WiFi 连接</string>
     <string name="quiet_hours_wifi_on">只有WiFi 连接时生效</string>
@@ -1056,6 +1056,7 @@
     <string name="spam_added_title">已加入 %1$s</string>
     <string name="spam_last_blocked_title">最近拦截 %1$s</string>
     <string name="block_notifications_title">过滤提示</string>
+    <string name="block_notifications_summary">管理过滤器和需要忽略的通知</string>
     <string name="no_filters_title">还没有加入任何程序</string>
 
     <string name="shortcut_action_camera">快门</string>
