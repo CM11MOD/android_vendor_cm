@@ -298,7 +298,7 @@ ifdef CM_BUILDTYPE
 else
     # If CM_BUILDTYPE is not defined, set to UNOFFICIAL
     CM_BUILDTYPE := BURST-KERNEL-KANG
-    CM_EXTRAVERSION := _RELEASE_3.0.1
+    CM_EXTRAVERSION := _RELEASE_3.0.2
 endif
 
 ifeq ($(CM_BUILDTYPE), RELEASE)
@@ -349,6 +349,7 @@ endif
 
 # by default, do not update the recovery with system updates
 PRODUCT_PROPERTY_OVERRIDES += persist.sys.recovery_update=false
+#PRODUCT_PROPERTY_OVERRIDES += persist.call_recording.enabled=true
 
 PRODUCT_PROPERTY_OVERRIDES += \
   ro.cm.display.version=$(CM_DISPLAY_VERSION)
