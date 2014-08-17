@@ -30,6 +30,7 @@
     <string name="lockscreen_notifications_settings">鎖屏通知服務</string>
     <string name="disabled_notice">啟用顯示其他設定選項</string>
     <string name="category_presets_title">預設管理</string>
+    <string name="reset_settings_message">把設定還原為系統預設值?</string>
 
     <!-- Active Display -->
     <string name="ad_settings_title">鎖定畫面動態通知</string>
