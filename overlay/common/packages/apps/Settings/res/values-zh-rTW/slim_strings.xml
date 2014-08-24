@@ -374,12 +374,12 @@
     <string name="notification_drawer_qs_title">通知 &amp; 磁磚開關欄</string>
     <string name="notification_drawer_title">通知欄</string>
     <!--<string name="notification_hide_carrier_title">隱藏運營商名稱</string>
-    <string name="notification_hide_carrier_summary">隱藏通知欄底部wifi及運營商名稱</string>-->
+    <string name="notification_hide_carrier_summary">隱藏通知欄底部Wi-fi及運營商名稱</string>-->
     <string name="notification_shortcuts_settings_title">通知欄捷徑</string>
     <string name="notification_shortcuts_settings_summary">通知欄新增捷徑</string>
 
     <!-- Notification hide labels -->
-    <string name="notification_hide_labels_title">隱藏通知欄網絡名稱</string>
+    <string name="notification_hide_labels_title">Wi-fi及運營商名稱</string>
     <string name="notification_hide_labels_disable">顯示所有名稱</string>
     <string name="notification_hide_labels_carrier">隱藏營運商名稱</string>
     <string name="notification_hide_labels_wifi">隱藏wifi名稱</string>

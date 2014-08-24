@@ -217,21 +217,43 @@
     <!-- Network usage stats -->
     <string name="status_bar_network_cat">网络速度</string>
     <string name="status_bar_network_header">网络速度</string>
-    <string name="status_bar_network_title">网络速度</string>
+    <string name="network_traffic_title">网络速度</string>
+    <string name="show_network_traffic_state">显示模式</string>
+    <string name="show_network_traffic_unit">显示单位</string>
+    <string name="show_network_traffic_frequency">更新频率</string>
+    <string name="show_network_traffic_disable">停用</string>
+    <string name="show_network_traffic_up">仅显示上载速度</string>
+    <string name="show_network_traffic_down">仅显示下载速度</string>
+    <string name="show_network_traffic_all">显示上载和下载速度</string>
+    <string name="show_network_traffic_bit">每秒位数</string>
+    <string name="show_network_traffic_byte">每秒字节数</string>
+    <string name="network_traffic_autohide">自动隐藏</string>
+    <string name="network_traffic_autohide_summary">没有活动时将网速自动隐藏</string>
+    <string name="network_traffic_autohide_threshold">停止阀值</string>
+
+    <!-- Network stats custom colors-->
+    <string name="network_traffic_color_style">颜色</string>
+    <string name="network_traffic_icon_color_style">上下载图示颜色</string>
+    <string name="network_traffic_color_reset">重置</string>
+    <string name="network_traffic_color_reset_message">将网速文字和图示色彩还原至系统预设?</string>
+    <!--<string name="status_bar_network_title">网络速度</string>
     <string name="status_bar_show_network_stats_title">显示速度</string>
     <string name="status_bar_network_stats_update_title">更新频率</string>
     <string name="status_bar_traffic_style_hidden">隐藏</string>
     <string name="status_bar_traffic_style_rx">仅显示下载速度</string>
-    <string name="status_bar_traffic_style_rxtx">显示上传和下载速度</string>
-
-    <!-- Network stats custm colors -->
+    <string name="status_bar_traffic_style_rxtx">显示上传和下载速度</string>-->
+    <!-- Network stats custm colors
     <string name="status_bar_network_usage_color_style">设置色彩</string>
     <string name="status_bar_network_usage_color_reset">重置</string>
-    <string name="status_bar_network_usage_color_reset_message">将网速文字色彩撤消至系统缺省?</string>
+    <string name="status_bar_network_usage_color_reset_message">将网速文字色彩撤消至系统缺省?</string> -->
 
-    <!-- Network stats hide if there's no traffic -->
+    <!-- Network stats hide if there's no traffic
     <string name="hide_network_speed">自动隐藏</string>
-    <string name="hide_network_speed_summary">没有活动时将网速自动隐藏</string>
+    <string name="hide_network_speed_summary">没有活动时将网速自动隐藏</string> -->
+
+    <!-- Status Bar Activity Indicators -->
+    <string name="show_activity_indicators_on_status_bar_title">网络活动标志</string>
+    <string name="show_activity_indicators_on_status_bar_summary">状态栏网络活动标志</string>
 
     <string name="alt_resolver">缺省应用程序网格</string>
     <string name="alt_resolver_summary">使用替代的缺省应用程序选择器</string>
@@ -913,7 +935,7 @@ PA版本是全屏助手，简洁美观的方式在全屏模式中提供基本按
     <!-- Active Notifications -->
     <string name="general">一般</string>
     <string name="privacy">私隐设定</string>
-    <string name="additional_settings_title">其他设定</string>
+    <string name="additional_settings_title">设定</string>
     <string name="ad_enable_summary">使用MotoX锁屏动态通知</string>
     <string name="active_quiet_hours_title">免打扰时段规则</string>
     <string name="active_quiet_hours_summary">遵守免打扰时段规则</string>
@@ -1542,4 +1564,7 @@ PA版本是全屏助手，简洁美观的方式在全屏模式中提供基本按
     <string name="recents_stock_title">AOSP 风格</string>
 
     <string name="battery_saver_disabled_notice">启用使用省电模式</string>
+
+    <string name="recents_panel_header_text_color_title">程序文字颜色</string>
+    <string name="wifi_carrier_label_color_title">营运商及WI-FI文字颜色</string>
 </resources>

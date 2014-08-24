@@ -379,7 +379,7 @@
     <string name="notification_shortcuts_settings_summary">通知栏新增捷径</string>
 
     <!-- Notification hide labels -->
-    <string name="notification_hide_labels_title">隐藏通知栏网络名称</string>
+    <string name="notification_hide_labels_title">Wi-fi及运营商名称</string>
     <string name="notification_hide_labels_disable">显示所有名称</string>
     <string name="notification_hide_labels_carrier">隐藏营运商名称</string>
     <string name="notification_hide_labels_wifi">隐藏wifi名称</string>
