@@ -94,6 +94,10 @@ endif
 PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/common/bin/otasigcheck.sh:system/bin/otasigcheck.sh
 
+# Signature compatibility validation
+PRODUCT_COPY_FILES += \
+    vendor/cm/prebuilt/common/bin/97-bootanimation.sh:system/addon.d/97-bootanimation.sh \
+
 # init.d support
 PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/common/etc/init.d/00banner:system/etc/init.d/00banner \
