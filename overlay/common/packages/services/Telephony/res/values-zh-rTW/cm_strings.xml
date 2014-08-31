@@ -172,4 +172,10 @@ value (do nothing = 0, mute = 1, dismiss = 2) -->
     <!-- Detailed InCall Info -->
     <string name="detailed_incall_info_title">顯示詳細來電訊息</string>
     <string name="detailed_incall_info_summary">在來電畫面顯示來電號碼其他信息 (公司, 職位, 城市或別名).</string>
+
+    <!-- callui headsup service-->
+    <string name="headsup_callui_off">關閉</string>
+    <string name="headsup_callui_hover">Hover通知</string>
+    <string name="headsup_callui_headsup">浮動通知</string>
+    <string name="headsup_callui_headsup_expanded">浮動通知 (展開)</string>
 </resources>

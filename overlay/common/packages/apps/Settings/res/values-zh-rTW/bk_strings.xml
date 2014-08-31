@@ -32,8 +32,21 @@
     <string name="category_presets_title">預設管理</string>
     <string name="reset_settings_message">把設定還原為系統預設值?</string>
 
+    <string name="quick_settings_title">磁貼開關</string>
+
+    <string name="options_title">選項</string>
+    <string name="color_title">顏色</string>
+    <string name="icon_title">圖示</string>
+
+    <string name="category_general_title">一般</string>
+    <string name="category_display_title">顯示</string>
+    <string name="category_style_title">風格</string>
+    <string name="category_ui_title">使用者界面</string>
+    <string name="category_wake_options">喚醒設定</string>
+
     <!-- Active Display -->
     <string name="ad_settings_title">鎖定畫面動態通知</string>
+    <string name="ad_customizations_title">自定義設定</string>
     <string name="ad_settings_summary">改變鎖定畫面動態通知設置</string>
     <string name="ad_enable_title">啟用</string>
     <string name="ad_enable_summary_on">鎖定畫面動態通知已啟用</string>
@@ -195,6 +208,7 @@
     <string name="recent_clear_all_button_location_top_right">右上</string>
     <string name="recent_clear_all_button_location_bottom_left">左下</string>
     <string name="recent_clear_all_button_location_bottom_right">右下</string>
+    <string name="recents_clear_all_button_color_title">按鍵顏色</string>
 
     <!-- Recents Ram Bar -->
     <string name="ram_bar">最近任務界面RAM條</string>
@@ -1575,6 +1589,86 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
 
     <string name="battery_saver_disabled_notice">啟用使用省電模式</string>
 
-    <string name="recents_panel_header_text_color_title">程式文字顏色</string>
+    <string name="recents_panel_header_text_color_title">程式名字顏色</string>
     <string name="wifi_carrier_label_color_title">營運商及WI-FI文字顏色</string>
+
+    <!-- Circle Battery : Dot length, Dot offset, Dot interval -->
+    <string name="dot_length_title">點線長度</string>
+    <string name="dot_interval_title">點線間隔</string>
+    <string name="dot_offset_title">點線偏移</string>
+    <string name="battery_status_circle_dotted_title">環形點線</string>
+    <string name="battery_status_circle_dotted_summary">將實線轉換成點線模式顯示</string>
+
+    <!-- Settings root list settings -->
+    <string name="settings_root_list_title">根目錄菜單</string>
+    <string name="settings_root_list_summary">自定義根目錄菜單風格</string>
+    <string name="settings_root_list_colorize_account_icons_title">帳戶</string>
+    <string name="settings_root_list_colorize_account_icons_summary">套用顏色設定到帳戶圖示上 .</string>
+
+    <string name="show_noti_settings_button_title">新增設定捷徑</string>
+    <string name="show_noti_settings_button_summary">通知欄上新增設定捷徑</string>
+    <string name="settings_root_list_category_text_color_title">分類文字</string>
+    <string name="settings_root_list_title_text_color_title">標題文字</string>
+
+    <!-- Status bar notifications and system icons -->
+    <string name="status_bar_notif_system_icon_color_title">圖示</string>
+    <string name="status_bar_notif_text_color_title">通知欄文字</string>
+    <string name="status_bar_notif_count_text_color_title">通知計數數字</string>
+    <string name="status_bar_notif_system_icons_title">狀態欄通知及系統圖示</string>
+    <string name="status_bar_notif_system_icons_title_phone">狀態欄通知及系統圖示</string>
+    <string name="status_bar_notif_system_icons_summary">設定狀態欄通知及系統圖示風格</string>
+    <string name="status_bar_colorize_notif_icons_title">著色</string>
+    <string name="status_bar_colorize_notif_icons_title_phone">通知圖示著色</string>
+    <string name="status_bar_colorize_notif_icons_summary">為狀態欄上的通知提示圖示著色</string>
+
+    <string name="status_bar_summary">狀態欄風格</string>
+    <string name="status_bar_expanded_title">狀態欄</string>
+    <string name="status_bar_expanded_summary">設定狀態欄風格</string>
+    <string name="navigation_bar_title">導航欄</string>
+    <string name="navigation_bar_summary">設定導航欄風格</string>
+    <string name="bg_title">背景</string>
+    <string name="bg_colors_summary">設定背景顏色</string>
+    <string name="opaque_color_title">不透明</string>
+    <string name="semi_trans_color_title">半透明</string>
+    <string name="gradient_color_title">陰影</string>
+
+    <!-- Custom Bootanimation -->
+    <string name="bootanimation_settings_title">啟動動畫</string>
+    <string name="custom_bootanimation_title">自定義啟動動畫</string>
+    <string name="custom_bootanimation_summary">從儲存裝置選擇zip格式動畫檔.</string>
+    <string name="install_file_manager_error">無法選取檔案. 請先安裝第三方文件管理員</string>
+    <string name="bootanimation_preview">動畫預覽</string>
+    <string name="apply">套用</string>
+    <string name="creating_preview">生成預覽中...</string>
+    <string name="error_reading_zip_file">讀檔錯誤</string>
+    <string name="error_creating_preview">無法生成預覽</string>
+    <string name="bootanimation_preview_loop_title">循環播放</string>
+    <string name="bootanimation_preview_loop_summary">循環播放預覽檔</string>
+    <string name="dlg_bootanimation_help_message">沒有其他動畫檔，請存放到sdcard中\n\n 只支援zip檔案格式, (不可使用恢復模式使用的刷入檔案!)\n\n目前使用中動畫將會備份作為恢復.\n但刷入新的動畫將會覆寫備份檔.\n\n至於ROM自帶原生動畫則會另外備份，可隨時恢復.\n\n只要在恢復模式中沒有執行Full Wipe操作便可保留備份.\n\n刷入ROM的新版本時候將回恢復成原生動畫.</string>
+    <string name="dlg_bootanimation_restore_title">回復</string>
+    <string name="dlg_bootanimation_restore_message">點擊動作：取消鍵退出.\n原生鍵則恢復成原生動畫.\n上次鍵則是對上一次載入動畫檔.</string>
+    <string name="dlg_bootanimation_restore_original">原生</string>
+    <string name="dlg_bootanimation_restore_last">上次</string>
+
+    <!-- Gesture panel -->
+    <string name="gesture_panel_title">手勢動作面板</string>
+    <string name="button_add">新增手勢</string>
+    <string name="button_reload">重新載入</string>
+    <string name="button_discard">取消</string>
+    <string name="button_done">完成</string>
+    <string name="prompt_gesture_name">輸入名稱</string>
+    <string name="error_missing_name">您必須為每個手勢設定命名</string>
+    <string name="save_success">手勢已存儲到 %s</string>
+    <string name="rename_action">確定</string>
+    <string name="cancel_action">取消</string>
+    <string name="gestures_loading">手勢載入中...</string>
+    <string name="gestures_empty">沒有設定任何手勢</string>
+    <string name="gestures_activity">手勢動作</string>
+    <string name="gestures_edit">編輯</string>
+    <string name="gestures_delete">刪除</string>
+    <string name="gestures_delete_success">刪除手勢</string>
+    <string name="gestures_rename_title">重新命名</string>
+    <string name="gestures_rename_label">手勢命名</string>
+    <string name="gestures_error_loading">無法從 %s讀取及載入手勢檔.請確認裝置是否擁有足夠的儲存空間.</string>
+</resources>
 </resources>

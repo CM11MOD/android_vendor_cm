@@ -125,6 +125,10 @@
     <string name="global_actions_mobile_data_on_status">移動數據連接已開啟</string>
     <string name="global_actions_mobile_data_off_status">移動數據連接已關閉</string>
 
+    <!-- label for item that toggle wifi -->
+    <string name="global_actions_wifi_on_status">WiFi 已開啟</string>
+    <string name="global_actions_wifi_off_status">WiFi 已關閉</string>
+
     <!-- Setting confirmation dialog strings. Shown when any UI interaction can be modified by user input -->
     <string name="setting_confirmation_ask_me_later">稍後再問</string>
     <string name="setting_confirmation_yes">確定</string>
@@ -166,4 +170,6 @@
     個人: <b>備份與重設</b><br/>
     個人資料: <b>重置設定</b></p>
     ]]></string>
+
+    <string name="gesture_actions">手勢動作面板</string>
 </resources>

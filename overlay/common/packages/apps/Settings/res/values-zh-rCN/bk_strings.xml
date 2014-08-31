@@ -30,9 +30,19 @@
     <string name="disabled_notice">启用显示其他设定选项</string>
     <string name="category_presets_title">预设管理</string>
     <string name="reset_settings_message">把设定还原为系统预设值?</string>
+    <string name="quick_settings_title">磁贴开关</string>
+    <string name="options_title">选项</string>
+    <string name="color_title">颜色</string>
+    <string name="icon_title">图示</string>
+    <string name="category_general_title">一般</string>
+    <string name="category_display_title">显示</string>
+    <string name="category_style_title">风格</string>
+    <string name="category_ui_title">使用者界面</string>
+    <string name="category_wake_options">唤醒设定</string>
 
     <!-- Active Display -->
     <string name="ad_settings_title">锁屏动态通知</string>
+    <string name="ad_customizations_title">自定义设定</string>
     <string name="ad_settings_summary">改变锁屏动态通知设置</string>
     <string name="ad_enable_title">启用</string>
     <string name="ad_enable_summary_on">锁屏动态通知已启用</string>
@@ -194,6 +204,7 @@
     <string name="recent_clear_all_button_location_top_right">右上</string>
     <string name="recent_clear_all_button_location_bottom_left">左下</string>
     <string name="recent_clear_all_button_location_bottom_right">右下</string>
+    <string name="recents_clear_all_button_color_title">按键颜色</string>
 
     <!-- Recents Ram Bar -->
     <string name="ram_bar">最近任务界面RAM条</string>
@@ -1565,6 +1576,98 @@ PA版本是全屏助手，简洁美观的方式在全屏模式中提供基本按
 
     <string name="battery_saver_disabled_notice">启用使用省电模式</string>
 
-    <string name="recents_panel_header_text_color_title">程序文字颜色</string>
+    <string name="recents_panel_header_text_color_title">程式名字颜色</string>
     <string name="wifi_carrier_label_color_title">营运商及WI-FI文字颜色</string>
+
+    <!-- Circle Battery : Dot length, Dot offset, Dot interval -->
+    <string name="dot_length_title">点线长度</string>
+    <string name="dot_interval_title">点线间隔</string>
+    <string name="dot_offset_title">点线偏移</string>
+    <string name="battery_status_circle_dotted_title">环形点线</string>
+    <string name="battery_status_circle_dotted_summary">将实线转换成点线模式显示</string>
+
+    <!-- Settings root list settings -->
+    <string name="settings_root_list_title">根目录菜单</string>
+    <string name="settings_root_list_summary">自定义根目录菜单风格</string>
+    <string name="settings_root_list_colorize_account_icons_title">帐户</string>
+    <string name="settings_root_list_colorize_account_icons_summary">套用颜色设定到帐户图示上 .</string>
+
+    <!-- Circle Battery : Dot length, Dot offset, Dot interval -->
+    <string name="dot_length_title">点线长度</string>
+    <string name="dot_interval_title">点线间隔</string>
+    <string name="dot_offset_title">点线偏移</string>
+    <string name="battery_status_circle_dotted_title">环形点线</string>
+    <string name="battery_status_circle_dotted_summary">将实线转换成点线模式显示</string>
+
+    <!-- Settings root list settings -->
+    <string name="settings_root_list_title">根目录菜单</string>
+    <string name="settings_root_list_summary">自定义根目录菜单风格</string>
+    <string name="settings_root_list_colorize_account_icons_title">帐户</string>
+    <string name="settings_root_list_colorize_account_icons_summary">套用颜色设定到帐户图示上 .</string>
+
+    <string name="show_noti_settings_button_title">新增设定捷径</string>
+    <string name="show_noti_settings_button_summary">通知栏上新增设定捷径</string>
+    <string name="settings_root_list_category_text_color_title">分类文字</string>
+    <string name="settings_root_list_title_text_color_title">标题文字</string>
+
+    <!-- Status bar notifications and system icons -->
+    <string name="status_bar_notif_system_icon_color_title">图示</string>
+    <string name="status_bar_notif_text_color_title">通知栏文字</string>
+    <string name="status_bar_notif_count_text_color_title">通知计数数字</string>
+    <string name="status_bar_notif_system_icons_title">状态栏通知及系统图示</string>
+    <string name="status_bar_notif_system_icons_title_phone">状态栏通知及系统图示</string>
+    <string name="status_bar_notif_system_icons_summary">设定状态栏通知及系统图示风格</string>
+    <string name="status_bar_colorize_notif_icons_title">著色</string>
+    <string name="status_bar_colorize_notif_icons_title_phone">通知图示著色</string>
+    <string name="status_bar_colorize_notif_icons_summary">为状态栏上的通知提示图示著色</string>
+
+    <string name="status_bar_summary">状态栏风格</string>
+    <string name="status_bar_expanded_title">状态栏</string>
+    <string name="status_bar_expanded_summary">设定状态栏风格</string>
+    <string name="navigation_bar_title">导航栏</string>
+    <string name="navigation_bar_summary">设定导航栏风格</string>
+    <string name="bg_title">背景</string>
+    <string name="bg_colors_summary">设定背景颜色</string>
+    <string name="opaque_color_title">不透明</string>
+    <string name="semi_trans_color_title">半透明</string>
+    <string name="gradient_color_title">阴影</string>
+
+    <!-- Custom Bootanimation -->
+    <string name="bootanimation_settings_title">启动动画</string>
+    <string name="custom_bootanimation_title">自定义启动动画</string>
+    <string name="custom_bootanimation_summary">从储存装置选择zip格式动画档.</string>
+    <string name="install_file_manager_error">无法选取档案. 请先安装第三方文件管理员</string>
+    <string name="bootanimation_preview">动画预览</string>
+    <string name="apply">套用</string>
+    <string name="creating_preview">生成预览中...</string>
+    <string name="error_reading_zip_file">读档错误</string>
+    <string name="error_creating_preview">无法生成预览</string>
+    <string name="bootanimation_preview_loop_title">循环播放</string>
+    <string name="bootanimation_preview_loop_summary">循环播放预览档</string>
+    <string name="dlg_bootanimation_help_message">没有其他动画档，请存放到sdcard中\n\n 只支援zip档案格式, (不可使用恢复模式使用的刷入档案!)\n\n目前使用中动画将会备份作为恢复.\n但刷入新的动画将会复写备份档.\n\n至于ROM自带原生动画则会另外备份，可随时恢复.\n\n只要在恢复模式中没有执行Full Wipe操作便可保留备份.\n\n刷入ROM的新版本时候将回恢复成原生动画.</string>
+    <string name="dlg_bootanimation_restore_title">回复</string>
+    <string name="dlg_bootanimation_restore_message">点击动作：取消键退出.\n原生键则恢复成原生动画.\n上次键则是对上一次载入动画档.</string>
+    <string name="dlg_bootanimation_restore_original">原生</string>
+    <string name="dlg_bootanimation_restore_last">上次</string>
+
+    <!-- Gesture panel -->
+    <string name="gesture_panel_title">手势动作面板</string>
+    <string name="button_add">新增手势</string>
+    <string name="button_reload">重新载入</string>
+    <string name="button_discard">取消</string>
+    <string name="button_done">完成</string>
+    <string name="prompt_gesture_name">输入名称</string>
+    <string name="error_missing_name">您必须为每个手势设定命名</string>
+    <string name="save_success">手势已存储到 %s</string>
+    <string name="rename_action">确定</string>
+    <string name="cancel_action">取消</string>
+    <string name="gestures_loading">手势载入中...</string>
+    <string name="gestures_empty">没有设定任何手势</string>
+    <string name="gestures_activity">手势动作</string>
+    <string name="gestures_edit">编辑</string>
+    <string name="gestures_delete">删除</string>
+    <string name="gestures_delete_success">删除手势</string>
+    <string name="gestures_rename_title">重新命名</string>
+    <string name="gestures_rename_label">手势命名</string>
+    <string name="gestures_error_loading">无法从 %s读取及载入手势档.请确认装置是否拥有足够的储存空间.</string>
 </resources>

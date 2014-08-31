@@ -1054,17 +1054,12 @@
 
     <string name="recent_panel_bg_color_title">背景顏色</string>
 
-    <string name="spam_added_title">已加入 %1$s</string>
-    <string name="spam_last_blocked_title">最近攔截 %1$s</string>
-    <string name="block_notifications_title">過濾提示</string>
-    <string name="block_notifications_summary">管理過濾器和需要忽略的通知</string>
-    <string name="no_filters_title">還沒有加入任何程序</string>
-
     <string name="shortcut_action_camera">快門</string>
     <string name="shortcut_action_media_next">音樂 - 下一首</string>
     <string name="shortcut_action_media_play_pause">音樂 - 播放/暫停</string>
     <string name="shortcut_action_media_previous">音樂 - 上一首</string>
     <string name="shortcut_action_wake_device">喚醒</string>
+    <string name="shortcut_action_gesture">手勢動作面板</string>
 
     <!-- Device specific settings -->
     <string name="screen_off_gesture_settings_title">關屏手勢</string>

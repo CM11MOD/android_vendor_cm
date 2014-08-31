@@ -126,11 +126,14 @@
     <string name="global_actions_mobile_data_on_status">移动数据连接已打开</string>
     <string name="global_actions_mobile_data_off_status">移动数据连接已关闭</string>
 
+    <!-- label for item that toggle wifi -->
+    <string name="global_actions_wifi_on_status">WiFi 已开启</string>
+    <string name="global_actions_wifi_off_status">WiFi 已关闭</string>
+
     <!-- Setting confirmation dialog strings. Shown when any UI interaction can be modified by user input -->
     <string name="setting_confirmation_ask_me_later">稍后再问</string>
     <string name="setting_confirmation_yes">确定</string>
     <string name="setting_confirmation_no">取消</string>
-
 
     <!-- ADB over network notification -->
     <string name="adb_net_active_notification_title">网络 ADB 调试已启用</string>
@@ -168,4 +171,6 @@
     个人: <b>备份与重设</b><br/>
     个人资料: <b>重置设定</b></p>
     ]]></string>
+
+    <string name="gesture_actions">手势动作面板</string>
 </resources>

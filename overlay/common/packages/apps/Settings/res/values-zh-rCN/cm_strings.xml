@@ -596,4 +596,10 @@
     <string name="wifi_ap_client_none_connected">客户端未连接</string>
     <string name="wifi_ap_client_reachable"><xliff:g id="addr">%1$s</xliff:g> - 可连接</string>
     <string name="wifi_ap_client_unreachable"><xliff:g id="addr">%1$s</xliff:g> - 不能连接</string>
+
+    <string name="spam_added_title"><xliff:g id="time_since" example="5 minutes ago">%1$s</xliff:g>加入</string>
+    <string name="spam_last_blocked_title">对上一次拦截 <xliff:g id="time_since" example="5 minutes ago">%1$s</xliff:g> (合共: <xliff:g id="count" example="2 times">%2$s</xliff:g>)</string>
+    <string name="block_notifications_title">过滤提示</string>
+    <string name="block_notifications_summary">管理过滤器和需要忽略的通知</string>
+    <string name="no_filters_title">还没有加入任何程序，长按程序名字然后选择加入</string>
 </resources>

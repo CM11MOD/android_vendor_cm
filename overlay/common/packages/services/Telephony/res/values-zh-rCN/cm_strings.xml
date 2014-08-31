@@ -162,4 +162,10 @@ value (do nothing = 0, mute = 1, dismiss = 2) -->
     <string name="incoming_call_style_title">来电显示风格</string>
     <string name="incoming_call_style_classic">传统</string>
     <string name="incoming_call_style_fullscreen_photo">全屏相片</string>
+
+    <!-- callui headsup service-->
+    <string name="headsup_callui_off">关闭</string>
+    <string name="headsup_callui_hover">Hover通知</string>
+    <string name="headsup_callui_headsup">浮动通知</string>
+    <string name="headsup_callui_headsup_expanded">浮动通知 (展开)</string>
 </resources>
