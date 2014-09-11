@@ -508,6 +508,12 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="pie_restart_launcher_summary">啟動全屏模式時候桌面重新載入啟動器. </string>
     <string name="pie_notifications_title">啟用外側滑動手勢目標</string>
     <string name="pie_notifications_summary">向外滑出動作可觸發下拉通知欄或磁磚快捷欄</string>
+    <string name="pie_torch_title">顯示手電筒鍵</string>
+    <string name="pie_torch_summary">PIE上新增手電筒鍵</string>
+    <string name="pie_gesture_title">顯示手勢捷徑面板</string>
+    <string name="pie_gesture_summary">PIE上新增手勢捷徑面板鍵</string>
+    <string name="pie_omniswitch_title">Omni任務面板</string>
+    <string name="pie_omniswitch_summary">最近任務按鍵作為Omni最近任務面板開關</string>
 
     <!-- Pie Color Settings -->
     <string name="pie_color_title">PIE面版自定義顏色</string>
@@ -1670,5 +1676,4 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="gestures_rename_title">重新命名</string>
     <string name="gestures_rename_label">手勢命名</string>
     <string name="gestures_error_loading">無法從 %s讀取及載入手勢檔.請確認裝置是否擁有足夠的儲存空間.</string>
-</resources>
 </resources>

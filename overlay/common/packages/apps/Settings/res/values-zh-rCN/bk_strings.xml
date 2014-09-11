@@ -496,6 +496,12 @@ PA版本是全屏助手，简洁美观的方式在全屏模式中提供基本按
     <string name="pie_restart_launcher_summary">启动全屏模式时候桌面重新载入启动器. </string>
     <string name="pie_notifications_title">启用外侧滑动手势目标</string>
     <string name="pie_notifications_summary">向外滑出动作可触发下拉通知栏或磁贴快捷栏</string>
+    <string name="pie_torch_title">显示手电筒键</string>
+    <string name="pie_torch_summary">PIE上新增手电筒键</string>
+    <string name="pie_gesture_title">显示手势捷径面板</string>
+    <string name="pie_gesture_summary">PIE上新增手势捷径面板键</string>
+    <string name="pie_omniswitch_title">Omni任务面板</string>
+    <string name="pie_omniswitch_summary">最近任务按键作为Omni最近任务面板开关</string>
 
     <!-- Pie Color Settings -->
     <string name="pie_color_title">PIE面版自定义颜色</string>

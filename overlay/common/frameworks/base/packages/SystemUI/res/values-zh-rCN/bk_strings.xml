@@ -389,4 +389,6 @@
     <string name="status_bar_notification_spam_item_title">停用通知提示</string>
     <string name="accessibility_desc_add_quick_settings">新增磁贴开关.</string>
     <string name="quick_settings_gesturepanel">手势动作面板</string>
+
+    <string name="gesture_panel_add">新增</string>
 </resources>

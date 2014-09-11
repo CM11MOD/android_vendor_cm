@@ -391,4 +391,5 @@
     <string name="accessibility_desc_add_quick_settings">新增磁貼開關.</string>
     <string name="quick_settings_gesturepanel">手勢動作面板</string>
 
+    <string name="gesture_panel_add">新增</string>
 </resources>
