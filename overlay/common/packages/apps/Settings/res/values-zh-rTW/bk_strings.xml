@@ -1676,4 +1676,19 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="gestures_rename_title">重新命名</string>
     <string name="gestures_rename_label">手勢命名</string>
     <string name="gestures_error_loading">無法從 %s讀取及載入手勢檔.請確認裝置是否擁有足夠的儲存空間.</string>
+
+    <string name="heads_up_bg_color_title">背景顏色</string>
+
+    <!-- Lockscreen Lid Settings -->
+    <string name="smart_cover">智能機蓋</string>
+    <string name="smart_cover_title">使用智能機蓋</string>
+    <string name="smart_cover_summary">機蓋關閉時使用智能機蓋代替鎖屏畫面</string>
+    <string name="smart_cover_wake_title">喚醒手機</string>
+    <string name="smart_cover_wake_summary">掀開機蓋時喚醒手機</string>
+    <string name="smart_cover_sleep_title">進入休眠</string>
+    <string name="smart_cover_sleep_summary">合上機蓋時進入休眠狀態</string>
+
+    <!-- Statusbar Carrier Logo -->
+    <string name="statusbar_carrier_logo_title">狀態欄運營商標誌</string>
+    <string name="statusbar_carrier_logo_summary">依據運營商在狀態欄顯示標誌</string>
 </resources>

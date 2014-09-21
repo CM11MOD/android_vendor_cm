@@ -290,13 +290,25 @@
     <string name="shortcut_action_disable_message">不能设置\n请新增键位</string>
     <string name="shortcut_image_not_valid">选定程序未能提供可用图示. 因此不能设置，请选择其它软件</string>
     <string name="shortcut_duplicate_entry">不能设置两个重复动作</string>
-
     <string name="shortcut_action_help_shortcut">捷径</string>
     <string name="shortcut_action_help_button">按键</string>
     <string name="shortcut_action_help_icon">, 选择图示时会触发自定义设置</string>
     <string name="shortcut_action_help_main">新增 %1$s时, 选择新增图示.  当图示 %1$s 成功新增, 选定行将改变目标%2$s\n\n欲删除 %1$s, 向左或右方滑动删除.  重置 %1$s 清单排序则拖动左方手把调整.\n\n清除或重置请按重置图示.</string>
     <string name="shortcut_action_help_delete_last_entry">删除 %1$s 清单上所有目标将关闭此功能.</string>
     <string name="shortcut_action_help">协助</string>
+    <string name="shortcut_action_navbar">导航栏</string>
+    <string name="shortcut_action_pie">Slim Pie 控制面板</string>
+    <string name="shortcut_action_papie">PA Pie 控制面板</string>
+    <string name="shortcut_action_theme_switch">主题开关</string>
+    <string name="shortcut_action_smart">智能下拉</string>
+    <string name="shortcut_action_omniswitch">Omni最近任务面板</string>
+    <string name="shortcut_action_onthego">透视模式</string>
+    <string name="shortcut_action_camera">快门</string>
+    <string name="shortcut_action_media_next">音乐 - 下一首</string>
+    <string name="shortcut_action_media_play_pause">音乐 - 播放/暂停</string>
+    <string name="shortcut_action_media_previous">音乐 - 上一首</string>
+    <string name="shortcut_action_wake_device">唤醒</string>
+    <string name="shortcut_action_gesture">手势动作面板</string>
 
     <string name="shortcuts_icon_picker_alarm">闹钟</string>
     <string name="shortcuts_icon_picker_andy">安迪</string>
@@ -926,10 +938,6 @@
     <string name="no_home_key">Home键没有设定任何到动作!可能令手机无法正常操作!</string>
 
     <string name="slim_shortcut_picker">Slim 捷径</string>
-    <string name="shortcut_action_navbar">导航栏</string>
-    <string name="shortcut_action_pie">Slim Pie 控制面板</string>
-    <string name="shortcut_action_papie">PA Pie 控制面板</string>
-    <string name="shortcut_action_theme_switch">主题开关</string>
     <string name="pie_button_second_layer_summary">变更第二层按键内容</string>
     <string name="navigation_bar_warning_no_navigation_present">目前没有启用任何其他控制键，关闭导航栏会令您无法操作手机，请问您是否要先启用SLIM PIE面板?</string>
     <string name="pie_warning_no_navigation_present">目前没有启用任何其他控制键，关闭导航栏会令您无法操作手机，请问您是否要先启用导航栏?</string>
@@ -952,10 +960,6 @@
     <string name="noti_reminder_interval_3dot5s">3.5 秒</string>
     <string name="noti_reminder_interval_4s">4 秒</string>
 
-    <string name="shortcut_action_smart">智能下拉</string>
-    <string name="shortcut_action_omniswitch">Omni最近任务面板</string>
-    <string name="shortcut_action_onthego">透视模式</string>
-
     <!-- Recent panel -->
     <string name="recent_panel_category">Slim 最近任务</string>
     <string name="recent_panel_scale_title">面板大小</string>
@@ -973,6 +977,10 @@
     <string name="recent_panel_expanded_mode_never">永不</string>
     <string name="recent_panel_show_topmost_title">显示前台程序</string>
     <string name="recent_panel_show_topmost_summary">不会从任务面板中隐藏当前程序</string>
+    <string name="recent_panel_bg_color_title">面板背景颜色</string>
+    <string name="trds_default_color">TRDS 默认</string>
+    <string name="recent_card_bg_color_title">卡片背景颜色</string>
+    <string name="recent_card_text_color_title">卡片文字颜色</string>
 
     <!-- Shake Events -->
     <string name="shake_events_title">摇晃手势</string>
@@ -1020,9 +1028,9 @@
     <string name="category_heads_up">浮动通知</string>
     <string name="summary_heads_up_enabled">使用浮动通知</string>
     <string name="summary_heads_up_disabled">停用浮动通知</string>
-    <string name="heads_up_floating_window">利用悬浮窗口模式打开通知所属程序</string>
+    <string name="heads_up_floating_window">利用悬浮视窗模式打开通知所属程序</string>
     <string name="heads_up_expanded_title">永远展开</string>
-    <string name="heads_up_expanded_summary">永远以展开方式显示通知事开部内容</string>
+    <string name="heads_up_expanded_summary">永远以展开方式显示通知事项全部内容</string>
     <string name="heads_up_show_updates_title">显示更新提示</string>
     <string name="heads_up_show_updates_summary">显示当未退出的更新提示</string>
     <string name="heads_up_snooze_title">打盹计时器</string>
@@ -1050,15 +1058,6 @@
     <string name="heads_up_disabled_notice">引导浮动通知允许程序显示交互式窗口.</string>
     <string name="heads_up_gravity_title">下方显示</string>
     <string name="heads_up_gravity_summary">在下方显示浮动通知</string>
-
-    <string name="recent_panel_bg_color_title">背景颜色</string>
-
-    <string name="shortcut_action_camera">快门</string>
-    <string name="shortcut_action_media_next">音乐 - 下一首</string>
-    <string name="shortcut_action_media_play_pause">音乐 - 播放/暂停</string>
-    <string name="shortcut_action_media_previous">音乐 - 上一首</string>
-    <string name="shortcut_action_wake_device">唤醒</string>
-    <string name="shortcut_action_gesture">手势动作面板</string>
 
     <!-- Device specific settings -->
     <string name="screen_off_gesture_settings_title">关屏手势</string>

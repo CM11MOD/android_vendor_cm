@@ -330,6 +330,9 @@
     <string name="adaptive_backlight_title">自適應背光</string>
     <string name="adaptive_backlight_summary">智能調節背光亮度以延長電池壽命</string>
 
+    <string name="sunlight_enhancement_title">日光增強</string>
+    <string name="sunlight_enhancement_summary">在明亮的陽光下提高顯示亮度和可讀性</string>
+
     <!-- Sms security limit -->
     <string name="sms_security_check_limit_title">短信限制</string>
     <string name="sms_security_check_limit_summary">應用程序在 30 分鐘內發送 %d 條信息后需要用戶認可才能繼續</string>

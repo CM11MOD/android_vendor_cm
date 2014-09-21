@@ -288,6 +288,17 @@
     <string name="shortcut_action_warning">警告</string>
     <string name="shortcut_action_warning_message">無法刪除上一個鍵位</string>
     <string name="shortcut_action_disable_message">無法設定\n請新增鍵位</string>
+    <string name="shortcut_action_navbar">導航欄</string>
+    <string name="shortcut_action_pie">Slim Pie 控制面板</string>
+    <string name="shortcut_action_papie">PA Pie 控制面板</string>
+    <string name="shortcut_action_theme_switch">主題開關</string>
+    <string name="shortcut_action_help_app">程序</string>
+    <string name="shortcut_action_camera">快門</string>
+    <string name="shortcut_action_media_next">音樂 - 下一首</string>
+    <string name="shortcut_action_media_play_pause">音樂 - 播放/暫停</string>
+    <string name="shortcut_action_media_previous">音樂 - 上一首</string>
+    <string name="shortcut_action_wake_device">喚醒</string>
+    <string name="shortcut_action_gesture">手勢動作面板</string>
     <string name="shortcut_image_not_valid">選定程序未能提供可用圖示. 因此無法設定，請選擇其他軟件</string>
     <string name="shortcut_duplicate_entry">無法設定兩個重覆動作</string>
 
@@ -927,10 +938,6 @@
     <string name="no_home_key">Home鍵沒有設定任何到動作!可能令手機無法正常操作!</string>
 
     <string name="slim_shortcut_picker">Slim 捷徑</string>
-    <string name="shortcut_action_navbar">導航欄</string>
-    <string name="shortcut_action_pie">Slim Pie 控制面板</string>
-    <string name="shortcut_action_papie">PA Pie 控制面板</string>
-    <string name="shortcut_action_theme_switch">主題開關</string>
     <string name="pie_button_second_layer_summary">變更第二層按鍵內容</string>
     <string name="navigation_bar_warning_no_navigation_present">目前沒有啟用任何其他控制鍵，關閉導航欄會令您無法操作手機，請問您是否要先啟用SLIM PIE面板?</string>
     <string name="pie_warning_no_navigation_present">目前沒有啟用任何其他控制鍵，關閉導航欄會令您無法操作手機，請問您是否要先啟用導航欄?</string>
@@ -974,6 +981,10 @@
     <string name="recent_panel_expanded_mode_never">永不</string>
     <string name="recent_panel_show_topmost_title">顯示前台程序</string>
     <string name="recent_panel_show_topmost_summary">不會從任務面板中隱藏當前程序</string>
+    <string name="recent_panel_bg_color_title">面板背景颜色</string>
+    <string name="trds_default_color">TRDS 默認</string>
+    <string name="recent_card_bg_color_title">卡片背景顏色</string>
+    <string name="recent_card_text_color_title">卡片文字顏色</string>
 
     <!-- Shake Events -->
     <string name="shake_events_title">搖晃手勢</string>
@@ -985,7 +996,6 @@
     <string name="shake_event_x_title">水平搖晃時觸發程序</string>
     <string name="shake_event_y_title">垂直搖晃時觸發程序</string>
     <string name="shake_event_z_title">前後搖晃時觸發程序</string>
-    <string name="shortcut_action_help_app">程序</string>
 
     <!-- Shake to secure -->
     <string name="shake_to_secure_title">搖晃鎖</string>
@@ -1023,7 +1033,7 @@
     <string name="summary_heads_up_disabled">停用浮動通知</string>
     <string name="heads_up_floating_window">利用懸浮視窗模式打開通知所屬程序</string>
     <string name="heads_up_expanded_title">永遠展開</string>
-    <string name="heads_up_expanded_summary">永遠以展開方式顯示通知事開部內容</string>
+    <string name="heads_up_expanded_summary">永遠以展開方式顯示通知事項全部內容</string>
     <string name="heads_up_show_updates_title">顯示更新提示</string>
     <string name="heads_up_show_updates_summary">顯示當未退出的更新提示</string>
     <string name="heads_up_snooze_title">打盹計時器</string>
@@ -1051,15 +1061,6 @@
     <string name="heads_up_disabled_notice">啟動浮動通知允許程序顯示互動式視窗.</string>
     <string name="heads_up_gravity_title">下方顯示</string>
     <string name="heads_up_gravity_summary">在下方顯示浮動通知</string>
-
-    <string name="recent_panel_bg_color_title">背景顏色</string>
-
-    <string name="shortcut_action_camera">快門</string>
-    <string name="shortcut_action_media_next">音樂 - 下一首</string>
-    <string name="shortcut_action_media_play_pause">音樂 - 播放/暫停</string>
-    <string name="shortcut_action_media_previous">音樂 - 上一首</string>
-    <string name="shortcut_action_wake_device">喚醒</string>
-    <string name="shortcut_action_gesture">手勢動作面板</string>
 
     <!-- Device specific settings -->
     <string name="screen_off_gesture_settings_title">關屏手勢</string>
