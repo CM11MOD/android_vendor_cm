@@ -1514,26 +1514,42 @@ PA版本是全屏助手，简洁美观的方式在全屏模式中提供基本按
     <string name="recents_swipe_summary">在程序截图向左方或下方滑动后,使用悬浮窗口方式打开所属程序.</string>
 
     <!-- Storage -->
-    <string name="storage_eject">卸载 <xliff:g id="storage" example="SD card">%s</xliff:g></string>
-    <string name="storage_eject_summary">卸载 <xliff:g id="storage" example="SD card">%s</xliff:g> 以安全删除媒体</string>
-    <string name="storage_insert_summary">插入 <xliff:g id="storage" example="SD card">%s</xliff:g> 加载</string>
-    <string name="storage_mount">安装 <xliff:g id="storage" example="SD card">%s</xliff:g></string>
-    <string name="storage_mount_summary"></string>
-    <string name="storage_format">删除 <xliff:g id="storage" example="SD card">%s</xliff:g></string>
-    <string name="storage_format_summary">删除 <xliff:g id="storage" example="SD card">%s</xliff:g>上所有数据, 例如音乐和相片</string>
-    <string name="storage_dlg_confirm_unmount_title">卸载 <xliff:g id="storage" example="SD card">%s</xliff:g>?</string>
-    <string name="storage_dlg_confirm_unmount_text">您如果卸载 <xliff:g id="storage" example="SD card">%s</xliff:g>, 部份程序或会意外停止或不能使用，直到您重新加载  <xliff:g id="storage" example="SD card">%1$s</xliff:g>.</string>
-    <string name="storage_dlg_error_unmount_title"></string>
-    <string name="storage_dlg_error_unmount_text">不能卸载 <xliff:g id="storage" example="SD card">%s</xliff:g>. 稍后重新再尝试.</string>
-    <string name="storage_unmount_inform_text"><xliff:g id="storage" example="SD card">%s</xliff:g> 将卸载.</string>
-    <string name="storage_ejecting_title"><xliff:g id="storage" example="SD card">%s</xliff:g>卸载中</string>
-    <string name="storage_ejecting_summary"><xliff:g id="storage" example="SD card">%s</xliff:g> 卸载中</string>
-    <string name="storage_format_title">删除 <xliff:g id="storage" example="SD card">%s</xliff:g></string>
-    <string name="storage_format_summary">删除 <xliff:g id="storage" example="SD card">%s</xliff:g>上所有数据.</string>
-    <string name="storage_format_desc">删除 <xliff:g id="storage" example="SD card">%s</xliff:g>所有数据? 您将会失去 <b>所有</b> 存储数据!</string>
-    <string name="storage_format_button_text">删除 <xliff:g id="storage" example="SD card">%s</xliff:g></string>
-    <string name="storage_format_final_desc">是否删除 <xliff:g id="storage" example="SD card">%s</xliff:g>上所有数据? 此操作不能撤消!</string>
-    <string name="storage_format_gesture_explanation">您需要绘制解锁图案，以确认删除 <xliff:g id="storage" example="SD card">%s</xliff:g>的数据.</string>
+    <string name="usb_eject">卸载 USB 存储</string>
+    <string name="usb_eject_summary">卸载 USB 存储后您就可以安全地移除它</string>
+    <string name="usb_insert_summary">插入 USB 存储以挂载</string>
+    <string name="usb_mount">挂载 USB 存储</string>
+    <string name="usb_format">擦除 USB 存储</string>
+    <string name="usb_format_summary">擦除 USB 存储上的所有数据，如音乐和照片</string>
+    <string name="dlg_confirm_usb_unmount_title">卸载 USB 存储？</string>
+    <string name="dlg_confirm_usb_unmount_text">如果卸载 USB 存储，您正在使用的一些应用程序将停止并且可能无法使用，直到您重新挂载 USB 存储。</string>
+    <string name="dlg_error_usb_unmount_text">无法卸载 USB 存储。请稍后重试。</string>
+    <string name="usb_unmount_inform_text">USB 存储将被卸载。</string>
+    <string name="usb_ejecting_title">正在卸载 USB 存储</string>
+    <string name="usb_ejecting_summary">USB 存储卸载正在进行</string>
+    <string name="usb_media_format_title">擦除 USB 存储</string>
+    <string name="usb_media_format_summary">擦除 USB 存储中的所有数据</string>
+    <string name="usb_media_format_desc">擦除所有的 USB 存储吗？您将失去<b>所有</b>存储的数据 ！</string>
+    <string name="usb_media_format_button_text">擦除 USB 存储</string>
+    <string name="usb_media_format_final_desc">确定要擦除该 USB 存储，删除其中存储的全部文件吗？您无法撤消此操作！</string>
+    <string name="usb_media_format_gesture_explanation">您需要绘制解锁图案以确认要擦除 USB 存储。</string>
+    <string name="sd_eject">卸载 SD 卡</string>
+    <string name="sd_eject_summary">卸载 SD 卡后您就可以安全地移除它</string>
+    <string name="sd_insert_summary">插入 SD 卡进行挂载</string>
+    <string name="sd_mount">挂载 SD 卡</string>
+    <string name="sd_format">擦除 SD 卡</string>
+    <string name="sd_format_summary">擦除 SD 卡中的全部数据，例如音乐和照片</string>
+    <string name="dlg_confirm_sd_unmount_title">卸载 SD 卡？</string>
+    <string name="dlg_confirm_sd_unmount_text">如果卸载该 SD 卡，您当前使用的某些应用会停止，并且在您重新挂载该 SD 卡前，这些应用可能都无法使用。</string>
+    <string name="dlg_error_sd_unmount_text">无法卸载 SD 卡。请稍后重试。</string>
+    <string name="sd_unmount_inform_text">SD 卡将被卸载。</string>
+    <string name="sd_ejecting_title">正在卸载 SD 卡</string>
+    <string name="sd_ejecting_summary">SD 卡卸载正在进行</string>
+    <string name="sd_media_format_title">擦除 SD 卡</string>
+    <string name="sd_media_format_summary">擦除 SD 卡上的所有数据</string>
+    <string name="sd_media_format_desc">要擦除 SD 卡吗？您将会丢失其中存储的<b>全部</b>数据！</string>
+    <string name="sd_media_format_button_text">擦除 SD 卡</string>
+    <string name="sd_media_format_final_desc">确定要擦除 SD 卡，删除其中存储的全部文件吗？您无法撤消该操作！</string>
+    <string name="sd_media_format_gesture_explanation">您需要绘制解锁图案以确认要擦除 SD 卡。</string>
 
     <!-- AICP weather panel -->
     <string name="weather_settings_title">AICP天气信息栏</string>

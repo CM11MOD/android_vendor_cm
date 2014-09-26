@@ -141,23 +141,39 @@
     <string name="adb_active_generic_notification_message">點擊停用調試模式.</string>
 
     <!-- See EXTMEDIA_FORMAT.   This is the message. [CHAR LIMIT=NONE] -->
-    <string name="extmedia_format_message_cm" product="nosdcard">所有儲存在USB裝置 (在 \'%1$s\'路徑下) 的資料將被刪除. 此操作無法撤消!</string>
+    <string name="extmedia_format_message_cm" product="nosdcard">USB 儲存空間上所有資料將會被清除（路徑 \'%1$s\'）。這個動作無法復原.</string>
     <!-- See EXTMEDIA_FORMAT.   This is the message. -->
-    <string name="extmedia_format_message_cm" product="default">所有儲存在外置SD儲存卡 (在 \'%1$s\'路徑下) 的資料將被刪除. 此操作無法撤消!</string>
+    <string name="extmedia_format_message_cm" product="default">SD 卡上所有資料將會被清除（路徑 \'%1$s\'）。這個動作無法復原.</string>
 
-    <!-- Storage notification -->
-    <string name="storage_checking_notification_title">準備 <xliff:g id="storage" example="SD card">%s</xliff:g></string>
-    <string name="storage_checking_notification_message">檢查 <xliff:g id="storage" example="SD card">%s</xliff:g> 上錯誤.</string>
-    <string name="storage_nofs_notification_title">空白的 <xliff:g id="storage" example="SD card">%s</xliff:g></string>
-    <string name="storage_nofs_notification_message"><xliff:g id="storage" example="SD card">%s</xliff:g> 是空白或使用不支援檔案系統.</string>
-    <string name="storage_unmountable_notification_title">損壞的 <xliff:g id="storage" example="SD card">%s</xliff:g></string>
-    <string name="storage_unmountable_notification_message"><xliff:g id="storage" example="SD card">%s</xliff:g> 已損壞. 嘗試再格式化.</string>
-    <string name="storage_badremoval_notification_title"><xliff:g id="storage" example="SD card">%s</xliff:g> 已意外移除</string>
-    <string name="storage_badremoval_notification_message">移除 <xliff:g id="storage" example="SD card">%s</xliff:g> 前先卸載媒體避免資料損失.</string>
-    <string name="storage_safe_unmount_notification_title"><xliff:g id="storage" example="SD card">%s</xliff:g> 可以安全移除</string>
-    <string name="storage_safe_unmount_notification_message">您可以安全移除 <xliff:g id="storage" example="SD card">%s</xliff:g>.</string>
-    <string name="storage_nomedia_notification_title">已移除 <xliff:g id="storage" example="SD card">%s</xliff:g></string>
-    <string name="storage_nomedia_notification_message"><xliff:g id="storage" example="SD card">%s</xliff:g> 已移除. 請插入新的媒體.</string>
+    <!-- SD card storage notification -->
+    <string name="sd_ext_media_checking_notification_title">正在準備 SD 卡</string>
+    <string name="sd_ext_media_checking_notification_message">正在檢查 SD 卡的錯誤。</string>
+    <string name="sd_ext_media_nofs_notification_title">SD 卡為空白</string>
+    <string name="sd_ext_media_nofs_notification_message">SD 卡無內容，或使用不受支援的檔案系統。</string>
+    <string name="sd_ext_media_unmountable_notification_title">USB 儲存裝置已損壞</string>
+    <string name="sd_ext_media_unmountable_notification_message">SD 記憶卡已損壞。請嘗試將記憶卡重新格式化。</string>
+    <string name="sd_ext_media_badremoval_notification_title">SD 卡未正常移除</string>
+    <string name="sd_ext_media_badremoval_notification_message">請先卸載 SD 卡，再將其移除，以免資料遺失。</string>
+    <string name="sd_ext_media_safe_unmount_notification_title">可安全移除 SD 卡</string>
+    <string name="sd_ext_media_safe_unmount_notification_message">您現在可以安全地移除 SD 卡。</string>
+    <string name="sd_ext_media_nomedia_notification_title">已移除 SD 卡</string>
+    <string name="sd_ext_media_nomedia_notification_message">SD 卡已移除，請插入新的 SD 卡。</string>
+
+    <!-- USB storage notification -->
+    <string name="usb_ext_media_checking_notification_title">正在準備 USB 儲存裝置</string>
+    <string name="usb_ext_media_checking_notification_message">正在檢查 USB 儲存裝置的錯誤。</string>
+    <string name="usb_ext_media_nofs_notification_title">USB 儲存裝置為空白</string>
+    <string name="usb_ext_media_nofs_notification_message">USB 儲存裝置無內容，或使用不受支援的檔案系統。</string>
+    <string name="usb_ext_media_unmountable_notification_title">USB 儲存裝置已損壞</string>
+    <string name="usb_ext_media_unmountable_notification_message">USB 儲存裝置已損壞。請嘗試將 USB 儲存裝置重新格式化。</string>
+    <string name="usb_ext_media_badremoval_notification_title">USB 儲存裝置未正常移除</string>
+    <string name="usb_ext_media_badremoval_notification_message">請先卸載 USB 儲存裝置，再將其移除，以免資料遺失。</string>
+    <string name="usb_ext_media_safe_unmount_notification_title">可安全移除 USB 儲存裝置</string>
+    <string name="usb_ext_media_safe_unmount_notification_message">您現在可以安全地移除 USB 儲存裝置。</string>
+    <string name="usb_ext_media_nomedia_notification_title">已移除 USB 儲存裝置</string>
+    <string name="usb_ext_media_nomedia_notification_message"> USB 儲存裝置已移除，請插入新的 USB 儲存裝置。</string>
+
+    <string name="usb_storage_notification_manage_message">點擊進行管理</string>
 
     <!-- Heads up -->
     <string name="permlab_changeHeadsUpState">浮動通知窗口開關</string>
