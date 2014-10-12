@@ -123,13 +123,13 @@ rm -rf $REPACK/ota/system/etc/recovery-resource.dat
 # Fix LCD Density for CM11MOD
 DEVICELCD=`sed -n -e'/ro\.sf\.lcd_density/s/^.*=//p' $OUT/system/build.prop`
 if [ "$DEVICELCD" = "240" ]; then
-    sed -i '$a persist.sys.lcd_density=182' $OUT/system/build.prop
+    sed -i '$a persist.sf.lcd_density=240' $OUT/system/build.prop
 elif [ "$DEVICELCD" = "320" ]; then
-    sed -i '$a persist.sys.lcd_density=280' $OUT/system/build.prop
+    sed -i '$a persist.sf.lcd_density=320' $OUT/system/build.prop
 elif [ "$DEVICELCD" = "480" ]; then
-    sed -i '$a persist.sys.lcd_density=370' $OUT/system/build.prop
+    sed -i '$a persist.sf.lcd_density=480' $OUT/system/build.prop
 elif [ "$DEVICELCD" = "213" ]; then
-    sed -i '$a persist.sys.lcd_density=182' $OUT/system/build.prop
+    sed -i '$a persist.sf.lcd_density=213' $OUT/system/build.prop
 fi
 cp -f $OUT/system/build.prop $REPACK/ota/system/build.prop
 
