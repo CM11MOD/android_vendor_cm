@@ -605,4 +605,26 @@
     <string name="block_notifications_title">过滤提示</string>
     <string name="block_notifications_summary">管理过滤器和需要忽略的通知</string>
     <string name="no_filters_title">还没有加入任何程序，长按程序名字然后选择加入</string>
+
+    <!-- Profiles -->
+    <string name="profile_menu_delete_title">删除</string>
+    <string name="profile_menu_triggers_title">激活开关</string>
+
+    <string name="profile_action_none">没有动作</string>
+    <string name="profile_action_disabled">停用</string>
+    <string name="profile_action_enable">启用</string>
+
+    <string name="profile_tabs_bluetooth">蓝牙</string>
+
+    <string name="profile_setup_setup_triggers_title">步骤 1: 新增激活开关</string>
+    <string name="profile_setup_setup_triggers_title_config">修改激活开关: <xliff:g id="profile_name">%1$s</xliff:g></string>
+
+    <string name="profile_setup_actions_title">步骤 2: 设定动作</string>
+    <string name="profile_setup_actions_title_config">重设动作</string>
+
+    <string name="no_bluetooth_triggers">没有设定任何蓝牙激活开关</string>
+    <string name="no_wifi_triggers">没有设定任何 Wi-Fi 激活开关</string>
+
+    <string name="profile_setup_setup_triggers_description">选择设定情景模式中需要激活的开关</string>
+    <string name="profile_setup_actions_description">选择设定情景模式中自动执行动作</string>
 </resources>

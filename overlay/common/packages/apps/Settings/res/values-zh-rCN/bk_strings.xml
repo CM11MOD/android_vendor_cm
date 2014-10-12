@@ -347,12 +347,15 @@
     <string name="brightness_slider_summary">启用后，可在状态栏上滑动改变屏幕亮度. 注意: 启用自动亮度时这设置将无效</string>
 
     <!-- Density Changer -->
-    <string name="custom_density_title">自定义屏幕分辨率</string>
-    <string name="set_custom_density_title">自定分辨率</string>
-    <string name="set_custom_density_set">设置</string>
-    <string name="current_density">"当前数值: "</string>
-    <string name="new_density">"新数值: "</string>
-    <string name="density_change_warning">注意: 改变分辨率会关闭所有程序!</string>
+    <string name="lcd_density_title">自定义屏幕分辨率</string>
+    <string name="custom_density_title">1.自定分辨率</string>
+    <string name="custom_density_summary">自定屏幕像素密度 (输入"0"重置像素密度为默认值, 设置后重启机器生效)</string>
+    <string name="current_density">"当前像素密度: "</string>
+    <string name="clear_market_data_title">2. 清除所有相关市场数据</string>
+    <string name="clear_market_data_summary">如果Play商店出现了兼容性问题，一定要回到这里，并重复以上步骤</string>
+    <string name="clear_market_data_cleared">数据清除</string>
+    <string name="clear_market_data_donot_cleared">"不能打开Play商店！如果安装了，请手动从上管理系统打开"</string>
+    <string name="reboot_title">3. 点我重启!</string>
 
     <!-- LCD Density
     <string name="dpi">DPI</string>
@@ -1707,4 +1710,12 @@ PA版本是全屏助手，简洁美观的方式在全屏模式中提供基本按
     <!-- Statusbar Carrier Logo -->
     <string name="statusbar_carrier_logo_title">状态栏运营商标志</string>
     <string name="statusbar_carrier_logo_summary">依据运营商在状态栏显示标志</string>
+
+    <!-- Force expand notifications -->
+    <string name="notification_force_expand_title">永远展开通知栏</string>
+    <string name="notification_force_expand_summary">强制展开通知栏内容</string>
+
+    <!-- Enable power menu -->
+    <string name="lockscreen_enable_power_menu_title">允许于锁屏显示</string>
+    <string name="lockscreen_enable_power_menu_summary">于锁屏中显示电源键菜单</string>
 </resources>
