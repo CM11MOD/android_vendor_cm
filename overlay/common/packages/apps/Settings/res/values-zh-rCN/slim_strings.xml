@@ -159,6 +159,7 @@
     <string name="safe_headset_volume_title">安全耳机音量</string>
     <string name="safe_headset_volume_summary">耳机第一次插入时减少音量</string>
     <string name="safe_headset_volume_warning_dialog_text">长期配戴耳机并使用高音量会损害您的听觉，请慬慎考虑是否取消此设置.</string>
+    <string name="safe_headset_volume_restore_title">插入耳机时自动返回安全音量水平</string>
 
     <!-- Display : Animation options -->
     <string name="display_category_animation_options_title">动画选项</string>
@@ -770,6 +771,7 @@
     <string name="title_tile_weather">天气</string>
     <string name="title_tile_compass">指南针</string>
     <string name="title_tile_appcirclebar">转盘引导捷径</string>
+    <string name="title_tile_gesture">手势动作面板</string>
     <string name="dynamic_tile_ime_switcher">输入法切换</string>
     <string name="dynamic_tile_usb_tether">USB网络分享</string>
     <string name="dynamic_tile_alarm">闹钟</string>

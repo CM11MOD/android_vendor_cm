@@ -39,6 +39,7 @@
     <string name="category_style_title">风格</string>
     <string name="category_ui_title">使用者界面</string>
     <string name="category_wake_options">唤醒设定</string>
+    <string name="category_advancetools_title">进阶工具</string>
 
     <!-- Active Display -->
     <string name="ad_settings_title">锁屏动态通知</string>
@@ -1718,4 +1719,17 @@ PA版本是全屏助手，简洁美观的方式在全屏模式中提供基本按
     <!-- Enable power menu -->
     <string name="lockscreen_enable_power_menu_title">允许于锁屏显示</string>
     <string name="lockscreen_enable_power_menu_summary">于锁屏中显示电源键菜单</string>
+
+    <string name="enable_quickboot_title">快速启动</string>
+    <string name="enable_quickboot_summary">装置进入快速启动取代正常关机.</string>
+
+    <string name="phone_service_state">语音: <xliff:g id="voice_state">%1$s</xliff:g>, 数据: <xliff:g id="data_state">%2$s</xliff:g></string>
+
+    <!-- Button backlight mode -->
+    <string name="button_backlight_mode">按键背光灯</string>
+    <string name="button_backlight_auto">自动</string>
+    <string name="button_backlight_off">关闭</string>
+    <string name="button_backlight_on">启用</string>
+    <string name="button_backlight_force_off">强制关闭</string>
+    <string name="button_backlight_force_on">强制启用</string>
 </resources>

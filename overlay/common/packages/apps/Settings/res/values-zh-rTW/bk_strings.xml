@@ -43,6 +43,7 @@
     <string name="category_style_title">風格</string>
     <string name="category_ui_title">使用者界面</string>
     <string name="category_wake_options">喚醒設定</string>
+    <string name="category_advancetools_title">進階工具</string>
 
     <!-- Active Display -->
     <string name="ad_settings_title">鎖定畫面動態通知</string>
@@ -254,7 +255,7 @@
 
     <!-- Status Bar Activity Indicators -->
     <string name="show_activity_indicators_on_status_bar_title">網絡活動標誌</string>
-    <string name="show_activity_indicators_on_status_bar_summary">狀態欄網絡活動標誌</string>
+    <string name="show_activity_indicators_on_status_bar_summary">狀態列網絡活動標誌</string>
 
     <!--<string name="status_bar_network_title">網絡速度</string>
     <string name="status_bar_show_network_stats_title">顯示速度</string>
@@ -280,7 +281,7 @@
 
     <!-- show carrier label and custom -->
     <string name="show_status_bar_carrier_title">運營商名稱</string>
-    <string name="show_status_bar_carrier_summary">在狀態欄顯示運營商名稱</string>
+    <string name="show_status_bar_carrier_summary">在狀態列顯示運營商名稱</string>
     <string name="custom_carrier_label_title">自定義運營商名稱</string>
     <string name="custom_carrier_label_explain">請輸入新的運營商名稱，留空為恢復默認運營商名稱。</string>
     <string name="custom_carrier_label_notset">當前沒有設置運營商名稱</string>
@@ -350,8 +351,8 @@
     <string name="battery_around_lockscreen_ring">解鎖環電量</string>
 
     <!-- Status bar brightness slider -->
-    <string name="brightness_slider_title">狀態欄亮度調節</string>
-    <string name="brightness_slider_summary">啟用後，可在狀態欄上滑動改變屏幕亮度. 注意: 啟用自動亮度時這設置將無效</string>
+    <string name="brightness_slider_title">狀態列亮度調節</string>
+    <string name="brightness_slider_summary">啟用後，可在狀態列上滑動改變屏幕亮度. 注意: 啟用自動亮度時這設置將無效</string>
 
     <!-- Density Changer -->
     <string name="lcd_density_title">自定義屏幕分辨率</string>
@@ -424,7 +425,7 @@
     <string name="wakelock_blocker_warning">禁用 wakelocks 可能會導致系統不穩定或數據損失等問題.</string>
 
     <!--Expanded Desktop State-->
-    <string name="expanded_desktop_style">全屏幕式狀態欄</string>
+    <string name="expanded_desktop_style">全屏幕式狀態列</string>
     <string name="expanded_desktop_status_bar">可見</string>
     <string name="expanded_desktop_no_status_bar">隱藏</string>
 
@@ -526,7 +527,7 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="pie_select_title">選擇顏色</string>
     <string name="pie_outlines_title">框線顏色</string>
     <string name="pie_status_clock_title">時鐘顏色</string>
-    <string name="pie_status_title">狀態欄顏色</string>
+    <string name="pie_status_title">狀態列顏色</string>
     <string name="pie_chevron_left_title">左外環顏色</string>
     <string name="pie_chevron_right_title">右外環顏色</string>
     <string name="all_color">自設定顏色</string>
@@ -600,7 +601,7 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
 
     <!-- Statusbar Double Tap to Sleep -->
     <string name="double_tap_sleep_gesture_title">雙擊休眠</string>
-    <string name="double_tap_sleep_gesture_summary">雙擊狀態欄令裝置關屏休眠</string>
+    <string name="double_tap_sleep_gesture_summary">雙擊狀態列令裝置關屏休眠</string>
 
     <!-- Lockscreen Notifications -->
     <!-- Categories -->
@@ -692,7 +693,7 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="weather_refresh_interval_minutes">" 分鐘"</string>
     <string name="weather_use_celcius">公制單位（攝氏）</string>
     <string name="weather_use_celcius_summary">啟用該選項將會使天氣溫度以攝氏度表示，風速以 km/h 表示.</string>
-    <string name="weather_statusbar_style">狀態欄天氣風格</string>
+    <string name="weather_statusbar_style">狀態列天氣風格</string>
     <string name="title_weather_longclick">長按天氣欄動作</string>
     <string name="title_weather_shortclick">點擊天氣欄動作</string>
     <string name="update">刷新天氣欄</string>
@@ -795,7 +796,7 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="edge_swipe_move_summary">設定動作區域後禁止該跟當前程序有任何互動</string>
     <string name="edge_swipe_none">沒有動作</string>
     <string name="edge_swipe_expand">展開通知欄</string>
-    <string name="edge_swipe_hide">展開狀態欄</string>
+    <string name="edge_swipe_hide">展開狀態列</string>
     <string name="edge_swipe_recents">打開最近任務視窗</string>
     <string name="edge_swipe_expand_qs">展開快捷開關</string>
     <string name="edge_swipe_back">返回鍵</string>
@@ -824,7 +825,7 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="battery_bar_animate_title">充電動畫</string>
     <string name="battery_bar_animate_summary">使用充電動畫可能帶來不良影响，請小心使用.</string>
     <string name="battery_bar_pos1">隱藏</string>
-    <string name="battery_bar_pos2">狀態欄</string>
+    <string name="battery_bar_pos2">狀態列</string>
     <string name="battery_bar_pos3">導航欄上方</string>
     <string name="battery_bar_pos4">導航欄下方</string>
     <string name="battery_bar_regular">一般</string>
@@ -899,7 +900,7 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
 
     <string name="pie_trigger">觸發區域設定</string>
     <string name="pie_trigger_note_title">注意事項</string>
-    <string name="pie_trigger_note_summary">為避色跟狀態欄及導航欄互相干擾, 觸發區域會根據重叠的邊緣範圍自動調整</string>
+    <string name="pie_trigger_note_summary">為避色跟狀態列及導航欄互相干擾, 觸發區域會根據重叠的邊緣範圍自動調整</string>
     <string name="pie_disable_ime_triggers_title">使用鍵盤時關閉或調節觸發區域</string>
     <string name="pie_disable_ime_triggers_summary">使用軟鍵盤時,自動關閉或調節鍵盤位置的觸發區域</string>
     <string name="pie_background_color_title">背景顏色</string>
@@ -917,8 +918,8 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="pie_show_snap_summary">顯示捕捉點以便自由拖動轉換</string>
     <string name="pie_show_text_title">PIE顯示狀態信息面板</string>
     <string name="pie_show_text_summary">顯示訊號,日期及時間狀態</string>
-    <string name="pie_disable_statusbar_info_title">隱藏狀態欄重複信息內容</string>
-    <string name="pie_disable_statusbar_info_summary">隱藏重複的狀態欄信息:時間,電量</string>
+    <string name="pie_disable_statusbar_info_title">隱藏狀態列重複信息內容</string>
+    <string name="pie_disable_statusbar_info_summary">隱藏重複的狀態列信息:時間,電量</string>
     <string name="pie_show_background_title">顯示背景</string>
     <string name="pie_show_background_summary">顯示PIE按鍵背景</string>
     <string name="menu_pie_style_reset">重置樣式</string>
@@ -1065,7 +1066,7 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
 
     <!-- EdgeGesture service -->
     <string name="edge_gesture_service_title">阻斷觸控手勢事件</string>
-    <string name="edge_gesture_service_summary">阻斷發送導航欄及狀態欄觸控手勢到其他程序中</string>
+    <string name="edge_gesture_service_summary">阻斷發送導航欄及狀態列觸控手勢到其他程序中</string>
 
     <string name="disable_fc_notifications_title">關閉系統強制關閉通知</string>
     <string name="disable_fc_notifications_summary">遇上強制關閉時,不顯示任何通知. 注意!啟用這選項在系統崩潰時可能做成系統鎖死.</string>
@@ -1124,7 +1125,7 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <!-- Expanded Desktop Style -->
     <string name="expanded_desktop_style">全屏模式</string>
     <string name="expanded_desktop_system_bars_visibility">不套用全屏模式到鎖定畫面中</string>
-    <string name="expanded_desktop_system_bars_visibility_summary">全屏模式執行時，鎖定畫面依然顯示狀態欄及導航欄</string>
+    <string name="expanded_desktop_system_bars_visibility_summary">全屏模式執行時，鎖定畫面依然顯示狀態列及導航欄</string>
 
     <!-- Touch wake Control function-->
     <string name="kernel_does_not_support">內核不支援此功能</string>
@@ -1500,7 +1501,7 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="hover_exclude_non_clearable_title">排除無法取消通知提示</string>
     <string name="hover_exclude_non_clearable_summary">不顯示無法取消的通知提示項目</string>
     <string name="hover_require_fullscreen_mode_title">需要全屏模式環境</string>
-    <string name="hover_require_fullscreen_mode_summary">只有狀態欄不存在時生效</string>
+    <string name="hover_require_fullscreen_mode_summary">只有狀態列不存在時生效</string>
     <!-- Hover long fade out delay -->
     <string name="hover_long_fadeout_title">Hover 通知逾時設定</string>
     <string name="hover_long_fadeout_3seconds">3 秒</string>
@@ -1568,8 +1569,8 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="shortcut_settings_title">捷徑</string>
     <string name="animation_touchslop_title">滾動啟動閾值</string>
     <string name="animation_touchslop_summary">改變滾動反應</string>
-    <string name="weather_icon_title">隱藏狀態欄圖示</string>
-    <string name="weather_icon_summary">隱藏狀態欄天氣圖示.</string>
+    <string name="weather_icon_title">隱藏狀態列圖示</string>
+    <string name="weather_icon_summary">隱藏狀態列天氣圖示.</string>
 
     <!-- NavBar IME Cursor Longpress Action-->
     <string name="ime_cursor_longpress_action_title">導航欄游標長按動作</string>
@@ -1628,16 +1629,16 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="status_bar_notif_system_icon_color_title">圖示</string>
     <string name="status_bar_notif_text_color_title">通知欄文字</string>
     <string name="status_bar_notif_count_text_color_title">通知計數數字</string>
-    <string name="status_bar_notif_system_icons_title">狀態欄通知及系統圖示</string>
-    <string name="status_bar_notif_system_icons_title_phone">狀態欄通知及系統圖示</string>
-    <string name="status_bar_notif_system_icons_summary">設定狀態欄通知及系統圖示風格</string>
+    <string name="status_bar_notif_system_icons_title">狀態列通知及系統圖示</string>
+    <string name="status_bar_notif_system_icons_title_phone">狀態列通知及系統圖示</string>
+    <string name="status_bar_notif_system_icons_summary">設定狀態列通知及系統圖示風格</string>
     <string name="status_bar_colorize_notif_icons_title">著色</string>
     <string name="status_bar_colorize_notif_icons_title_phone">通知圖示著色</string>
-    <string name="status_bar_colorize_notif_icons_summary">為狀態欄上的通知提示圖示著色</string>
+    <string name="status_bar_colorize_notif_icons_summary">為狀態列上的通知提示圖示著色</string>
 
-    <string name="status_bar_summary">狀態欄風格</string>
-    <string name="status_bar_expanded_title">狀態欄</string>
-    <string name="status_bar_expanded_summary">設定狀態欄風格</string>
+    <string name="status_bar_summary">狀態列風格</string>
+    <string name="status_bar_expanded_title">狀態列</string>
+    <string name="status_bar_expanded_summary">設定狀態列風格</string>
     <string name="navigation_bar_title">導航欄</string>
     <string name="navigation_bar_summary">設定導航欄風格</string>
     <string name="bg_title">背景</string>
@@ -1697,8 +1698,8 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="smart_cover_sleep_summary">合上機蓋時進入休眠狀態</string>
 
     <!-- Statusbar Carrier Logo -->
-    <string name="statusbar_carrier_logo_title">狀態欄運營商標誌</string>
-    <string name="statusbar_carrier_logo_summary">依據運營商在狀態欄顯示標誌</string>
+    <string name="statusbar_carrier_logo_title">狀態列運營商標誌</string>
+    <string name="statusbar_carrier_logo_summary">依據運營商在狀態列顯示標誌</string>
 
     <!-- Force expand notifications -->
     <string name="notification_force_expand_title">永遠展開通知欄</string>
@@ -1707,4 +1708,17 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <!-- Enable power menu -->
     <string name="lockscreen_enable_power_menu_title">允許於鎖屏顯示</string>
     <string name="lockscreen_enable_power_menu_summary">於鎖屏中顯示電源鍵菜單</string>
+
+    <string name="enable_quickboot_title">快速啟動</string>
+    <string name="enable_quickboot_summary">裝置進入快速啟動取代正常關機.</string>
+
+    <string name="phone_service_state">語音: <xliff:g id="voice_state">%1$s</xliff:g>, 數據: <xliff:g id="data_state">%2$s</xliff:g></string>
+
+    <!-- Button backlight mode -->
+    <string name="button_backlight_mode">按鍵背光燈</string>
+    <string name="button_backlight_auto">自動</string>
+    <string name="button_backlight_off">關閉</string>
+    <string name="button_backlight_on">啟用</string>
+    <string name="button_backlight_force_off">強制關閉</string>
+    <string name="button_backlight_force_on">強制啟用</string>
 </resources>

@@ -102,7 +102,7 @@
     <string name="wifi_menu_forget_all">清除所有網路設定</string>
 
     <!-- Status bar -->
-    <string name="status_bar_title">狀態欄</string>
+    <string name="status_bar_title">狀態列</string>
     <string name="status_bar_style_title">風格</string>
 
 
@@ -160,6 +160,7 @@
     <string name="safe_headset_volume_title">安全耳機音量</string>
     <string name="safe_headset_volume_summary">耳機第一次插入時減少音量</string>
     <string name="safe_headset_volume_warning_dialog_text">長期配戴耳機並使用高音量會損害您的聽覺，請慬慎考慮是否取消此設定.</string>
+    <string name="safe_headset_volume_restore_title">插入耳機時自動返回安全音量水平</string>
 
     <!-- Display : Animation options -->
     <string name="display_category_animation_options_title">動畫選項</string>
@@ -769,6 +770,7 @@
     <string name="title_tile_weather">天氣</string>
     <string name="title_tile_compass">指南針</string>
     <string name="title_tile_appcirclebar">轉盤啟動捷徑</string>
+    <string name="title_tile_gesture">手勢動作面板</string>
     <string name="dynamic_tile_ime_switcher">輸入法切換</string>
     <string name="dynamic_tile_usb_tether">USB網絡分享</string>
     <string name="dynamic_tile_alarm">鬧鐘</string>
@@ -809,7 +811,7 @@
 
     <!-- QuickSettings: Quick Pulldown -->
     <string name="title_quick_pulldown">快速下拉</string>
-    <string name="summary_quick_pulldown">從狀態欄%1$s下拉可以快速開啟快速設定面板</string>
+    <string name="summary_quick_pulldown">從狀態列%1$s下拉可以快速開啟快速設定面板</string>
     <string name="quick_pulldown_off">關閉</string>
     <string name="quick_pulldown_left">左邊</string>
     <string name="quick_pulldown_right">右邊</string>
