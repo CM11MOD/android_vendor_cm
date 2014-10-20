@@ -1732,4 +1732,22 @@ PA版本是全屏助手，简洁美观的方式在全屏模式中提供基本按
     <string name="button_backlight_on">启用</string>
     <string name="button_backlight_force_off">强制关闭</string>
     <string name="button_backlight_force_on">强制启用</string>
+
+    <!-- Disable forced navbar when keyboard is showing during immersive mode -->
+    <string name="disable_forced_navbar_title">输入法中禁用导航栏</string>
+    <string name="disable_forced_navbar_summary">全屏模式执行时,禁止导航栏滑出</string>
+
+    <!-- Immersive mode gestures -->
+    <string name="disable_system_gestures_title">全屏模式系统栏滑出手势</string>
+    <string name="disable_system_gestures_off">启用 (默认)</string>
+    <string name="disable_system_gestures_navbar">只禁用导航栏侧手势</string>
+    <string name="disable_system_gestures_statusbar">只禁用状态栏手势</string>
+
+    <!-- Status bar: alarm icon preference -->
+    <string name="alarm_icon_preference_title">显示闹钟图示</string>
+    <string name="alarm_icon_preference_summary">从系统图示中移除闹钟图示</string>
+
+    <!-- ticker preference -->
+    <string name="ticker_disabled_title">禁用状态栏滚动通知信息文字</string>
+    <string name="ticker_disabled_summary">禁止状态栏中显示新的通知滚动信息</string>
 </resources>
