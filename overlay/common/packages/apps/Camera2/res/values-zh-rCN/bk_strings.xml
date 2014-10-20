@@ -120,4 +120,108 @@
     <string name="camera_menu_effects_label">效果</string>
     <string name="camera_menu_asd_label">智能场景</string>
 
+    <string name="pref_camera_picture_format_title">存储格式</string>
+    <string name="pref_jpegquality_title">品质</string>
+    <string name="pref_jpegquality_entry_1">Jpeg 65% (正常)</string>
+    <string name="pref_jpegquality_entry_2">Jpeg 75% (良好)</string>
+    <string name="pref_jpegquality_entry_3">Jpeg 85% (最佳)</string>
+    <string name="pref_camera_sharpness_title">锐利</string>
+    <string name="pref_camera_contrast_title">对比</string>
+    <string name="pref_camera_saturation_title">饱和</string>
+
+    <!-- Color effects -->
+    <string name="pref_coloreffect_entry_washed">水洗</string>
+    <string name="pref_coloreffect_entry_vintage_warm">复古偏暖</string>
+    <string name="pref_coloreffect_entry_vintage_cold">复古偏冷</string>
+    <string name="pref_coloreffect_entry_point_blue">点蓝</string>
+    <string name="pref_coloreffect_entry_point_green">点绿</string>
+    <string name="pref_coloreffect_entry_point_red_yellow">点红黄</string>
+    <string name="pref_coloreffect_entry_cartoonize">动画化</string>
+
+    <!-- The label for Smart capture. -->
+    <string name="pref_smart_capture_label">感应器快门</string>
+    <string name="pref_smart_capture_title">感应器快门</string>
+
+    <!-- The label for TrueView -->
+    <string name="pref_true_view_label">实感观景器</string>
+
+    <!-- Settings screen, Multiple levels entries -->
+    <string name="pref_camera_sharpness_entry_level0">0</string>
+    <string name="pref_camera_sharpness_entry_level1">1</string>
+    <string name="pref_camera_sharpness_entry_level2">2(默认)</string>
+    <string name="pref_camera_sharpness_entry_level3">3</string>
+    <string name="pref_camera_sharpness_entry_level4">4</string>
+    <string name="pref_camera_sharpness_entry_level5">5</string>
+    <string name="pref_camera_sharpness_entry_level6">6</string>
+
+    <!-- Settings screen, Multiple levels entries -->
+    <string name="pref_camera_contrast_entry_level0">0</string>
+    <string name="pref_camera_contrast_entry_level1">1</string>
+    <string name="pref_camera_contrast_entry_level2">2</string>
+    <string name="pref_camera_contrast_entry_level3">3</string>
+    <string name="pref_camera_contrast_entry_level4">4</string>
+    <string name="pref_camera_contrast_entry_level5">5(默认)</string>
+    <string name="pref_camera_contrast_entry_level6">6</string>
+    <string name="pref_camera_contrast_entry_level7">7</string>
+    <string name="pref_camera_contrast_entry_level8">8</string>
+    <string name="pref_camera_contrast_entry_level9">9</string>
+    <string name="pref_camera_contrast_entry_level10">10</string>
+
+    <!-- Settings screen, Multiple levels entries -->
+    <string name="pref_camera_saturation_entry_level0">0</string>
+    <string name="pref_camera_saturation_entry_level1">1</string>
+    <string name="pref_camera_saturation_entry_level2">2</string>
+    <string name="pref_camera_saturation_entry_level3">3</string>
+    <string name="pref_camera_saturation_entry_level4">4</string>
+    <string name="pref_camera_saturation_entry_level5">5(默认)</string>
+    <string name="pref_camera_saturation_entry_level6">6</string>
+    <string name="pref_camera_saturation_entry_level7">7</string>
+    <string name="pref_camera_saturation_entry_level8">8</string>
+    <string name="pref_camera_saturation_entry_level9">9</string>
+    <string name="pref_camera_saturation_entry_level10">10</string>
+
+    <!-- Settings screen, Anti Banding title -->
+    <string name="pref_camera_antibanding_title">抗显示器纽带</string>
+    <string name="pref_camera_antibanding_entry_0">停用</string>
+    <string name="pref_camera_antibanding_entry_3">自动</string>
+
+    <string name="pref_volume_key_mode_label">音量键</string>
+    <string name="pref_volume_key_mode_shutter">快门</string>
+    <string name="pref_volume_key_mode_focus_shutter">快门 / 对焦</string>
+    <string name="pref_volume_key_mode_shutter_focus">对焦 / 快门</string>
+    <string name="pref_volume_key_mode_zoom">放大</string>
+    <string name="pref_camera_facedetection_title">脸部识别</string>
+    <string name="pref_power_key_shutter_label">电源键快门</string>
+    <string name="pref_camera_storage_title">储存位置</string>
+
+    <!-- Settings screen, Select auto exposure title -->
+    <string name="pref_camera_autoexposure_title">选择自动曝光模式</string>
+    <string name="pref_camera_autoexposure_entry_frameaverage">全幅平均</string>
+    <string name="pref_camera_autoexposure_entry_centerweighted">中心</string>
+    <string name="pref_camera_autoexposure_entry_spotmetering">点测光</string>
+
+    <!-- Settings screen, Select Histogram title -->
+    <string name="pref_camera_histogram_title">柱状图</string>
+
+    <!-- Settings screen, Histogram radio button choices -->
+    <string name="pref_camera_histogram_entry_enable">启用</string>
+    <string name="pref_camera_histogram_entry_disable">停用</string>
+
+    <!-- Denoise Settings screen, setting title text -->
+    <string name="pref_camera_denoise_title">降噪</string>
+    <string name="pref_camera_denoise_entry_off">停用</string>
+    <string name="pref_camera_denoise_entry_on">启用</string>
+
+    <!-- Settings screen, AE bracketing and HDR location dialog choices -->
+    <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">AE-支架</string>
+    <string name="pref_camera_ae_bracket_hdr_entry_on">启用</string>
+    <string name="pref_camera_ae_bracket_hdr_entry_off">停用</string>
+    <string name="err_app_unsupport_ae_bracket_code">没有连接软件支援的支架</string>
+
+     <!-- Settings screen, Selectable zone af title -->
+     <string name="pref_camera_selectablezoneaf_title">自选区域自动对焦</string>
+     <string name="pref_camera_selectablezoneaf_entry_auto">自动</string>
+     <string name="pref_camera_selectablezoneaf_entry_spotmetering">点测</string>
+     <string name="pref_camera_selectablezoneaf_entry_centerweighted">中心</string>
+     <string name="pref_camera_selectablezoneaf_entry_frameaverage">全幅平均</string>
 </resources>

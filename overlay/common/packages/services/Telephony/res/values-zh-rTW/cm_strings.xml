@@ -178,4 +178,7 @@ value (do nothing = 0, mute = 1, dismiss = 2) -->
     <string name="headsup_callui_hover">Hover通知</string>
     <string name="headsup_callui_headsup">浮動通知</string>
     <string name="headsup_callui_headsup_expanded">浮動通知 (展開)</string>
+
+    <!-- Call recording format -->
+    <string name="call_recording_format">通話錄音檔案格式</string>
 </resources>
