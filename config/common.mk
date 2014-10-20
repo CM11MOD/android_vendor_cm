@@ -315,7 +315,7 @@ ifdef CM_BUILDTYPE
 else
     # If CM_BUILDTYPE is not defined, set to UNOFFICIAL
     CM_BUILDTYPE := BURST-KANG
-    CM_EXTRAVERSION := _RELEASE_3.0.4.1
+    CM_EXTRAVERSION := _RELEASE_3.0.5
 endif
 
 ifeq ($(CM_BUILDTYPE), RELEASE)
