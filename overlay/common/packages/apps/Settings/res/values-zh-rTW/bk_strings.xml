@@ -425,9 +425,8 @@
     <string name="wakelock_blocker_warning">禁用 wakelocks 可能會導致系統不穩定或數據損失等問題.</string>
 
     <!--Expanded Desktop State-->
-    <string name="expanded_desktop_style">全屏幕式狀態列</string>
-    <string name="expanded_desktop_status_bar">可見</string>
-    <string name="expanded_desktop_no_status_bar">隱藏</string>
+    <string name="expanded_desktop_status_bar">顯示狀態列</string>
+    <string name="expanded_desktop_no_status_bar">隱藏狀態列</string>
 
     <string name="more_device_controls_title">狀置設定</string>
     <string name="more_device_settings_title">狀置設定</string>
@@ -1123,7 +1122,7 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="recents_style_slim">Slim 風格</string>
 
     <!-- Expanded Desktop Style -->
-    <string name="expanded_desktop_style">全屏模式</string>
+    <string name="expanded_desktop_style">全屏模式風格</string>
     <string name="expanded_desktop_system_bars_visibility">不套用全屏模式到鎖定畫面中</string>
     <string name="expanded_desktop_system_bars_visibility_summary">全屏模式執行時，鎖定畫面依然顯示狀態列及導航欄</string>
 
@@ -1532,31 +1531,39 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="recents_swipe_summary">在程序截圖向左方或下方滑動後,使用懸浮視窗方式打開所屬程式.</string>
 
     <!-- Storage -->
-    <string name="usb_eject">卸載 USB 儲存裝置</string>
-    <string name="usb_eject_summary">請先卸載 USB 儲存裝置，才能將其安全移除</string>
-    <string name="usb_insert_summary">插入 USB 儲存裝置</string>
-    <string name="usb_mount">裝載 USB 儲存裝置</string>
-    <string name="usb_format">清除 USB 儲存裝置</string>
-    <string name="usb_format_summary">清除 USB 儲存裝置上的所有資料，例如音樂和相片</string>
-    <string name="dlg_confirm_usb_unmount_title">卸載 USB 儲存裝置？</string>
-    <string name="dlg_confirm_usb_unmount_text">如果您不卸載 USB 儲存裝置，一些使用中的應用程式將會停止甚至無法使用直到您重新掛載 USB 儲存裝置。</string>
-    <string name="dlg_error_usb_unmount_text">無法卸載 USB 儲存裝置。請稍後再試。</string>
+    <string name="usb_sd_eject">卸載 USB 儲存裝置</string>
+    <string name="usb_sd_eject_summary">請先卸載 USB 儲存裝置，才能將其安全移除</string>
+    <string name="usb_sd_insert_summary">插入 USB 儲存裝置</string>
+    <string name="usb_sd_mount">裝載 USB 儲存裝置</string>
+    <string name="usb_sd_format">清除 USB 儲存裝置</string>
+    <string name="usb_sd_format_summary">清除 USB 儲存裝置上的所有資料，例如音樂和相片</string>
+    <string name="usb_dlg_confirm_usb_unmount_title">卸載 USB 儲存裝置？</string>
+    <string name="usb_dlg_confirm_usb_unmount_text">如果您不卸載 USB 儲存裝置，一些使用中的應用程式將會停止甚至無法使用直到您重新掛載 USB 儲存裝置。</string>
+    <string name="usb_dlg_error_usb_unmount_text">無法卸載 USB 儲存裝置。請稍後再試。</string>
     <string name="usb_unmount_inform_text"> USB 儲存裝置將會被卸載。</string>
-    <string name="usb_ejecting_title">正在卸載 USB 儲存裝置</string>
-    <string name="usb_ejecting_summary"> USB 儲存裝置卸載進行中</string>
+    <string name="usb_sd_ejecting_title">正在卸載 USB 儲存裝置</string>
+    <string name="usb_sd_ejecting_summary"> USB 儲存裝置卸載進行中</string>
     <string name="usb_media_format_title">清除 USB 儲存裝置</string>
     <string name="usb_media_format_summary">清除 USB 儲存裝置中的所有資料</string>
     <string name="usb_media_format_desc">清除所有 USB 儲存裝置嗎？您將丟失<b>所有</b> 已儲存的資料 ！</string>
     <string name="usb_media_format_button_text">清除 USB 儲存裝置</string>
     <string name="usb_media_format_final_desc">清除 USB 儲存裝置時，是否刪除其中儲存的所有檔案？這項動作無法復原！</string>
     <string name="usb_media_format_gesture_explanation">請畫出解鎖圖形，確認您要清除 USB 儲存裝置中的資料。</string>
-    <string name="sd_eject">卸載 SD 卡</string>
-    <string name="sd_eject_summary">請先卸載 SD 卡，才能將其安全移除</string>
-    <string name="sd_insert_summary">插入要掛載的 SD 卡</string>
-    <string name="sd_mount">掛載 SD 卡</string>
-    <string name="sd_format">清除 SD 卡</string>
-    <string name="sd_format_summary">清除 SD 卡中的所有資料，例如音樂和相片</string>
-    <string name="dlg_confirm_sd_unmount_title">卸載 SD 卡？</string>
+    <string name="sd_sd_eject">卸載 SD 卡</string>
+    <string name="sd_sd_eject_summary">請先卸載 SD 卡，才能將其安全移除</string>
+    <string name="sd_sd_insert_summary">插入要掛載的 SD 卡</string>
+    <string name="sd_sd_mount">掛載 SD 卡</string>
+    <string name="sd_sd_format">清除 SD 卡</string>
+    <string name="sd_sd_format_summary">清除 SD 卡中的所有資料，例如音樂和相片</string>
+    <string name="sd_dlg_confirm_sd_unmount_title">卸載 SD 卡？</string>
+    <string name="sd_dlg_confirm_unmount_text">如果卸載 SD 卡,部份軟件會無法使用,直到重新掛載.</string>
+    <string name="sd_dlg_error_unmount_text">無法卸載,請稍後再試.</string>
+    <string name="sd_unmount_inform_text">SD 卡將會卸載.</string>
+    <string name="sd_sd_ejecting_title">SD 卡卸載中</string>
+    <string name="sd_sd_ejecting_summary">SD 卡 卸載進行中</string>
+    <string name="sd_media_format_title">刪除 SD 卡</string>
+    <string name="sd_media_format_desc">確定刪除 SD 卡? 你會失去 <b>所有</b> SD 卡上的數據!</string>
+    <string name="sd_media_format_button_text">刪除 SD 卡</string>
 
     <!-- AICP weather panel -->
     <string name="weather_settings_title">AICP天氣信息欄</string>
