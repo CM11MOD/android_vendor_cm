@@ -147,6 +147,10 @@ PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/common/etc/persist.conf:system/etc/persist.conf
 
 # SuperSU
+
+PRODUCT_PACKAGES += \
+    SuperSU \
+
 PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/SuperSu/bin/su:system/bin/.ext/.su \
     vendor/cm/prebuilt/SuperSu/bin/supolicy:/system/xbin/supolicy \
