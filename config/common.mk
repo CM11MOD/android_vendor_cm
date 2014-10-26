@@ -146,16 +146,6 @@ PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/common/bin/persist.sh:install/bin/persist.sh \
     vendor/cm/prebuilt/common/etc/persist.conf:system/etc/persist.conf
 
-# SuperSU 1.91
-PRODUCT_COPY_FILES += \
-    vendor/cm/prebuilt/SuperSu/su:system/xbin/su \
-    vendor/cm/prebuilt/SuperSu/daemonsu:system/xbin/daemonsu \
-    vendor/cm/prebuilt/SuperSu/99SuperSUDaemon:system/etc/init.d/99SuperSUDaemon \
-    vendor/cm/prebuilt/SuperSu/install-recovery.sh:system/etc/install-recovery.sh \
-    vendor/cm/prebuilt/SuperSu/Superuser.apk:system/app/Superuser.apk \
-    vendor/cm/prebuilt/SuperSu/installed_su_daemon:system/etc/.installed_su_daemon \
-    vendor/cm/prebuilt/SuperSu/has_su_daemon:system/etc/.has_su_daemon
-
 # Host files
 PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/common/etc/hosts.alt:system/etc/hosts.alt \
@@ -199,6 +189,14 @@ PRODUCT_PACKAGES += \
     GPSOptimizer \
     PerformanceControl \
     EOSWeather
+
+# SuperSu Flasher
+PRODUCT_COPY_FILES += \
+    vendor/cm/prebuilt/common/bin/supersuflasher.sh:system/bin/supersuflasher.sh
+
+# SuperSU
+PRODUCT_COPY_FILES += \
+    vendor/cm/prebuilt/SuperSU/SuperSU.zip:system/etc/supersu.zip
 
 # CM Hardware Abstraction Framework
 PRODUCT_PACKAGES += \
