@@ -1693,8 +1693,6 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="gestures_rename_label">手勢命名</string>
     <string name="gestures_error_loading">無法從 %s讀取及載入手勢檔.請確認裝置是否擁有足夠的儲存空間.</string>
 
-    <string name="heads_up_bg_color_title">背景顏色</string>
-
     <!-- Lockscreen Lid Settings -->
     <string name="smart_cover">智能機蓋</string>
     <string name="smart_cover_title">使用智能機蓋</string>

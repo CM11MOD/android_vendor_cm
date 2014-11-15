@@ -1063,6 +1063,8 @@
     <string name="heads_up_disabled_notice">啟動浮動通知允許程序顯示互動式視窗.</string>
     <string name="heads_up_gravity_title">下方顯示</string>
     <string name="heads_up_gravity_summary">在下方顯示浮動通知</string>
+    <string name="heads_up_bg_color_title">背景顏色</string>
+    <string name="heads_up_text_color_title">文字內容顏色</string>
 
     <!-- Device specific settings -->
     <string name="screen_off_gesture_settings_title">關屏手勢</string>
