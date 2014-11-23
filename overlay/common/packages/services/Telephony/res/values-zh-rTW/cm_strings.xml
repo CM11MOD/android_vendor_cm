@@ -184,6 +184,8 @@ value (do nothing = 0, mute = 1, dismiss = 2) -->
 
     <string name="prox_auto_speaker_title">體感轉用揚聲器</string>
     <string name="prox_auto_speaker_summary">當手機從耳邊拿下來自動轉用揚聲器進行通話</string>
+    <string name="prox_auto_speaker_incall_only_title">只在通話中使用揚聲器</string>
+    <string name="prox_auto_speaker_incall_only_summary">只有在通話中距離感應器調用揚聲器</string>
 
     <!-- Noise suppression -->
     <string name="noise_suppression_title">通話抑噪</string>

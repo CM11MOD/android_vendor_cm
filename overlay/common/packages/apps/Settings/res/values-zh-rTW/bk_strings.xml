@@ -1744,4 +1744,11 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <!-- ticker preference -->
     <string name="ticker_disabled_title">禁用狀態欄滾動通知信息文字</string>
     <string name="ticker_disabled_summary">禁止狀態欄中顯示新的通知滾動信息</string>
+
+    <!-- Wifi connection notifications -->
+    <string name="wifi_notify_changed_networks">Wi\u2011Fi 連接通知</string>
+    <string name="notify_changed_networks_default">關閉 (默認)</string>
+    <string name="notify_changed_networks_toast">彈出通知</string>
+    <string name="notify_changed_networks_notification">狀態欄通知</string>
+    <string name="notify_changed_networks_notification_sound">通知+音效</string>
 </resources>
