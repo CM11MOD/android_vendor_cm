@@ -1751,4 +1751,6 @@ PA版本是全屏助手，簡潔美觀的方式在全屏模式中提供基本按
     <string name="notify_changed_networks_toast">彈出通知</string>
     <string name="notify_changed_networks_notification">狀態欄通知</string>
     <string name="notify_changed_networks_notification_sound">通知+音效</string>
+
+    <string name="no_carrier_on_keyguard_title">鎖屏:隱藏營運商名字</string>
 </resources>
